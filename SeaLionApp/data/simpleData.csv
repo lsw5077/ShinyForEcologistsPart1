@@ -1,0 +1,1333 @@
+"","year","sitename","meanPups"
+"1",1961,"Forrester Complex",1096
+"2",1965,"Sugarloaf",3391
+"3",1967,"Sugarloaf",5200
+"4",1968,"Sugarloaf",3000
+"5",1971,"Sugarloaf",3500
+"6",1973,"Forrester Complex",2371
+"7",1975,"Sugarloaf",3500
+"8",1976,"Sugarloaf",3500
+"9",1976,"Seal Rocks",316
+"10",1976,"Outer (Pye)",500
+"11",1978,"Atkins",2750
+"12",1978,"Chernabura",486
+"13",1978,"Chirikof",1573
+"14",1978,"Chowiet",4670
+"15",1978,"Clubbing Rocks",725
+"16",1978,"Lighthouse Rocks",250
+"17",1978,"Outer (Pye)",431
+"18",1978,"Pinnacle Rock",615
+"19",1978,"South Rocks",30
+"20",1978,"Seal Rocks",545
+"21",1978,"Marmot",6140
+"22",1978,"Sugarloaf",5021
+"23",1979,"Atkins",4538
+"24",1979,"Chernabura",646
+"25",1979,"Chirikof",1649
+"26",1979,"Chowiet",5485
+"27",1979,"Clubbing Rocks",1419
+"28",1979,"Forrester Complex",2187
+"29",1979,"Hazy",31
+"30",1979,"Lighthouse Rocks",112
+"31",1979,"Sugarloaf",5123
+"32",1979,"Seal Rocks",491
+"33",1979,"Outer (Pye)",888
+"34",1979,"Pinnacle Rock",2748
+"35",1979,"Attu",642
+"36",1979,"Buldir",1142
+"37",1979,"Marmot",6741
+"38",1982,"Forrester Complex",2120
+"39",1984,"Atkins",2093
+"40",1984,"Chernabura",200
+"41",1984,"Chirikof",1913
+"42",1984,"Chowiet",3207
+"43",1984,"Clubbing Rocks",1394
+"44",1984,"Forrester Complex",2568
+"45",1984,"Pinnacle Rock",2013
+"46",1984,"Sugarloaf",3114
+"47",1984,"Seal Rocks",799
+"48",1984,"Marmot",5751
+"49",1985,"Adugak",844
+"50",1985,"Akun/Billings Head",60
+"51",1985,"Akutan/Cape Morgan",1130
+"52",1985,"Seguam/Saddleridge",2635
+"53",1985,"Yunaska",1026
+"54",1985,"Ayugadak",329
+"55",1985,"Bogoslof/Fire Island",1109
+"56",1985,"Gramp Rock",909
+"57",1985,"Kasatochi/North Point",892
+"58",1985,"Kiska/Lief Cove",882
+"59",1985,"Ogchul",172
+"60",1985,"Tag",703
+"61",1985,"Ulak/Hasgox Point",1236
+"62",1986,"Atkins",1072
+"63",1986,"Chirikof",1476
+"64",1986,"Forrester Complex",1954
+"65",1986,"Outer (Pye)",933
+"66",1986,"Sugarloaf",3077
+"67",1986,"Chernabura",379
+"68",1986,"Chowiet",1731
+"69",1986,"Marmot",4381
+"70",1987,"Marmot",2910
+"71",1988,"Agattu",1218
+"72",1988,"Buldir",460
+"73",1988,"Forrester Complex",2202
+"74",1988,"Kiska/Cape St Stephen",300
+"75",1988,"Marmot",3136
+"76",1989,"Chirikof",709
+"77",1989,"Chowiet",820
+"78",1989,"Forrester Complex",2844
+"79",1989,"Marmot",2199
+"80",1989,"Sugarloaf",2109
+"81",1989,"Agattu",907
+"82",1989,"Buldir",494
+"83",1989,"Hazy",349
+"84",1989,"Outer (Pye)",557
+"85",1989,"Seal Rocks",553
+"86",1994,"Walrus",61
+"87",1973,"Bogoslof/Fire Island",2328
+"88",1979,"Seguam/Saddleridge",2475
+"89",1979,"Yunaska",752
+"90",1981,"Walrus",292
+"91",1982,"Walrus",334
+"92",1985,"Ugamak Complex",1635
+"93",1987,"Walrus",114
+"94",1989,"Bogoslof/Fire Island",358
+"95",1989,"Kiska/Cape St Stephen",258
+"96",1989,"Kiska/Lief Cove",293
+"97",1989,"Seguam/Saddleridge",529
+"98",1990,"Atkins",433
+"99",1990,"Chernabura",197
+"100",1990,"Chirikof",607
+"101",1990,"Outer (Pye)",363
+"102",1990,"Sugarloaf",1638
+"103",1990,"Ugamak Complex",847
+"104",1990,"Hazy",638
+"105",1990,"Adugak",262
+"106",1990,"Akun/Billings Head",63
+"107",1990,"Amchitka/Column Rock",148
+"108",1990,"Amlia/Sviech. Harbor",26
+"109",1990,"Ayugadak",163
+"110",1990,"Bogoslof/Fire Island",461
+"111",1990,"Forrester Complex",2932
+"112",1990,"Gramp Rock",448
+"113",1990,"Kiska/Cape St Stephen",212
+"114",1990,"Kiska/Lief Cove",221
+"115",1990,"Seal Rocks",571
+"116",1990,"Seguam/Saddleridge",684
+"117",1990,"Tag",357
+"118",1990,"Ulak/Hasgox Point",790
+"119",1990,"White Sisters",30
+"120",1990,"Yunaska",230
+"121",1991,"Bogoslof/Fire Island",501
+"122",1991,"Chirikof",656
+"123",1991,"Outer (Pye)",180
+"124",1991,"Seal Rocks",657
+"125",1991,"Akun/Billings Head",64
+"126",1991,"Atkins",485
+"127",1991,"Marmot",1611
+"128",1991,"Pinnacle Rock",794
+"129",1991,"Ugamak Complex",813
+"130",1991,"Forrester Complex",3261
+"131",1991,"Hazy",808
+"132",1991,"White Sisters",95
+"133",1991,"Walrus",63
+"134",1992,"White Sisters",116
+"135",1992,"Akutan/Cape Morgan",558
+"136",1992,"Chernabura",211
+"137",1992,"Chowiet",636
+"138",1992,"Clubbing Rocks",433
+"139",1992,"Sugarloaf",1000
+"140",1993,"Bogoslof/Fire Island",322
+"141",1993,"Akun/Billings Head",51
+"142",1993,"Atkins",419
+"143",1993,"Chirikof",344
+"144",1993,"Marmot",986
+"145",1993,"Pinnacle Rock",773
+"146",1993,"Ugamak Complex",711
+"147",1993,"Hazy",759
+"148",1993,"Outer (Pye)",181
+"149",1993,"Seal Rocks",566
+"150",1993,"White Sisters",115
+"151",1993,"Wooded (Fish)",514
+"152",1994,"Adugak",180
+"153",1994,"Akutan/Cape Morgan",631
+"154",1994,"Marmot",804
+"155",1994,"Ogchul",94
+"156",1994,"Seguam/Saddleridge",444
+"157",1994,"Yunaska",217
+"158",1994,"Atkins",324
+"159",1994,"Chernabura",139
+"160",1994,"Chirikof",325
+"161",1994,"Chowiet",625
+"162",1994,"Forrester Complex",2757
+"163",1994,"Sugarloaf",958
+"164",1994,"Adak",327
+"165",1994,"Akun/Billings Head",69
+"166",1994,"Amchitka/Column Rock",114
+"167",1994,"Ayugadak",142
+"168",1994,"Gramp Rock",425
+"169",1994,"Kasatochi/North Point",215
+"170",1994,"Kiska/Cape St Stephen",120
+"171",1994,"Kiska/Lief Cove",233
+"172",1994,"Tag",234
+"173",1994,"Ugamak Complex",574
+"174",1994,"Ulak/Hasgox Point",638
+"175",1994,"Clubbing Rocks",547
+"176",1994,"Hazy",862
+"177",1994,"Outer (Pye)",119
+"178",1994,"Pinnacle Rock",652
+"179",1994,"Seal Rocks",598
+"180",1994,"White Sisters",151
+"181",1994,"Wooded (Fish)",305
+"182",1995,"Bogoslof/Fire Island",282
+"183",1995,"Forrester Complex",2869
+"184",1996,"Ugamak Complex",706
+"185",1996,"Atkins",366
+"186",1996,"Marmot",632
+"187",1996,"Forrester Complex",2764
+"188",1996,"Hazy",768
+"189",1996,"Seal Rocks",352
+"190",1996,"White Sisters",182
+"191",1996,"Wooded (Fish)",232
+"192",1997,"Agattu/Cape Sabak",379
+"193",1997,"Agattu/Gillon Point",258
+"194",1997,"Attu/Cape Wrangell",222
+"195",1997,"Buldir",120
+"196",1997,"Yunaska",192
+"197",1997,"Forrester Complex",2798
+"198",1997,"Bogoslof/Fire Island",281
+"199",1997,"Kasatochi/North Point",268
+"200",1997,"Seguam/Saddleridge",463
+"201",1997,"Ugamak Complex",589
+"202",1997,"Hazy",1157
+"203",1997,"White Sisters",205
+"204",1998,"Adak",340
+"205",1998,"Agattu/Cape Sabak",314
+"206",1998,"Agattu/Gillon Point",213
+"207",1998,"Amchitka/Column Rock",70
+"208",1998,"Atkins",352
+"209",1998,"Attu/Cape Wrangell",154
+"210",1998,"Buldir",122
+"211",1998,"Chernabura",54
+"212",1998,"Chirikof",184
+"213",1998,"Chowiet",234
+"214",1998,"Clubbing Rocks",448
+"215",1998,"Gramp Rock",456
+"216",1998,"Kiska/Lief Cove",179
+"217",1998,"Pinnacle Rock",639
+"218",1998,"Tag",238
+"219",1998,"Ulak/Hasgox Point",521
+"220",1998,"Seal Rocks",542
+"221",1998,"Adugak",135
+"222",1998,"Akun/Billings Head",56
+"223",1998,"Akutan/Cape Morgan",505
+"224",1998,"Bogoslof/Fire Island",220
+"225",1998,"Kasatochi/North Point",247
+"226",1998,"Sea Lion Rock (Amak)",134
+"227",1998,"Seguam/Saddleridge",479
+"228",1998,"Ugamak Complex",558
+"229",1998,"Yunaska",161
+"230",1998,"Forrester Complex",2753
+"231",1998,"Hazy",1199
+"232",1998,"Marmot",642
+"233",1998,"Outer (Pye)",113
+"234",1998,"White Sisters",282
+"235",1986,"Ugamak Complex",1386
+"236",1997,"Marmot",760
+"237",1997,"Sugarloaf",673
+"238",1998,"Ayugadak",89
+"239",1998,"Kiska/Cape St Stephen",54
+"240",1998,"Wooded (Fish)",147
+"241",1998,"Sugarloaf",703
+"242",1979,"Bogoslof/Fire Island",914
+"243",1985,"Adak",558
+"244",1990,"Chowiet",343
+"245",1990,"Adak",137
+"246",1990,"Agligadak",0
+"247",1990,"Akutan/Cape Morgan",442
+"248",1990,"Kasatochi/North Point",178
+"249",1994,"Amchitka/East Cape",6
+"250",1998,"Amchitka/East Cape",9
+"251",1998,"Amlia/Sviech. Harbor",13
+"252",1998,"Ogchul",42
+"253",1994,"Semisopochnoi/Petrel",10
+"254",1994,"Semisopochnoi/Pochnoi",11
+"255",1998,"Semisopochnoi/Petrel",0
+"256",1998,"Semisopochnoi/Pochnoi",6
+"257",1998,"Agligadak",0
+"258",1997,"Outer (Pye)",106
+"259",1997,"Wooded (Fish)",123
+"260",1997,"Seal Rocks",487
+"261",1990,"Agattu",1127
+"262",1990,"Buldir",381
+"263",1995,"Buldir",120
+"264",1997,"Walrus",35
+"265",1978,"Wooded (Fish)",29
+"266",1979,"Adak/Lake Point",20
+"267",1979,"Kasatochi/North Point",213
+"268",1979,"Agattu",183
+"269",1979,"Ayugadak",22
+"270",1979,"Amchitka/Column Rock",135
+"271",1979,"Kiska/Cape St Stephen",137
+"272",1979,"Kiska/Lief Cove",476
+"273",1979,"Semisopochnoi/Pochnoi",25
+"274",1979,"Ulak/Hasgox Point",204
+"275",1984,"Outer (Pye)",1034
+"276",1989,"Ugamak Complex",434
+"277",1989,"Walrus",250
+"278",2000,"Yunaska",136
+"279",2000,"Adugak",153
+"280",2000,"Bogoslof/Fire Island",249
+"281",2000,"Akun/Billings Head",41
+"282",2000,"Ugamak/Round",15
+"283",2000,"Pinnacle Rock",634
+"284",2000,"The Whaleback",12
+"285",2000,"Atkins",262
+"286",2000,"Lighthouse Rocks",5
+"287",2000,"Chirikof",187
+"288",2000,"Outer (Pye)",108
+"289",2000,"Wooded (Fish)",149
+"290",2000,"Chiswell Islands",58
+"291",2001,"Amchitka/East Cape",5
+"292",2001,"Seguam/Saddleridge",468
+"293",2001,"Seguam/Turf Point",24
+"294",2001,"Ogchul",47
+"295",2001,"Akutan/Cape Morgan",508
+"296",2001,"Ugamak/North",298
+"297",2001,"Ugamak/Ugamak Bay",256
+"298",2001,"Ugamak/Round",16
+"299",2001,"Clubbing Rocks North",152
+"300",2001,"Clubbing Rocks South",338
+"301",2001,"Chernabura",92
+"302",2001,"Chowiet",278
+"303",2001,"Sea Otter",3
+"304",2001,"Sugarloaf",490
+"305",2001,"Seal Rocks",500
+"306",2001,"The Needle",6
+"307",2001,"Point Elrington",3
+"308",2002,"Adugak",160
+"309",2002,"Yunaska",145
+"310",2002,"Kasatochi/North Point",302
+"311",2002,"Adak/Lake Point",363
+"312",2002,"Gramp Rock",444
+"313",2002,"Tag",153
+"314",2002,"Ulak/Hasgox Point",331
+"315",2002,"Ayugadak",90
+"316",2002,"Kiska/Lief Cove",158
+"317",2002,"Kiska/Cape St Stephen",71
+"318",2002,"Buldir",42
+"319",2002,"Agattu/Cape Sabak",212
+"320",2002,"Seguam/Turf Point",23
+"321",2002,"Adak/Cape Yakak",0
+"322",2002,"Amchitka/East Cape",0
+"323",2002,"Amchitka/Column Rock",52
+"324",2002,"Attu/Cape Wrangell",75
+"325",2002,"Agattu/Gillon Point",159
+"326",2002,"Semisopochnoi",0
+"327",2002,"Bogoslof/Fire Island",180
+"328",2002,"Akun/Billings Head",55
+"329",2002,"Amak+rocks",3
+"330",2002,"Sea Lion Rock (Amak)",160
+"331",2002,"Ugamak/Round",6
+"332",2002,"Aiktak",10
+"333",2002,"Pinnacle Rock",769
+"334",2002,"Jude",119
+"335",2002,"The Whaleback",16
+"336",2002,"Atkins",224
+"337",2002,"Lighthouse Rocks",7
+"338",2002,"Chirikof",225
+"339",2002,"The Haystacks",0
+"340",2002,"Nagai Rocks",19
+"341",2002,"Outer (Pye)",58
+"342",2001,"Walrus",39
+"343",2002,"Amlia/Sviech. Harbor",22
+"344",2002,"Forrester/Sea Lion Rk",424
+"345",2002,"Forrester/c Horn Rk",381
+"346",2002,"Forrester/Lowrie",1086
+"347",2002,"Forrester/North Rk",1030
+"348",2002,"Forrester/East Rk",136
+"349",2002,"Forrester Complex",0
+"350",2002,"Cape Addington",6
+"351",2002,"Hazy",1248
+"352",2002,"Cape Ommaney",2
+"353",2002,"Biali Rock",59
+"354",2002,"Yasha",1
+"355",2002,"White Sisters",403
+"356",2002,"Graves Rock",99
+"357",2003,"Unalaska/Bishop Point",2
+"358",2003,"Ogchul",69
+"359",2003,"Unalaska/Cape Izigan",20
+"360",2003,"Akutan/Cape Morgan",497
+"361",2003,"Ugamak/North",352
+"362",2003,"Ugamak/Ugamak Bay",295
+"363",2003,"Ugamak/Round",39
+"364",2003,"Clubbing Rocks North",194
+"365",2003,"Clubbing Rocks South",372
+"366",2003,"Jude",61
+"367",2003,"The Whaleback",22
+"368",2003,"Chernabura",82
+"369",2003,"Atkins",128
+"370",2003,"Chowiet",368
+"371",2003,"Twoheaded",20
+"372",2003,"Latax Rocks",10
+"373",2003,"Wooded (Fish)",173
+"374",2003,"Seal Rocks",543
+"375",2003,"The Needle",7
+"376",2003,"Point Elrington",2
+"377",2004,"Kasatochi/North Point",340
+"378",2004,"Adak/Cape Yakak",7
+"379",2004,"Amlia/Sviech. Harbor",29
+"380",2004,"Agligadak",2
+"381",2004,"Seguam/Saddleridge",512
+"382",2004,"Yunaska",110
+"383",2004,"Adugak",167
+"384",2004,"Bogoslof/Fire Island",248
+"385",2004,"Akun/Billings Head",85
+"386",2004,"Sea Lion Rock (Amak)",181
+"387",2004,"Ugamak/Round",30
+"388",2004,"Aiktak",14
+"389",2004,"Pinnacle Rock",560
+"390",2004,"Jude",160
+"391",2004,"Atkins",244
+"392",2004,"Chirikof",189
+"393",2004,"Nagai Rocks",22
+"394",2004,"Outer (Pye)",63
+"395",2004,"Sugarloaf",488
+"396",2004,"West Rock",0
+"397",2004,"Point Marsh",0
+"398",2004,"Wolf Rock",0
+"399",2004,"Cape Bartolome",0
+"400",2004,"Cape Addington",1
+"401",2004,"Timbered",0
+"402",2004,"Coronation",0
+"403",2004,"Hazy",1271
+"404",2004,"Grindall",0
+"405",2004,"Cape Ommaney",0
+"406",2004,"Sea Lion Rock (Puffin Bay)",0
+"407",2004,"Biali Rock",71
+"408",2004,"Jacob Rock",1
+"409",2004,"Kaiuchali (Biorka)",0
+"410",2004,"Turnabout",0
+"411",2004,"Sunset",0
+"412",2004,"Sea Lion Islands",0
+"413",2004,"White Sisters",488
+"414",2004,"South Marble",0
+"415",2004,"Gran (Ledge) Point",0
+"416",2004,"Cape Fairweather",0
+"417",2004,"Cape St. Elias",7
+"418",2004,"Hook Point",0
+"419",2004,"Cape Hinchinbrook",0
+"420",2004,"Seal Rocks",573
+"421",2004,"Wooded (Fish)",123
+"422",2004,"Middleton",0
+"423",2004,"Glacier",0
+"424",2004,"The Needle",7
+"425",2004,"Point Latouche",0
+"426",2004,"Danger",0
+"427",2004,"Point Elrington",2
+"428",2004,"Procession Rocks",1
+"429",2004,"Cape Puget",0
+"430",2004,"Cape Junken",0
+"431",2004,"Cape Fairfield",0
+"432",2004,"Cape Resurrection",0
+"433",2004,"Rugged",0
+"434",2004,"Aialik Cape",0
+"435",2004,"Chiswell Islands",33
+"436",2004,"Granite Cape",0
+"437",2004,"Seal Rocks (Kenai)",0
+"438",2004,"Steep Point",0
+"439",2004,"Rabbit",0
+"440",2004,"Nuka Point",0
+"441",2004,"Gore Point",0
+"442",2004,"East Chugach",0
+"443",2004,"Perl",0
+"444",2004,"Perl Rocks",0
+"445",2004,"Nagahut Rocks",0
+"446",2004,"Elizabeth/Cape Elizabeth",0
+"447",2004,"Flat",0
+"448",2004,"West Amatuli",0
+"449",2004,"Ushagat",43
+"450",2004,"Ushagat/Rocks South",0
+"451",2004,"Sud",0
+"452",2004,"Latax Rocks",0
+"453",2004,"Sea Otter",0
+"454",2004,"Rk Near Sea Otter",0
+"455",2004,"Afognak/Tonki Cape",0
+"456",2004,"Sea Lion Rocks (Marmot)",0
+"457",2004,"Marmot",494
+"458",2004,"Long Island",0
+"459",2004,"Kodiak/Cape Chiniak",0
+"460",2004,"Ugak",0
+"461",2004,"Kodiak/Gull Point",0
+"462",2004,"Kodiak/Cape Barnabas",0
+"463",2004,"Twoheaded",28
+"464",2004,"Sitkinak/Cape Sitkinak",0
+"465",2004,"Kodiak/Sundstrom",0
+"466",2004,"Kodiak/Cape Alitak",0
+"467",2004,"Kodiak/Cape Ikolik",0
+"468",2004,"Kodiak/Tombstone Rocks",0
+"469",2004,"Kodiak/Cape Kuliuk",0
+"470",2004,"Kodiak/Cape Ugat",0
+"471",2004,"Noisy",0
+"472",2004,"Kodiak/Malina Point",0
+"473",2004,"Kodiak/Steep Cape",0
+"474",2004,"Kodiak/Cape Paramanof",0
+"475",2004,"Shaw",0
+"476",2004,"Cape Douglas",0
+"477",2004,"Shakun Rocks",3
+"478",2004,"Cape Nukshak",0
+"479",2004,"Cape Ugyak",0
+"480",2004,"Cape Gull",0
+"481",2004,"Takli",0
+"482",2004,"Puale Bay",3
+"483",2004,"Kilokak Rocks",0
+"484",2004,"Aiugnak Columns",0
+"485",2004,"Ugaiushak",0
+"486",2004,"Sutwik",2
+"487",2004,"Aghiyuk",0
+"488",2004,"Chowiet",262
+"489",2004,"Lighthouse Rocks",17
+"490",2004,"Atkulik",0
+"491",2004,"Kak",0
+"492",2004,"Chankliut",0
+"493",2004,"Seal Cape",0
+"494",2004,"Mitrofania",1
+"495",2004,"Spitz",0
+"496",2004,"Kupreanof Point",0
+"497",2004,"Castle Rock",0
+"498",2004,"Big Koniuji",0
+"499",2004,"Chernabura",153
+"500",2004,"Twins",0
+"501",2004,"The Haystacks",0
+"502",2004,"The Whaleback",27
+"503",2004,"Nagai/Mountain Point",0
+"504",2004,"Nagai/Rk w of Cape Wedge",0
+"505",2004,"Egg (Sand Point)",0
+"506",2004,"Sea Lion Rocks (Shumagins)",0
+"507",2004,"Unga/Cape Unga",0
+"508",2004,"Unga/Acheredin Point",0
+"509",2004,"Omega",0
+"510",2004,"Wosnesenski",0
+"511",2004,"Olga Rocks",0
+"512",2004,"Sushilnoi Rocks",16
+"513",2004,"Hunt",0
+"514",2004,"Sozavarika",0
+"515",2004,"Umga",0
+"516",2004,"Clubbing Rocks",392
+"517",2004,"Cherni",0
+"518",2004,"Hague Rock",0
+"519",2004,"Caton",0
+"520",2004,"South Rocks",34
+"521",2004,"Sanak",0
+"522",2004,"Bird",0
+"523",2004,"Rock",0
+"524",2004,"Unimak/Cape Lazaref",0
+"525",2004,"Unimak/Cape Lutke",0
+"526",2004,"Unimak/Scotch Cap",0
+"527",2004,"Unimak/Sennett Point",0
+"528",2004,"Unimak/Cape Sarichef",0
+"529",2004,"Amak+rocks",1
+"530",2004,"Ugamak/North",319
+"531",2004,"Ugamak/Ugamak Bay",235
+"532",2004,"Kaligagan",0
+"533",2004,"Tigalda/Rocks Ne",4
+"534",2004,"Tigalda/South Side",5
+"535",2004,"Basalt Rock",0
+"536",2004,"Rootok",1
+"537",2004,"Tanginak",0
+"538",2004,"Akun/Jackass Point",0
+"539",2004,"Akun/Akun Bay",0
+"540",2004,"Akun/Akun Head",0
+"541",2004,"Akutan/Reef-Lava",6
+"542",2004,"Akutan/Cape Morgan",480
+"543",2004,"Akutan/Battery Point",0
+"544",2004,"Baby",0
+"545",2004,"Old Man Rocks",0
+"546",2004,"Egg",0
+"547",2004,"Outer Signal",0
+"548",2004,"Inner Signal",0
+"549",2004,"Unalaska/Cape Sedanka",0
+"550",2004,"Unalaska/Priest Rock",0
+"551",2004,"Unalaska/Cape Wislow",0
+"552",2004,"Unalaska/Bishop Point",0
+"553",2004,"Unalaska/Kovrizhka",0
+"554",2004,"Unalaska/Makushin Bay",0
+"555",2004,"Unalaska/Cape Starichkof",0
+"556",2004,"Unalaska/Spray Cape",0
+"557",2004,"Unalaska/Whalebone Cape",0
+"558",2004,"Unalaska/Cape Izigan",18
+"559",2004,"Umnak/Cape Aslik",0
+"560",2004,"Emerald",0
+"561",2004,"Polivnoi Rock",0
+"562",2004,"The Pillars",0
+"563",2004,"Ogchul",43
+"564",2004,"Vsevidof",0
+"565",2004,"Samalga",0
+"566",2004,"Kagamil",0
+"567",2004,"Chuginadak",0
+"568",2004,"Carlisle",0
+"569",2004,"Herbert",0
+"570",2004,"Chagulak",0
+"571",2004,"Amukta+rocks",0
+"572",2004,"Seguam/Finch Point",0
+"573",2004,"Seguam/Sw Rip",0
+"574",2004,"Seguam/Turf Point",15
+"575",2004,"Seguam/Lava Cove",0
+"576",2004,"Seguam/Lava Point",0
+"577",2004,"Seguam/Wharf Point",2
+"578",2004,"Amlia/East Cape",0
+"579",2004,"Amlia/Cape Misty",0
+"580",2004,"Tanadak (Amlia)",0
+"581",2004,"Sagigik",0
+"582",2004,"Atka/North Cape",0
+"583",2004,"Atka/Cape Korovin",0
+"584",2004,"Salt",0
+"585",2004,"Koniuji/North Point",0
+"586",2004,"Oglodak",0
+"587",2004,"Ikiginak",0
+"588",2004,"Fenimore",0
+"589",2004,"Tagalak",3
+"590",2004,"Chugul",0
+"591",2004,"Anagaksik",0
+"592",2004,"Igitkin/Sw Point",0
+"593",2004,"Great Sitkin",0
+"594",2004,"Little Tanaga Strait",0
+"595",2004,"Silak",0
+"596",2004,"Kagalaska",0
+"597",2004,"Adak/Cape Moffet",0
+"598",2004,"Adak/Argonne Point",0
+"599",2004,"Adak/Lake Point",350
+"600",2004,"Adak/Crone Island",0
+"601",2004,"Kanaga/n Cape",0
+"602",2004,"Kanaga/Cape Miga",0
+"603",2004,"Kanaga/Ship Rock",126
+"604",2004,"Kanaga/Cape Chunu",0
+"605",2004,"Bobrof",0
+"606",2004,"Tanaga/Bumpy Point",0
+"607",2004,"Tanaga/Cape Sasmik",0
+"608",2004,"Ilak",2
+"609",2004,"Gramp Rock",439
+"610",2004,"Ugidak",0
+"611",2004,"Tag",150
+"612",2004,"Ogliuga",1
+"613",2004,"Skagul/S. Point",0
+"614",2004,"Kavalga",0
+"615",2004,"Unalga+dinkum Rocks",0
+"616",2004,"Ulak/Hasgox Point",257
+"617",2004,"Amatignak/Knob Point",0
+"618",2004,"Amatignak/Nitrof Point",0
+"619",2004,"Semisopochnoi/Pochnoi",17
+"620",2004,"Semisopochnoi/Petrel",0
+"621",2004,"Semisopochnoi/Tuman Point",0
+"622",2004,"Semisopochnoi/Sw Knob",0
+"623",2004,"Amchitka/Cape Ivakin",0
+"624",2004,"Amchitka/East Cape",23
+"625",2004,"Amchitka/Omega Point",0
+"626",2004,"Amchitka/St. Makarius",0
+"627",2004,"Amchitka/Column Rock",45
+"628",2004,"Amchitka/Bird",0
+"629",2004,"Amchitka/Chitka Point",0
+"630",2004,"Ayugadak",56
+"631",2004,"Hawadax (Rat)",0
+"632",2004,"Sea Lion Rock (Kiska)",0
+"633",2004,"Tanadak (Kiska)",0
+"634",2004,"Twin Rocks (Kiska)",0
+"635",2004,"Kiska/South Head",0
+"636",2004,"Kiska/Gertrude-Bukhti",0
+"637",2004,"Kiska/Sobaka-Vega",0
+"638",2004,"Kiska/Cape St Stephen",75
+"639",2004,"Kiska/Lief Cove",101
+"640",2004,"Kiska/Witchcraft Point",0
+"641",2004,"Kiska/Pillar Rock",0
+"642",2004,"Buldir/East Cape",0
+"643",2004,"Buldir/Rookery",26
+"644",2004,"Buldir/Nw Rocks",0
+"645",2004,"Ingenstrem Rocks",0
+"646",2004,"Shemya",0
+"647",2004,"Nizki",0
+"648",2004,"Alaid",20
+"649",2004,"Agattu/Cape Sabak",159
+"650",2004,"Agattu/Gillon Point",174
+"651",2004,"Dan's Rocks",0
+"652",2004,"Attu/Massacre Bay",0
+"653",2004,"Attu/Chirikof Point",1
+"654",2004,"Attu/Chichagof Point",0
+"655",2004,"Attu/Kresta Point",0
+"656",2004,"Attu/Cape Wrangell",47
+"657",2005,"Ogchul",72
+"658",2005,"Akutan/Cape Morgan",571
+"659",2005,"Ugamak/North",415
+"660",2005,"Ugamak/Ugamak Bay",268
+"661",2005,"Ugamak/Round",44
+"662",2005,"Clubbing Rocks North",192
+"663",2005,"Clubbing Rocks South",391
+"664",2005,"Jude",187
+"665",2005,"The Whaleback",24
+"666",2005,"Chernabura",134
+"667",2005,"Chowiet",370
+"668",2005,"Twoheaded",8
+"669",2005,"Latax Rocks",1
+"670",2005,"Seal Rocks",532
+"671",2005,"Wooded (Fish)",125
+"672",2005,"Walrus",28
+"673",2005,"White Sisters",520
+"674",2005,"Biali Rock",100
+"675",2005,"Hazy",1286
+"676",2005,"Forrester/Sea Lion Rk",533
+"677",2005,"Forrester/East Rk",134
+"678",2005,"Forrester/c Horn Rk",303
+"679",2005,"Forrester/Lowrie",1508
+"680",2005,"Graves Rock",175
+"681",2005,"Chiswell Islands",44
+"682",2005,"Outer (Pye)",104
+"683",2005,"Sugarloaf",559
+"684",2005,"Ushagat",55
+"685",2005,"Marmot",433
+"686",2005,"Chirikof",123
+"687",2005,"Nagai Rocks",31
+"688",2005,"Lighthouse Rocks",11
+"689",2005,"Atkins",328
+"690",2005,"Sushilnoi Rocks",12
+"691",2005,"Pinnacle Rock",643
+"692",2005,"Clubbing Rocks",528
+"693",2005,"South Rocks",44
+"694",2005,"Sea Lion Rock (Amak)",158
+"695",2005,"Unalaska/Cape Izigan",21
+"696",2005,"Adugak",185
+"697",2005,"Seguam/Saddleridge",530
+"698",2005,"Agligadak",0
+"699",2005,"Seguam/Turf Point",7
+"700",2005,"Amlia/Sviech. Harbor",28
+"701",2005,"Adak/Lake Point",311
+"702",2005,"Adak/Cape Yakak",0
+"703",2005,"Kanaga/Ship Rock",221
+"704",2005,"Gramp Rock",387
+"705",2005,"Tag",144
+"706",2005,"Ulak/Hasgox Point",338
+"707",2005,"Semisopochnoi/Pochnoi",16
+"708",2005,"Amchitka/East Cape",24
+"709",2005,"Amchitka/Column Rock",44
+"710",2005,"Ayugadak",83
+"711",2005,"Kiska/Cape St Stephen",82
+"712",2005,"Kiska/Lief Cove",115
+"713",2005,"Buldir",26
+"714",2005,"Alaid",27
+"715",2005,"Agattu/Cape Sabak",113
+"716",2005,"Agattu/Gillon Point",157
+"717",2005,"Attu/Cape Wrangell",47
+"718",2005,"Aiktak",8
+"719",2005,"St. Paul/Sea Lion Rock",0
+"720",2005,"Forrester/North Rk",951
+"721",2005,"Bogoslof/Fire Island",225
+"722",2005,"Kasatochi/North Point",372
+"723",2007,"Kiska/Cape St Stephen",86
+"724",2007,"Kiska/Lief Cove",48
+"725",2007,"Agattu/Cape Sabak",94
+"726",2007,"Akun/Billings Head",119
+"727",2009,"Akun/Billings Head",144
+"728",2009,"Pinnacle Rock",557
+"729",2009,"Adak/Cape Yakak",0
+"730",2009,"Adak/Lake Point",338
+"731",2009,"Adugak",276
+"732",2008,"Agattu/Cape Sabak",83
+"733",2008,"Agattu/Gillon Point",142
+"734",2009,"Agligadak",0
+"735",2009,"Aiktak",2
+"736",2009,"Akutan/Cape Morgan",688
+"737",2009,"Akutan/Reef-Lava",22
+"738",2008,"Alaid",20
+"739",2009,"Amak+rocks",1
+"740",2009,"Amchitka/Column Rock",40
+"741",2009,"Amchitka/East Cape",13
+"742",2009,"Amlia/Sviech. Harbor",34
+"743",2009,"Atkins",338
+"744",2009,"Ayugadak",44
+"745",2009,"Biali Rock",144
+"746",2009,"Bogoslof/Fire Island",282
+"747",2008,"Buldir/Rookery",7
+"748",2009,"Cape Fairfield",0
+"749",2009,"Cape Hinchinbrook",0
+"750",2009,"Cape Ommaney",1
+"751",2009,"Cape Resurrection",1
+"752",2009,"Cape St. Elias",18
+"753",2009,"Chernabura",244
+"754",2009,"Chirikof",216
+"755",2009,"Chiswell Islands",64
+"756",2009,"Chowiet",360
+"757",2009,"Clubbing Rocks North",244
+"758",2009,"Clubbing Rocks South",534
+"759",2009,"Easterly",1
+"760",2009,"Forrester/c Horn Rk",441
+"761",2009,"Forrester/Forrester Island",0
+"762",2009,"Forrester/Lowrie",1734
+"763",2009,"Forrester/North Rk",1223
+"764",2009,"Forrester/Sea Lion Rk",638
+"765",2009,"Glacier",4
+"766",2009,"Gramp Rock",332
+"767",2009,"Gran (Ledge) Point",0
+"768",2009,"Graves Rock",440
+"769",2009,"Harbor Point",0
+"770",2009,"Hazy",1976
+"771",2009,"Jacob Rock",2
+"772",2009,"Jude",270
+"773",2009,"Kanaga/Cape Chunu",0
+"774",2009,"Kanaga/Ship Rock",214
+"775",2009,"Kasatochi/North Point",394
+"776",2009,"Kiska/Cape St Stephen",91
+"777",2009,"Kiska/Lief Cove",80
+"778",2009,"Kodiak/Cape Barnabas",0
+"779",2009,"Kodiak/Cape Chiniak",0
+"780",2009,"Kodiak/Cape Ugat",1
+"781",2009,"Kodiak/Gull Point",0
+"782",2009,"Latax Rocks",12
+"783",2009,"Lighthouse Rocks",16
+"784",2009,"Long Island",0
+"785",2009,"Marmot",509
+"786",2009,"Nagai Rocks",18
+"787",2009,"Ogchul",90
+"788",2009,"Oglodak",4
+"789",2009,"Outer (Pye)",122
+"790",2009,"Perl",0
+"791",2009,"Point Elrington",1
+"792",2009,"Point Lull",0
+"793",2009,"Procession Rocks",0
+"794",2009,"Rk Near Sea Otter",0
+"795",2009,"Sail",0
+"796",2009,"Sea Lion Islands",0
+"797",2009,"Sea Lion Rock (Amak)",185
+"798",2009,"Sea Lion Rock (Puffin Bay)",0
+"799",2009,"Seal Rocks",740
+"800",2009,"Seguam/Saddleridge",540
+"801",2009,"Seguam/Turf Point",0
+"802",2009,"Semisopochnoi/Pochnoi",5
+"803",2009,"Sitkinak/Cape Sitkinak",0
+"804",2009,"South Marble",0
+"805",2009,"South Rocks",60
+"806",2009,"Sugarloaf",613
+"807",2009,"Sunset",1
+"808",2009,"Sushilnoi Rocks",34
+"809",2009,"Sutwik",12
+"810",2009,"Tag",130
+"811",2009,"The Brothers/Sw",2
+"812",2009,"The Needle",20
+"813",2009,"The Whaleback",40
+"814",2009,"Tigalda/Rocks Ne",0
+"815",2009,"Twoheaded",14
+"816",2009,"Ugamak/North",512
+"817",2009,"Ugamak/Round",71
+"818",2009,"Ugamak/Ugamak Bay",326
+"819",2009,"Ulak/Hasgox Point",272
+"820",2009,"Unalaska/Bishop Point",0
+"821",2009,"Unalaska/Cape Izigan",29
+"822",2009,"Ushagat/Rocks South",1
+"823",2009,"Ushagat/Sw",70
+"824",2009,"West Rock",2
+"825",2009,"White Sisters",847
+"826",2009,"Wolf Rock",0
+"827",2009,"Wooded (Fish)",178
+"828",2009,"Yasha",10
+"829",2009,"Yunaska",170
+"830",2009,"Unimak/Oksenof Point",6
+"831",2009,"Aialik Cape",1
+"832",2009,"Steep Point",0
+"833",2010,"Adak/Argonne Point",0
+"834",2010,"Adak/Cape Yakak",2
+"835",2010,"Adak/Crone Island",0
+"836",2010,"Adak/Lake Point",318
+"837",2010,"Adugak",242
+"838",2010,"Agligadak",1
+"839",2010,"Akutan/Cape Morgan",730
+"840",2010,"Akutan/Reef-Lava",10
+"841",2010,"Amatignak/Nitrof Point",0
+"842",2010,"Amlia/East Cape",2
+"843",2010,"Amlia/Sviech. Harbor",30
+"844",2010,"Amukta+rocks",0
+"845",2010,"Biali Rock",85
+"846",2010,"Bogoslof/Fire Island",332
+"847",2010,"Cape Addington",1
+"848",2010,"Cape Bartolome",0
+"849",2010,"Cape Fairfield",0
+"850",2010,"Cape Ommaney",0
+"851",2010,"Cape Resurrection",0
+"852",2010,"Cape St. Elias",14
+"853",2010,"Chagulak",0
+"854",2010,"Chirikof",82
+"855",2010,"Chiswell Islands",48
+"856",2010,"Chowiet",321
+"857",2010,"Chuginadak",0
+"858",2010,"Chugul",0
+"859",2010,"Coronation",0
+"860",2010,"Danger",0
+"861",2010,"Easterly",0
+"862",2010,"Egg",0
+"863",2010,"Forrester/c Horn Rk",165
+"864",2010,"Forrester/Forrester Island",0
+"865",2010,"Forrester/Lowrie",1608
+"866",2010,"Forrester/North Rk",472
+"867",2010,"Forrester/Sea Lion Rk",428
+"868",2010,"Glacier",0
+"869",2010,"Gramp Rock",299
+"870",2010,"Gran (Ledge) Point",0
+"871",2010,"Grindall",0
+"872",2010,"Natoa (Grotto)",1
+"873",2010,"Hazy",1357
+"874",2010,"Herbert",0
+"875",2010,"Ilak",0
+"876",2010,"Inner Signal",0
+"877",2010,"Jacob Rock",0
+"878",2010,"Kagalaska",0
+"879",2010,"Kaiuchali (Biorka)",0
+"880",2010,"Kanaga/Cape Chunu",3
+"881",2010,"Kanaga/Ship Rock",214
+"882",2010,"Kasatochi/North Point",354
+"883",2010,"Kodiak/Cape Ugat",4
+"884",2010,"Latax Rocks",9
+"885",2010,"Marmot",276
+"886",2010,"Ogchul",116
+"887",2010,"Oglodak",3
+"888",2010,"Old Man Rocks",2
+"889",2010,"Outer (Pye)",102
+"890",2010,"Outer Signal",0
+"891",2010,"Perl",0
+"892",2010,"Point Elrington",3
+"893",2010,"Point Marsh",0
+"894",2010,"Polivnoi Rock",0
+"895",2010,"Procession Rocks",0
+"896",2010,"Sagigik",0
+"897",2010,"Sail",0
+"898",2010,"Sea Lion Rock (Amak)",154
+"899",2010,"Sea Lion Rock (Puffin Bay)",0
+"900",2010,"Seal Rocks",514
+"901",2010,"Seal Rocks (Kenai)",0
+"902",2010,"Seguam/Saddleridge",518
+"903",2010,"Seguam/Sw Rip",0
+"904",2010,"Seguam/Wharf Point",0
+"905",2010,"Shakun Rocks",2
+"906",2010,"Silak",1
+"907",2010,"Cape Ommaney/s",0
+"908",2010,"Sugarloaf",424
+"909",2010,"Sutwik",11
+"910",2010,"Tag",135
+"911",2010,"Tagalak",1
+"912",2010,"Tanadak (Amlia)",0
+"913",2010,"Tanaga/Cape Sasmik",3
+"914",2010,"The Brothers/Sw",0
+"915",2010,"The Needle",15
+"916",2010,"The Pillars",1
+"917",2010,"Timbered",1
+"918",2010,"Twoheaded",34
+"919",2010,"Ulak/Hasgox Point",264
+"920",2010,"Uliaga",8
+"921",2010,"Unalaska/Bishop Point",2
+"922",2010,"Unalaska/Cape Izigan",41
+"923",2010,"Ushagat/Sw",38
+"924",2010,"Vsevidof",0
+"925",2010,"West Rock",2
+"926",2010,"Wooded (Fish)",224
+"927",2010,"Yasha",9
+"928",2010,"Yunaska",185
+"929",2011,"Adak/Cape Yakak",0
+"930",2011,"Adak/Lake Point",310
+"931",2011,"Adugak",250
+"932",2011,"Agattu/Cape Sabak",65
+"933",2011,"Agattu/Gillon Point",83
+"934",2011,"Agligadak",0
+"935",2011,"Aiktak",2
+"936",2011,"Akutan/Cape Morgan",734
+"937",2011,"Akutan/Reef-Lava",21
+"938",2011,"Amak+rocks",1
+"939",2011,"Amlia/Cape Misty",0
+"940",2011,"Amlia/East Cape",0
+"941",2011,"Amlia/Sviech. Harbor",35
+"942",2011,"Amukta+rocks",0
+"943",2011,"Anagaksik",0
+"944",2011,"Atka/North Cape",0
+"945",2011,"Atkins",380
+"946",2011,"Attu/Cape Wrangell",23
+"947",2011,"Attu/Chichagof Point",0
+"948",2011,"Attu/Chirikof Point",0
+"949",2011,"Bird",2
+"950",2011,"Bobrof",0
+"951",2011,"Bogoslof/Fire Island",323
+"952",2011,"Cape Hinchinbrook",0
+"953",2011,"Cape Resurrection",1
+"954",2011,"Cape St. Elias",26
+"955",2011,"Carlisle",0
+"956",2011,"Caton",0
+"957",2011,"Chagulak",0
+"958",2011,"Chernabura",250
+"959",2011,"Chirikof",186
+"960",2011,"Chiswell Islands",84
+"961",2011,"Chowiet",453
+"962",2011,"Chuginadak",0
+"963",2011,"Chugul",0
+"964",2011,"Clubbing Rocks North",282
+"965",2011,"Clubbing Rocks South",546
+"966",2011,"Fenimore",0
+"967",2011,"Glacier",5
+"968",2011,"Great Sitkin",0
+"969",2011,"Herbert",3
+"970",2011,"Hook Point",0
+"971",2011,"Jude",300
+"972",2011,"Kagamil",0
+"973",2011,"Kanaga/Cape Miga",0
+"974",2011,"Kanaga/Ship Rock",208
+"975",2011,"Kasatochi/North Point",373
+"976",2011,"Kilokak Rocks",2
+"977",2011,"Kodiak/Cape Chiniak",0
+"978",2011,"Kodiak/Cape Ugat",0
+"979",2011,"Kupreanof Point",0
+"980",2011,"Latax Rocks",18
+"981",2011,"Lighthouse Rocks",9
+"982",2011,"Little Tanaga Strait",0
+"983",2011,"Marmot",524
+"984",2011,"Mitrofania",2
+"985",2011,"Nagai Rocks",8
+"986",2011,"Natoa (Grotto)",0
+"987",2011,"Ogchul",109
+"988",2011,"Oglodak",0
+"989",2011,"Old Man Rocks",0
+"990",2011,"Olga Rocks Ne",0
+"991",2011,"Olga Rocks Sw",1
+"992",2011,"Outer (Pye)",145
+"993",2011,"Perl",0
+"994",2011,"Pinnacle Rock",748
+"995",2011,"Point Elrington",2
+"996",2011,"Polivnoi Rock",0
+"997",2011,"Procession Rocks",0
+"998",2011,"Sagigik",0
+"999",2011,"Sea Lion Rock (Amak)",200
+"1000",2011,"Sea Lion Rocks (Shumagins)",0
+"1001",2011,"Seal Rocks",728
+"1002",2011,"Seguam/Saddleridge",504
+"1003",2011,"Seguam/Turf Point",0
+"1004",2011,"Seguam/Wharf Point",0
+"1005",2011,"Shakun Rocks",1
+"1006",2011,"Shemya",0
+"1007",2011,"Silak",0
+"1008",2011,"South Rocks",70
+"1009",2011,"Sugarloaf",767
+"1010",2011,"Sushilnoi Rocks",27
+"1011",2011,"Sutwik",24
+"1012",2011,"Tagalak",2
+"1013",2011,"Tanadak (Amlia)",0
+"1014",2011,"Tanaga/Cape Sudak",0
+"1015",2011,"Tanaga/Cape Sasmik",2
+"1016",2011,"The Needle",30
+"1017",2011,"The Pillars",1
+"1018",2011,"The Whaleback",52
+"1019",2011,"Tigalda/Rocks Ne",0
+"1020",2011,"Tigalda/South Side",0
+"1021",2011,"Twoheaded",52
+"1022",2011,"Ugamak/North",484
+"1023",2011,"Ugamak/Round",154
+"1024",2011,"Ugamak/Ugamak Bay",331
+"1025",2011,"Uliaga",0
+"1026",2011,"Umnak/Cape Aslik",0
+"1027",2011,"Unalaska/Bishop Point",1
+"1028",2011,"Unalaska/Cape Izigan",34
+"1029",2011,"Unga/Acheredin Point",0
+"1030",2011,"Unimak/Oksenof Point",0
+"1031",2011,"Ushagat/Sw",84
+"1032",2011,"Vsevidof",0
+"1033",2011,"Wooded (Fish)",225
+"1034",2011,"Wosnesenski",0
+"1035",2011,"Yunaska",166
+"1036",2011,"Akun/Billings Head",136
+"1037",2011,"Kiska/Cape St Stephen",39
+"1038",2012,"Tag",49
+"1039",2012,"Amchitka/East Cape",8
+"1040",2012,"Amchitka/Column Rock",15
+"1041",2012,"Ayugadak",48
+"1042",2012,"Kiska/Cape St Stephen",45
+"1043",2012,"Agattu/Gillon Point",64
+"1044",2012,"Attu/Cape Wrangell",24
+"1045",2012,"Attu/Chichagof Point",0
+"1046",2012,"Attu/Chirikof Point",0
+"1047",2012,"Agattu/Cape Sabak",69
+"1048",2012,"Alaid",7
+"1049",2012,"Buldir",0
+"1050",2012,"Semisopochnoi/Pochnoi",3
+"1051",2012,"Ulak/Hasgox Point",120
+"1052",2012,"Kagalaska",0
+"1053",2012,"Silak",0
+"1054",2012,"Little Tanaga Strait",0
+"1055",2010,"Walrus",14
+"1056",2013,"Agattu/Cape Sabak",60
+"1057",2013,"Attu/Cape Wrangell",32
+"1058",2013,"Agattu/Gillon Point",102
+"1059",2013,"Kiska/Cape St Stephen",55
+"1060",2013,"Kiska/Lief Cove",67
+"1061",2013,"Kiska/Pillar Rock",0
+"1062",2013,"Kiska/Sirius Point",0
+"1063",2013,"Kiska/Witchcraft Point",0
+"1064",2013,"Kiska/Wolf Point",0
+"1065",2013,"Little Sitkin",0
+"1066",2013,"Segula/Gula Point",0
+"1067",2013,"Attu/Chichagof Point",0
+"1068",2013,"Attu/Chirikof Point",0
+"1069",2013,"Attu/Kresta Point",0
+"1070",2013,"Alaid",12
+"1071",2013,"Nizki",0
+"1072",2013,"Shemya",0
+"1073",2013,"Buldir/East Cape",0
+"1074",2013,"Buldir/Nw Rocks",0
+"1075",2013,"Buldir/Rookery",0
+"1076",2013,"Ayugadak",50
+"1077",2013,"Kiska/Gertrude-Bukhti",0
+"1078",2013,"Hawadax (Rat)",0
+"1079",2013,"Twin Rocks (Kiska)",0
+"1080",2013,"The Pillars",1
+"1081",2013,"Vsevidof",0
+"1082",2013,"Egg",0
+"1083",2013,"Inner Signal",0
+"1084",2013,"Old Man Rocks",3
+"1085",2013,"Outer Signal",0
+"1086",2013,"Aialik Cape",0
+"1087",2013,"Aiugnak Columns",0
+"1088",2013,"Atkins",255
+"1089",2013,"Benjamin",0
+"1090",2013,"Biali Rock",185
+"1091",2013,"Bird",0
+"1092",2013,"Cape Addington",3
+"1093",2013,"Cape Bartolome",0
+"1094",2013,"Cape Fairfield",0
+"1095",2013,"Cape Gull",0
+"1096",2013,"Cape Hinchinbrook",0
+"1097",2013,"Cape Ommaney",2
+"1098",2013,"Cape Resurrection",0
+"1099",2013,"Cape St. Elias",43
+"1100",2013,"Castle Rock",0
+"1101",2013,"Caton",0
+"1102",2013,"Chernabura",248
+"1103",2013,"Chirikof",196
+"1104",2013,"Chiswell Islands",76
+"1105",2013,"Chowiet",612
+"1106",2013,"Clubbing Rocks North",292
+"1107",2013,"Clubbing Rocks South",601
+"1108",2013,"Coronation",0
+"1109",2013,"Easterly",2
+"1110",2013,"Forrester/c Horn Rk",268
+"1111",2013,"Forrester/Forrester Island",0
+"1112",2013,"Forrester/Lowrie",1870
+"1113",2013,"Forrester/North Rk",577
+"1114",2013,"Forrester/Sea Lion Rk",499
+"1115",2013,"Glacier",6
+"1116",2013,"Gran (Ledge) Point",0
+"1117",2013,"Granite Cape",0
+"1118",2013,"Graves Rock",551
+"1119",2013,"Grindall",0
+"1120",2013,"Hazy",1837
+"1121",2013,"Hook Point",0
+"1122",2013,"Inian",0
+"1123",2013,"Jacob Rock",0
+"1124",2013,"Jude",340
+"1125",2013,"Kaiuchali (Biorka)",0
+"1126",2013,"Kak",0
+"1127",2013,"Kilokak Rocks",0
+"1128",2013,"Kodiak/Cape Ikolik",0
+"1129",2013,"Kodiak/Cape Ugat",0
+"1130",2013,"Kodiak/Steep Cape",0
+"1131",2013,"Latax Rocks",15
+"1132",2013,"Lighthouse Rocks",8
+"1133",2013,"Long Island",0
+"1134",2013,"Marmot",557
+"1135",2013,"Middle Pass Rock",0
+"1136",2013,"Nagai Rocks",7
+"1137",2013,"Nagai/Mountain Point",0
+"1138",2013,"Natoa (Grotto)",1
+"1139",2013,"Olga Rocks Ne",0
+"1140",2013,"Olga Rocks Sw",1
+"1141",2013,"Outer (Pye)",133
+"1142",2013,"Perl",0
+"1143",2013,"Pinnacle Rock",742
+"1144",2013,"Point Elrington",1
+"1145",2013,"Point Marsh",0
+"1146",2013,"Procession Rocks",2
+"1147",2013,"Puale Bay",0
+"1148",2013,"Ragged/Hoof Point",0
+"1149",2013,"Rk Near Sea Otter",0
+"1150",2013,"Sail",0
+"1151",2013,"Sea Lion Islands",2
+"1152",2013,"Sea Lion Rock (Puffin Bay)",0
+"1153",2013,"Sea Lion Rocks (Marmot)",0
+"1154",2013,"Sea Lion Rocks (Shumagins)",0
+"1155",2013,"Sea Otter",0
+"1156",2013,"Seal Rocks",802
+"1157",2013,"Seal Rocks (Kenai)",0
+"1158",2013,"Shakun Rocks",4
+"1159",2013,"Sitkinak/Cape Sitkinak",1
+"1160",2013,"South Marble",7
+"1161",2013,"South Rocks",64
+"1162",2013,"Sugarloaf",862
+"1163",2013,"Sunset",2
+"1164",2013,"Sushilnoi Rocks",12
+"1165",2013,"Sutwik",19
+"1166",2013,"The Brothers/Sw",0
+"1167",2013,"The Haystacks",0
+"1168",2013,"The Needle",29
+"1169",2013,"The Whaleback",61
+"1170",2013,"Timbered",4
+"1171",2013,"Twoheaded",48
+"1172",2013,"Unga/Acheredin Point",0
+"1173",2013,"Ushagat/Nw",0
+"1174",2013,"Ushagat/Rocks South",0
+"1175",2013,"Ushagat/Sw",100
+"1176",2013,"West Rock",0
+"1177",2013,"White Sisters",924
+"1178",2013,"Wolf Rock",0
+"1179",2013,"Wooded (Fish)",276
+"1180",2013,"Wosnesenski",0
+"1181",2013,"Yasha",8
+"1182",2013,"Kodiak/Cape Barnabas",0
+"1183",2013,"Kodiak/Cape Chiniak",0
+"1184",2013,"Kodiak/Gull Point",0
+"1185",2014,"Agattu/Cape Sabak",44
+"1186",2014,"Agattu/Gillon Point",80
+"1187",2014,"Alaid",16
+"1188",2014,"Amchitka/East Cape",9
+"1189",2014,"Attu/Cape Wrangell",34
+"1190",2014,"Attu/Chichagof Point",0
+"1191",2014,"Ayugadak",42
+"1192",2014,"Kiska/Cape St Stephen",71
+"1193",2014,"Kiska/Lief Cove",84
+"1194",2014,"Semisopochnoi/Pochnoi",8
+"1195",2014,"Ulak/Hasgox Point",175
+"1196",2014,"Adak/Cape Kagigikak",4
+"1197",2014,"Adak/Cape Yakak",0
+"1198",2014,"Adak/Crone Island",0
+"1199",2014,"Adak/Lake Point",250
+"1200",2014,"Adugak",294
+"1201",2014,"Agligadak",0
+"1202",2014,"Aiktak",7
+"1203",2014,"Akutan/Cape Morgan",748
+"1204",2014,"Akutan/Reef-Lava",21
+"1205",2014,"Amak+rocks",4
+"1206",2014,"Amatignak/Nitrof Point",0
+"1207",2014,"Amlia/Cape Misty",0
+"1208",2014,"Amlia/East Cape",2
+"1209",2014,"Amlia/Sviech. Harbor",34
+"1210",2014,"Anagaksik",0
+"1211",2014,"Atka/Cape Korovin",0
+"1212",2014,"Atka/North Cape",0
+"1213",2014,"Atkins",315
+"1214",2014,"Avatanak/s",0
+"1215",2014,"Avatanak/Se",0
+"1216",2014,"Bird",4
+"1217",2014,"Bird (Shumagins)",0
+"1218",2014,"Bogoslof/Fire Island",337
+"1219",2014,"Carlisle",0
+"1220",2014,"Castle Rock",4
+"1221",2014,"Caton",1
+"1222",2014,"Chernabura",266
+"1223",2014,"Chuginadak",1
+"1224",2014,"Chugul",0
+"1225",2014,"Clubbing Rocks North",232
+"1226",2014,"Clubbing Rocks South",487
+"1227",2014,"Egg",0
+"1228",2014,"Egg/Se Tip",0
+"1229",2014,"Fenimore",0
+"1230",2014,"Gramp Rock",236
+"1231",2014,"Herbert",0
+"1232",2014,"Ilak",0
+"1233",2014,"Inner Signal",0
+"1234",2014,"Jude",304
+"1235",2014,"Kagalaska",0
+"1236",2014,"Kagamil",0
+"1237",2014,"Kanaga/Ship Rock",207
+"1238",2014,"Kasatochi/North Point",376
+"1239",2014,"Kavalga",0
+"1240",2014,"Kupreanof Point",0
+"1241",2014,"Little Tanaga Strait",0
+"1242",2014,"Mitrofania",4
+"1243",2014,"Ogchul",130
+"1244",2014,"Ogliuga",0
+"1245",2014,"Oglodak",0
+"1246",2014,"Old Man Rocks",0
+"1247",2014,"Olga Rocks Ne",0
+"1248",2014,"Olga Rocks Sw",5
+"1249",2014,"Pinnacle Rock",714
+"1250",2014,"Polivnoi Rock",0
+"1251",2014,"Rootok/East",0
+"1252",2014,"Rootok/North",0
+"1253",2014,"Sagigik",0
+"1254",2014,"Salt",0
+"1255",2014,"Sea Lion Rock (Amak)",185
+"1256",2014,"Sea Lion Rocks (Shumagins)",0
+"1257",2014,"Seguam/Finch Point",2
+"1258",2014,"Seguam/Lava Cove",0
+"1259",2014,"Seguam/Moundhill Point",0
+"1260",2014,"Seguam/Saddleridge",530
+"1261",2014,"Seguam/Sw Rip",0
+"1262",2014,"Seguam/Turf Point",0
+"1263",2014,"Silak",0
+"1264",2014,"Skagul/S. Point",0
+"1265",2014,"Spitz",0
+"1266",2014,"Sushilnoi Rocks",62
+"1267",2014,"Tag",104
+"1268",2014,"Tagalak",0
+"1269",2014,"Tagalak/Pass",12
+"1270",2014,"Tanginak",0
+"1271",2014,"The Haystacks",1
+"1272",2014,"The Pillars",1
+"1273",2014,"The Whaleback",58
+"1274",2014,"Tigalda/Rocks Ne",0
+"1275",2014,"Tigalda/South Side",1
+"1276",2014,"Ugamak/North",402
+"1277",2014,"Ugamak/Round",160
+"1278",2014,"Ugamak/Ugamak Bay",242
+"1279",2014,"Ugidak",0
+"1280",2014,"Uliaga",1
+"1281",2014,"Umnak/Cape Aslik",2
+"1282",2014,"Unalaska/Bishop Point",3
+"1283",2014,"Unalaska/Cape Izigan",42
+"1284",2014,"Unalaska/Priest Rock",0
+"1285",2014,"Unalaska/Spray Cape",1
+"1286",2014,"Unga/Acheredin Point",0
+"1287",2014,"Unimak/Cape Sarichef",0
+"1288",2014,"Unimak/s of Oksenof Point",1
+"1289",2014,"Unalaska/w of Makushin Bay",0
+"1290",2014,"Vsevidof",0
+"1291",2014,"Wosnesenski",0
+"1292",1961,"All",1096
+"1293",1965,"All",3391
+"1294",1967,"All",5200
+"1295",1968,"All",3000
+"1296",1971,"All",3500
+"1297",1973,"All",2350
+"1298",1975,"All",3500
+"1299",1976,"All",1439
+"1300",1978,"All",1790
+"1301",1979,"All",1459
+"1302",1982,"All",1227
+"1303",1984,"All",2190
+"1304",1985,"All",941
+"1305",1986,"All",1821
+"1306",1987,"All",1512
+"1307",1988,"All",1463
+"1308",1989,"All",854
+"1309",1994,"All",409
+"1310",1981,"All",292
+"1311",1990,"All",498
+"1312",1991,"All",768
+"1313",1992,"All",492
+"1314",1993,"All",478
+"1315",1995,"All",1090
+"1316",1996,"All",750
+"1317",1997,"All",520
+"1318",1998,"All",332
+"1319",2000,"All",155
+"1320",2001,"All",196
+"1321",2002,"All",198
+"1322",2003,"All",163
+"1323",2004,"All",45
+"1324",2005,"All",231
+"1325",2007,"All",87
+"1326",2009,"All",183
+"1327",2008,"All",63
+"1328",2010,"All",105
+"1329",2011,"All",93
+"1330",2012,"All",34
+"1331",2013,"All",113
+"1332",2014,"All",70

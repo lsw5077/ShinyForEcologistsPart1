@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gmi:MI_Metadata xmlns:gmi="http://www.isotc211.org/2005/gmi" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:gsr="http://www.isotc211.org/2005/gsr" xmlns:gss="http://www.isotc211.org/2005/gss" xmlns:gts="http://www.isotc211.org/2005/gts" xmlns:srv="http://www.isotc211.org/2005/srv" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.isotc211.org/2005/gmi http://www.ngdc.noaa.gov/metadata/published/xsd/schema.xsd">
+  <gmd:fileIdentifier>
+    <gco:CharacterString>8Y0CJT</gco:CharacterString>
+  </gmd:fileIdentifier>
+  <gmd:language>
+    <gco:CharacterString>eng; USA</gco:CharacterString>
+  </gmd:language>
+  <gmd:characterSet>
+    <gmd:MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8">utf8</gmd:MD_CharacterSetCode>
+  </gmd:characterSet>
+  <gmd:hierarchyLevel>
+    <gmd:MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml" codeListValue="dataset">dataset</gmd:MD_ScopeCode>
+  </gmd:hierarchyLevel>
+  <gmd:hierarchyLevelName>
+    <gco:CharacterString>dataset</gco:CharacterString>
+  </gmd:hierarchyLevelName>
+  <gmd:contact>
+    <gmd:CI_ResponsibleParty>
+      <gmd:individualName>
+        <gco:CharacterString>Dr.</gco:CharacterString>
+      </gmd:individualName>
+      <gmd:organisationName>
+        <gmx:Anchor/>
+      </gmd:organisationName>
+      <gmd:contactInfo>
+        <gmd:CI_Contact>
+          <gmd:phone>
+            <gmd:CI_Telephone>
+              <gmd:voice>
+                <gco:CharacterString/>
+              </gmd:voice>
+              <gmd:facsimile>
+                <gco:CharacterString/>
+              </gmd:facsimile>
+            </gmd:CI_Telephone>
+          </gmd:phone>
+          <gmd:address>
+            <gmd:CI_Address>
+              <gmd:deliveryPoint>
+                <gco:CharacterString/>
+              </gmd:deliveryPoint>
+              <gmd:deliveryPoint>
+                <gco:CharacterString/>
+              </gmd:deliveryPoint>
+              <gmd:city>
+                <gco:CharacterString/>
+              </gmd:city>
+              <gmd:administrativeArea>
+                <gco:CharacterString/>
+              </gmd:administrativeArea>
+              <gmd:postalCode>
+                <gco:CharacterString/>
+              </gmd:postalCode>
+              <gmd:country>
+                <gmx:Anchor>United States</gmx:Anchor>
+              </gmd:country>
+            </gmd:CI_Address>
+          </gmd:address>
+        </gmd:CI_Contact>
+      </gmd:contactInfo>
+      <gmd:role>
+        <gmd:CI_RoleCode codeList="http://www.ngdc.noaa.gov/metadata/published/xsd/schema/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="resourceProvider">resourceProvider</gmd:CI_RoleCode>
+      </gmd:role>
+    </gmd:CI_ResponsibleParty>
+  </gmd:contact>
+  <gmd:dateStamp>
+    <gco:Date>2015-05-11</gco:Date>
+  </gmd:dateStamp>
+  <gmd:metadataStandardName>
+    <gco:CharacterString>ISO 19115-2 Geographic Information - Metadata - Part 2: Extensions for Imagery and Gridded Data</gco:CharacterString>
+  </gmd:metadataStandardName>
+  <gmd:metadataStandardVersion>
+    <gco:CharacterString>ISO 19115-2:2009(E)</gco:CharacterString>
+  </gmd:metadataStandardVersion>
+  <gmd:identificationInfo>
+    <gmd:MD_DataIdentification>
+      <gmd:citation>
+        <gmd:CI_Citation>
+          <gmd:title>
+            <gco:CharacterString>Steller sea lion pup counts in Alaska from 1961 to 2014</gco:CharacterString>
+          </gmd:title>
+          <gmd:date gco:nilReason="unknown"/>
+          <gmd:citedResponsibleParty>
+            <gmd:CI_ResponsibleParty>
+              <gmd:individualName>
+                <gco:CharacterString>Lowell Fritz</gco:CharacterString>
+              </gmd:individualName>
+              <gmd:organisationName>
+                <gmx:Anchor xlink:href="http://www.nodc.noaa.gov/cgi-bin/OAS/prd/institution/details/1601" xlink:actuate="onRequest">US DOC; NOAA; NMFS; Alaska Fisheries Science Center; National Marine Mammal Laboratory (NMFS/AFSC National Marine Mammal Laboratory - NMFS/AFSC/NMML)</gmx:Anchor>
+              </gmd:organisationName>
+              <gmd:contactInfo>
+                <gmd:CI_Contact>
+                  <gmd:address>
+                    <gmd:CI_Address>
+                      <gmd:electronicMailAddress>
+                        <gco:CharacterString>lowell.frtiz@noaa.gov</gco:CharacterString>
+                      </gmd:electronicMailAddress>
+                    </gmd:CI_Address>
+                  </gmd:address>
+                </gmd:CI_Contact>
+              </gmd:contactInfo>
+              <gmd:role>
+                <gmd:CI_RoleCode codeList="http://www.ngdc.noaa.gov/metadata/published/xsd/schema/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact">pointOfContact</gmd:CI_RoleCode>
+              </gmd:role>
+            </gmd:CI_ResponsibleParty>
+          </gmd:citedResponsibleParty>
+        </gmd:CI_Citation>
+      </gmd:citation>
+      <gmd:abstract>
+        <gco:CharacterString>This database contains counts of Steller sea lion pups on rookeries in Alaska made between 1961 and 2014.  Pup counts are conducted in late June-July.  Pups are counted from the ground (by walking along the rookery), from cliff-side overlooks, and from aerial images (oblique and vertical orientation).  Pup counts conducted in late June-mid July are considered to represent a complete census of pups produced at each site during the year.</gco:CharacterString>
+      </gmd:abstract>
+      <gmd:purpose>
+        <gco:CharacterString>Counts of Steller sea lions pups are used to monitor trends in the population and in the development of population models.</gco:CharacterString>
+      </gmd:purpose>
+      <gmd:credit>
+        <gmx:Anchor xlink:href="http://www.nodc.noaa.gov/cgi-bin/OAS/prd/institution/details/273" xlink:actuate="onRequest">Related Funding Agency: US DOC; NOAA; National Marine Fisheries Service (NMFS)</gmx:Anchor>
+      </gmd:credit>
+      <gmd:credit>
+        <gmx:Anchor>Suggested Author List: Fritz, Lowell; Sweeney, Kathryn; Lynn, Morgan; Gelatt, Thomas; Gilpatrick, James; Towell, Rodney</gmx:Anchor>
+      </gmd:credit>
+      <gmd:descriptiveKeywords>
+        <gmd:MD_Keywords>
+          <gmd:keyword>
+            <gmx:Anchor>Aleutian Islands</gmx:Anchor>
+          </gmd:keyword>
+          <gmd:type>
+            <gmd:MD_KeywordTypeCode codeList="http://www.ngdc.noaa.gov/metadata/published/xsd/schema/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="place">place</gmd:MD_KeywordTypeCode>
+          </gmd:type>
+          <gmd:thesaurusName>
+            <gmd:CI_Citation>
+              <gmd:title>
+                <gco:CharacterString>Sea areas or Regions</gco:CharacterString>
+              </gmd:title>
+              <gmd:date gco:nilReason="inapplicable"/>
+            </gmd:CI_Citation>
+          </gmd:thesaurusName>
+        </gmd:MD_Keywords>
+      </gmd:descriptiveKeywords>
+      <gmd:descriptiveKeywords>
+        <gmd:MD_Keywords>
+          <gmd:keyword>
+            <gmx:Anchor xlink:href="http://www.nodc.noaa.gov/cgi-bin/OAS/prd/seaname/details/47" xlink:actuate="onRequest">Bering Sea</gmx:Anchor>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gmx:Anchor xlink:href="http://www.nodc.noaa.gov/cgi-bin/OAS/prd/seaname/details/15" xlink:actuate="onRequest">Gulf of Alaska</gmx:Anchor>
+          </gmd:keyword>
+          <gmd:keyword>
+            <gmx:Anchor xlink:href="http://www.nodc.noaa.gov/cgi-bin/OAS/prd/seaname/details/54" xlink:actuate="onRequest">Coastal Waters of Southeast Alaska and British Columbia</gmx:Anchor>
+          </gmd:keyword>
+          <gmd:type>
+            <gmd:MD_KeywordTypeCode codeList="http://www.ngdc.noaa.gov/metadata/published/xsd/schema/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="place">place</gmd:MD_KeywordTypeCode>
+          </gmd:type>
+          <gmd:thesaurusName>
+            <gmd:CI_Citation>
+              <gmd:title>
+                <gco:CharacterString>NODC SEA AREA NAMES THESAURUS</gco:CharacterString>
+              </gmd:title>
+              <gmd:date gco:nilReason="inapplicable"/>
+            </gmd:CI_Citation>
+          </gmd:thesaurusName>
+        </gmd:MD_Keywords>
+      </gmd:descriptiveKeywords>
+      <gmd:descriptiveKeywords>
+        <gmd:MD_Keywords>
+          <gmd:keyword>
+            <gmx:Anchor>Steller sea lion pup counts</gmx:Anchor>
+          </gmd:keyword>
+          <gmd:type>
+            <gmd:MD_KeywordTypeCode codeList="http://www.ngdc.noaa.gov/metadata/published/xsd/schema/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme">theme</gmd:MD_KeywordTypeCode>
+          </gmd:type>
+          <gmd:thesaurusName>
+            <gmd:CI_Citation>
+              <gmd:title>
+                <gco:CharacterString>Data Types</gco:CharacterString>
+              </gmd:title>
+              <gmd:date gco:nilReason="inapplicable"/>
+            </gmd:CI_Citation>
+          </gmd:thesaurusName>
+        </gmd:MD_Keywords>
+      </gmd:descriptiveKeywords>
+      <gmd:descriptiveKeywords>
+        <gmd:MD_Keywords>
+          <gmd:keyword>
+            <gmx:Anchor>Visual observation and photographs</gmx:Anchor>
+          </gmd:keyword>
+          <gmd:type>
+            <gmd:MD_KeywordTypeCode codeList="http://www.ngdc.noaa.gov/metadata/published/xsd/schema/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="instrument">instrument</gmd:MD_KeywordTypeCode>
+          </gmd:type>
+          <gmd:thesaurusName>
+            <gmd:CI_Citation>
+              <gmd:title>
+                <gco:CharacterString>Sampling Instruments</gco:CharacterString>
+              </gmd:title>
+              <gmd:date gco:nilReason="inapplicable"/>
+            </gmd:CI_Citation>
+          </gmd:thesaurusName>
+        </gmd:MD_Keywords>
+      </gmd:descriptiveKeywords>
+      <gmd:descriptiveKeywords>
+        <gmd:MD_Keywords>
+          <gmd:keyword>
+            <gmx:Anchor>other</gmx:Anchor>
+          </gmd:keyword>
+          <gmd:type>
+            <gmd:MD_KeywordTypeCode codeList="http://www.ngdc.noaa.gov/metadata/published/xsd/schema/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="obstype">obstype</gmd:MD_KeywordTypeCode>
+          </gmd:type>
+          <gmd:thesaurusName>
+            <gmd:CI_Citation>
+              <gmd:title>
+                <gco:CharacterString>Observation Category</gco:CharacterString>
+              </gmd:title>
+              <gmd:date gco:nilReason="inapplicable"/>
+            </gmd:CI_Citation>
+          </gmd:thesaurusName>
+        </gmd:MD_Keywords>
+      </gmd:descriptiveKeywords>
+      <gmd:language>
+        <gco:CharacterString>eng; USA</gco:CharacterString>
+      </gmd:language>
+      <gmd:topicCategory>
+        <gmd:MD_TopicCategoryCode>oceans</gmd:MD_TopicCategoryCode>
+      </gmd:topicCategory>
+      <gmd:topicCategory>
+        <gmd:MD_TopicCategoryCode>environment</gmd:MD_TopicCategoryCode>
+      </gmd:topicCategory>
+      <gmd:extent>
+        <gmd:EX_Extent id="boundingExtent">
+          <gmd:geographicElement>
+            <gmd:EX_GeographicBoundingBox id="boundingGeographicBoundingBox">
+              <gmd:westBoundLongitude>
+                <gco:Decimal>172</gco:Decimal>
+              </gmd:westBoundLongitude>
+              <gmd:eastBoundLongitude>
+                <gco:Decimal>-131</gco:Decimal>
+              </gmd:eastBoundLongitude>
+              <gmd:southBoundLatitude>
+                <gco:Decimal>51</gco:Decimal>
+              </gmd:southBoundLatitude>
+              <gmd:northBoundLatitude>
+                <gco:Decimal>63</gco:Decimal>
+              </gmd:northBoundLatitude>
+            </gmd:EX_GeographicBoundingBox>
+          </gmd:geographicElement>
+          <gmd:temporalElement>
+            <gmd:EX_TemporalExtent>
+              <gmd:extent>
+                <gml:TimePeriod gml:id="boundingTemporalExtent">
+                  <gml:beginPosition>1961-06-22</gml:beginPosition>
+                  <gml:endPosition>2014-07-09</gml:endPosition>
+                </gml:TimePeriod>
+              </gmd:extent>
+            </gmd:EX_TemporalExtent>
+          </gmd:temporalElement>
+        </gmd:EX_Extent>
+      </gmd:extent>
+    </gmd:MD_DataIdentification>
+  </gmd:identificationInfo>
+  <gmd:contentInfo>
+    <gmd:MD_FeatureCatalogueDescription>
+      <gmd:includedWithDataset>
+        <gco:Boolean>true</gco:Boolean>
+      </gmd:includedWithDataset>
+      <gmd:featureTypes>
+        <gco:LocalName>Steller sea lion pup counts (count)</gco:LocalName>
+      </gmd:featureTypes>
+      <gmd:featureCatalogueCitation gco:nilReason="unknown"/>
+    </gmd:MD_FeatureCatalogueDescription>
+  </gmd:contentInfo>
+  <gmd:dataQualityInfo>
+    <gmd:DQ_DataQuality>
+      <gmd:scope>
+        <gmd:DQ_Scope>
+          <gmd:level>
+            <gmd:MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset">dataset</gmd:MD_ScopeCode>
+          </gmd:level>
+          <gmd:extent xlink:href="#boundingExtent"/>
+        </gmd:DQ_Scope>
+      </gmd:scope>
+      <gmd:lineage xlink:title="References">
+        <gmd:LI_Lineage>
+          <gmd:statement>
+            <gco:CharacterString>http://www.afsc.noaa.gov/Publications/AFSC-TM/NOAA-TM-AFSC-251.pdf</gco:CharacterString>
+          </gmd:statement>
+        </gmd:LI_Lineage>
+      </gmd:lineage>
+    </gmd:DQ_DataQuality>
+  </gmd:dataQualityInfo>
+  <gmd:dataQualityInfo>
+    <gmd:DQ_DataQuality>
+      <gmd:scope>
+        <gmd:DQ_Scope>
+          <gmd:level>
+            <gmd:MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset">dataset</gmd:MD_ScopeCode>
+          </gmd:level>
+        </gmd:DQ_Scope>
+      </gmd:scope>
+      <gmd:lineage>
+        <gmd:LI_Lineage>
+          <gmd:processStep>
+            <gmi:LE_ProcessStep>
+              <gmd:description>
+                <gco:CharacterString>Data Type: Steller sea lion pup counts (measured); Units: count; Observation Type: other; Sampling Instrument: Visual observation and photographs; Sampling and Analyzing Method: STELLER SEA LION PUP COUNT DATABASE 
+Last Updated:   February 20, 2015                       
+
+The file Pup Web Data.csv contains counts of Steller sea lion pups on rookeries and major haulouts in Alaska from the NMML data base.  The counts were made between 1961 and 2014.   
+
+The pup count data file (2014 pup web data.csv) is in ASCII text format and fields are comma delimited (.csv).  It contains the following fields:
+
+     SITENAME
+     REGIONNUMB: 5 = Southeast Alaska, 
+                                 6 = Eastern Gulf of Alaska
+                                 7 = Central Gulf of Alaska
+                                 8 = Western Gulf of Alaska
+                                 9 = Eastern Aleutian Islands
+                               10 = Central Aleutian Islands
+                               11 = Western Aleutian Islands
+                               12 = Bering Sea
+   
+     TRENDSITE    0 - not a trend site, 1 - is a trend site
+     ROOKERY      0 - not a rookery, 1 - is a rookery, 2 - special case, rookery but not a trend rookery.
+
+     MONTH   1-12, 99 is unknown/missing
+     DAY     1-31, 99 is unknown/missing
+     YEAR
+
+     PUPCOUNT  (live pups only, does not include pups dead at time of count)
+     COUNTTYPE: 1 = aerial photo (35mm)
+                             2 = medium-format (5 inch) aerial photo
+                             3 = aerial photo (digital)
+                             4 = aerial, visual estimate 
+	                     5 = beach/ground count
+	                     6 = viewpoint observations
+	                     7 = count from skiff nearshore
+	                     8 = count from ship offshore
+                             9 = other (explain in comments)
+	                   10 = UAV photos 
+                           99 = unknown or not specified
+     SOURCE:    1 = NMFS/National Marine Mammal Laboratory
+                         2 = Alaska Department of Fish and Game
+                         3 = Oregon Department of Fish and Wildlife
+                         4 = Washington Department of Fish and Wildlife
+                         5 = NMFS/Southwest Fisheries Science Center
+                         6 = Canada Department of Fisheries and Oceans
+                         7 = other (explain in comments)
+                       99 = unknown or not specified
+     REPLICATE: R if replicate count (different day) during the same survey, N otherwise. If there are replicate counts for a site, all counts for that site are marked R. Beginning in 2010, there are multiple counts at the same site with the same date.  These are the raw counts of more than one counter using aerial photos, and in these cases, the replicate field is marked N.  Note that starting in 2002, individual counters¿ counts during beach/ground counts are listed in the Comments, and again Replicate is "N".  
+     COUNTER:   initials of counter (photo) started in 2010)
+     COMMENTS:  (Clarification of COUNTTYPE, SOURCE, or COUNT as necessary); Data Quality Information: There are several issues with the data that users need to be aware of before using this database.  
+1. This database is continually being updated and modified. Users should check for the date the database was last modified.  
+2. This data set includes counts from all times year, some of which may not be appropriate for particular analyses.  The number of sea lions at a given site is extremely seasonally dependent.  Comparison of counts from November in one year and from July in another year is likely to produce confounded results.  Population trend analyses typically are performed using data only from the breeding season   June and July.  
+3. The most precise counts, and thus the counts preferred for population trend analyses, are aerial survey counts made from photographs.  Counts made from skiffs or ships may be very accurate for small numbers of sea lions but imprecise for large groups.  Visual estimates made from the air are best used as qualitative not quantitative data.  
+4. In general, this database includes counts of non-pup (adult and juvenile) Steller sea lions. This means that counts made during the breeding season (June and July) do not include newborn pups. After pups undergo their first molt in the fall or early winter, however, they are the same color as older sea lions and they are difficult or impossible to distinguish from juveniles. For this reason, counts made outside of the breeding season do include pups of the year that are 4 to 12 months old.  
+5. A zero in the COUNT field means the site was surveyed and no sea lions were present.  If a site was not surveyed in a given year it is not included in the database;  there are no records with the COUNT field blank.  
+6. Throughout the database "99" indicates that a day, month, platform, or source is unknown.  
+7. There are blanks in the COMMENT field.  This may cause problems when end users import the ASCII text file into their preferred software format.  
+8. Site names are not consistent throughout the database.  Surveys prior to 1990 frequently combined separate haul-out sites on an island into a single count, whereas more recent surveys usually list sites separately (e.g., Agattu versus Agattu/Cape Sabak and Agattu/Gillon Point). Also, the NMML continues to refine the definition of individual sites and occasionally adds new sites.</gco:CharacterString>
+              </gmd:description>
+            </gmi:LE_ProcessStep>
+          </gmd:processStep>
+        </gmd:LI_Lineage>
+      </gmd:lineage>
+    </gmd:DQ_DataQuality>
+  </gmd:dataQualityInfo>
+</gmi:MI_Metadata>

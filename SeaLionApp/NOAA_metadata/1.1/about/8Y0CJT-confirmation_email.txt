@@ -1,0 +1,22 @@
+Subject: [Send2NCEI] data submission confirmation for Reference ID: 8Y0CJT
+To: brian.fadely@noaa.gov
+From: NODC.DataOfficer@noaa.gov
+
+Dear S2N User,
+
+Thank you for submitting your data collection, titled "Steller sea lion pup counts in Alaska from 1961 to 2014", to the NOAA National Oceanographic Data Center (NODC), now a component of the NOAA National Centers for Environmental Information (NCEI). Your submission package has been assigned Reference ID: 8Y0CJT. After reviewing your data and metadata, NODC will update you about the archival status of your submission package.
+
+You will be notified if NODC creates an archival information package (accession) of your data, including the unique identifier for that archival information package (the NODC Accession number).  When your data are archived, NODC keeps an exact copy of the data and metadata you sent and will develop necessary tracking and discovery metadata. In addition, NODC may create additional versions to ensure your data are preserved for long-term access. 
+
+Upon completion of these archival ingest actions, NODC will publish your data online (including a copy of your original files). You will receive another email once your submission package (Reference ID: 8Y0CJT) is published for global access. In addition, NODC may include all or part of your data into one or more product databases, such as the World Ocean Database.
+
+If you have any questions about NCEI and NODC archival processes, please contact NODC.DataOfficer@noaa.gov. Also, if at any time you wish to update your submission package, please send an e-mail to NODC.DataOfficer@noaa.gov with your request. Please remember to include your submission package Reference ID.  
+
+Thank you again for choosing to archive your data with the ocean component of the National Centers for Environmental Information (NCEI).
+
+NODC Data Officer Team
+NOAA National Centers for Environmental Information
+NOAA/NESDIS
+1315 East-West Highway
+Silver Spring, MD 20910
+USA

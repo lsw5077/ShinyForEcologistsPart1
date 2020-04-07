@@ -1,0 +1,1916 @@
+sitename,regionnumb,trendsite,rookery,month,day,year,pupcount,counttype,source,replicate,counter,comments
+FORRESTER COMPLEX,5,1,1,6,22,1961,1096,99,99,,,"""Bigg, 1985"""
+SUGARLOAF,7,1,1,99,99,1965,3391,99,99,,,"""Calkins & Pitcher, 1982"""
+SUGARLOAF,7,1,1,99,99,1967,5200,99,99,,,"""Calkins 1975, ? est Vania"""
+SUGARLOAF,7,1,1,99,99,1968,3000,99,99,,,"""Calkins 1975, ? est"""
+SUGARLOAF,7,1,1,99,99,1971,3500,99,99,,,"""Calkins & Pitcher, 1982 est"""
+FORRESTER COMPLEX,5,1,1,7,3,1973,2371,99,99,,,"""2400 in Bigg, 1985"""
+SUGARLOAF,7,1,1,99,99,1975,3500,99,99,,,"""Calkins & Pitcher, 1982 est"""
+SUGARLOAF,7,1,1,99,99,1976,3500,99,99,,,"""Calkins & Pitcher, 1982 est"""
+SEAL ROCKS,6,1,1,99,27,1976,316,99,2,,,"""branded 316 Calkins & Pitcher, 1982"", min 85 dead"
+OUTER (PYE),7,0,1,6,24,1976,500,99,99,,,"""Calkins & Pitcher, 1982 vis est from heli"""
+ATKINS,8,1,1,6,26,1978,2750,99,99,,,"""Calkins et al, 1979 Annual Report"""
+CHERNABURA,8,1,1,6,26,1978,486,99,99,,,"""Calkins et al, 1979 Annual Report"""
+CHIRIKOF,7,1,1,6,30,1978,1573,99,99,,,"""Calkins et al, 1979 Annual Report"""
+CHOWIET,7,1,1,6,29,1978,4670,99,99,,,"""Calkins et al, 1979 Annual Report"""
+CLUBBING ROCKS,8,1,1,6,28,1978,725,99,99,,,"""Calkins et al, 1979 Annual Report (est from heli)"""
+LIGHTHOUSE ROCKS,8,0,1,6,29,1978,250,99,99,,,"""Calkins et al, 1979 Annual Report (est from heli)"""
+OUTER (PYE),7,0,1,6,21,1978,431,99,99,,,"""Calkins et al, 1979 Annual Report (est from boat)"""
+PINNACLE ROCK,8,1,1,6,29,1978,615,99,99,,,"""Calkins et al, 1979 Annual Report (est from heli)"""
+SOUTH ROCKS,8,0,1,6,27,1978,30,99,99,,,"""Calkins et al, 1979 Annual Report"""
+SEAL ROCKS,6,1,1,6,20,1978,545,99,2,,,"""Calkins et al, 1979 Annual Report"""
+MARMOT,7,1,1,7,4,1978,6140,99,99,,,"""Calkins et al, 1979 Annual Report"""
+SUGARLOAF,7,1,1,7,5,1978,5021,99,99,,,"""Calkins et al, 1979 Annual Report"""
+ATKINS,8,1,1,99,99,1979,4538,99,99,,,"""Calkins & Pitcher, 1982"""
+CHERNABURA,8,1,1,99,99,1979,646,99,99,,,"""Calkins & Pitcher, 1982"""
+CHIRIKOF,7,1,1,99,99,1979,1649,99,99,,,"""Calkins & Pitcher, 1982"""
+CHOWIET,7,1,1,99,99,1979,5485,99,99,,,"""Calkins & Pitcher, 1982"""
+CLUBBING ROCKS,8,1,1,99,99,1979,1419,99,99,,,"""Calkins & Pitcher, 1982"""
+FORRESTER COMPLEX,5,1,1,99,99,1979,2187,99,99,,,"""Calkins & Pitcher, 1982, Pin invest in SEAK"""
+HAZY,5,1,1,99,99,1979,31,99,99,,,20 in NMFS 1992
+LIGHTHOUSE ROCKS,8,0,1,99,99,1979,112,99,99,,,"""Calkins & Pitcher, 1982"""
+SUGARLOAF,7,1,1,99,99,1979,5123,99,99,,,"""Calkins & Pitcher, 1982"""
+SEAL ROCKS,6,1,1,99,99,1979,491,99,2,,,"""Calkins & Pitcher, 1982"""
+OUTER (PYE),7,0,1,6,99,1979,888,99,99,,,"""Calkins & Pitcher, 1982"""
+PINNACLE ROCK,8,1,1,6,99,1979,2748,99,99,,,changed 2013 to 2748 as in Calkins-Pitcher (8apr99
+ATTU,11,0,0,7,10,1979,642,99,99,,,"""AINWR report, 1980"""
+BULDIR,11,0,1,7,99,1979,1142,99,99,,,"""AINWR report, 1980"""
+MARMOT,7,1,1,7,7,1979,6741,99,99,,,"""6658 in Aumiller & Orth, 1979 (ok calk-pitch 1982)"""
+FORRESTER COMPLEX,5,1,1,7,1,1982,2120,99,99,,,"""Loughlin & Merrick, 1988 but 2227 in NMFS,1992"""
+ATKINS,8,1,1,99,99,1984,2093,99,99,,,"""Calkins and Pitcher, ?(adfg 83-84 pinniped invest)"""
+CHERNABURA,8,1,1,99,99,1984,200,99,99,,,"""Calkins and Pitcher, ?(adfg 83-84 pinniped invest)"""
+CHIRIKOF,7,1,1,99,99,1984,1913,99,99,,,"""1912 in Calkins 1985, 1913 in Calkins & Pitcher?"""
+CHOWIET,7,1,1,99,99,1984,3207,99,99,,,Calkins 1985
+CLUBBING ROCKS,8,1,1,99,99,1984,1394,99,99,,,"""Calkins and Pitcher, ?(adfg 83-84 pinniped invest)"""
+FORRESTER COMPLEX,5,1,1,99,99,1984,2568,99,99,,,"""Calkins and Pitcher, ?(adfg 83-84 pinniped invest)"""
+PINNACLE ROCK,8,1,1,99,99,1984,2013,99,99,,,"""changed 2748 to 2013 8apr99, Calkins and Pitcher?"""
+SUGARLOAF,7,1,1,99,99,1984,3114,99,99,,,"""Calkins 1985, Calkins & Pitcher?"""
+SEAL ROCKS,6,1,1,99,99,1984,799,99,2,,,"""Calkins and Pitcher, ?(adfg 83-84 pinniped invest)"""
+MARMOT,7,1,1,7,10,1984,5751,99,99,,,"""Lewis thesis, 1987 & Calkins 1985"""
+ADUGAK,9,1,1,6,28,1985,844,99,99,,,"""Merrick et al, 1987"""
+AKUN/BILLINGS HEAD,9,1,1,6,25,1985,60,99,99,,,"""Merrick et al, 1987"""
+AKUTAN/CAPE MORGAN,9,1,1,6,27,1985,1130,99,99,,,"""Merrick et al, 1987"""
+SEGUAM/SADDLERIDGE,10,1,1,6,30,1985,2635,99,99,,,"""Merrick et al, 1987"""
+YUNASKA,10,1,1,6,29,1985,1026,99,99,,,"""Merrick et al, 1987"""
+AYUGADAK,10,1,1,7,7,1985,329,99,99,,,"""Merrick et al, 1987"""
+BOGOSLOF/FIRE ISLAND,9,1,1,7,14,1985,1109,99,99,,,"""Merrick et al, 1987"""
+GRAMP ROCK,10,1,1,7,3,1985,909,99,99,,,"""Merrick et al, 1987"""
+KASATOCHI/NORTH POINT,10,1,1,7,1,1985,892,99,99,,,"""Merrick et al, 1987"""
+KISKA/LIEF COVE,10,1,1,7,6,1985,882,99,99,,,"""Merrick et al, 1987"""
+OGCHUL,9,1,1,7,13,1985,172,99,99,,,"""Merrick et al, 1987"""
+TAG,10,1,1,7,8,1985,703,99,99,,,"""Merrick et al, 1987"""
+ULAK/HASGOX POINT,10,1,1,7,8,1985,1236,99,99,,,"""Merrick et al, 1987"""
+ATKINS,8,1,1,99,99,1986,1072,99,99,,,1046 in loughlin field book(6/29)& Merrick 1987
+CHIRIKOF,7,1,1,99,99,1986,1476,99,99,,,"""Merrick et al, 1987"""
+FORRESTER COMPLEX,5,1,1,99,99,1986,1954,99,99,,,"""Loughlin & Merrick, 1988"""
+OUTER (PYE),7,0,1,99,99,1986,933,99,99,,,"""993 in Calkins & Goodwin, 1988"""
+SUGARLOAF,7,1,1,99,99,1986,3077,99,99,,,"""3107 in Merrick et al, 1987"""
+CHERNABURA,8,1,1,6,30,1986,379,99,99,,,checked in loughlin field book & Merrick et 1987
+CHOWIET,7,1,1,7,1,1986,1731,99,99,,,checked in loughlin field book & Merrick et 1987
+MARMOT,7,1,1,7,8,1986,4381,99,99,,,"""4286 in Merrick et al, 1987"""
+MARMOT,7,1,1,7,2,1987,2910,99,99,,,checked to loughlin field book
+AGATTU,11,1,1,99,99,1988,1218,99,99,,,
+BULDIR,11,0,1,99,99,1988,460,99,99,,,
+FORRESTER COMPLEX,5,1,1,99,99,1988,2202,99,99,,,"""Loughlin & Merrick, 1988"""
+KISKA/CAPE ST STEPHEN,10,1,1,99,99,1988,300,99,99,,,
+MARMOT,7,1,1,7,2,1988,3136,99,99,,,checked in loughlin field book
+CHIRIKOF,7,1,1,6,28,1989,709,99,99,,,checked to loughlin field book
+CHOWIET,7,1,1,6,27,1989,820,99,99,,,"""Calkins et al, 1994"""
+FORRESTER COMPLEX,5,1,1,6,23,1989,2844,99,99,,,"""Loughlin et al, 1992"""
+MARMOT,7,1,1,6,29,1989,2199,99,99,,,"""2119 in loughlin field book (this in Loughlin, 90)"""
+SUGARLOAF,7,1,1,6,29,1989,2109,99,99,,,"""Calkins et al, 1994"""
+AGATTU,11,1,1,7,5,1989,907,99,99,,,"""1153 in Loughlin et al, 1992"""
+BULDIR,11,0,1,7,99,1989,494,99,99,,,"""463 in Loughlin et al, 1992"""
+HAZY,5,1,1,7,99,1989,349,99,99,,,
+OUTER (PYE),7,0,1,7,2,1989,557,99,99,,,"""Calkins et al, 1994"""
+SEAL ROCKS,6,1,1,7,6,1989,553,99,99,,,NMFS 1992
+WALRUS,12,0,1,7,12,1994,61,99,99,,,"""Strick et al, 1997"""
+BOGOSLOF/FIRE ISLAND,9,1,1,6,29,1973,2328,5,99,,,"""Byrd et al, 1980"""
+SEGUAM/SADDLERIDGE,10,1,1,7,12,1979,2475,5,99,,,"""Fiscus et al, 1981"""
+YUNASKA,10,1,1,7,14,1979,752,5,99,,,"""Fiscus et al, 1981"""
+WALRUS,12,0,1,8,4,1981,292,5,1,,,"Loughlin Memo, 8/9/1982"
+WALRUS,12,0,1,7,24,1982,334,5,1,,,"Loughlin Memo, 8/9/1982"
+UGAMAK COMPLEX,9,1,1,6,24,1985,1635,5,99,,,"""Merrick et al, 1987, Ugamak only """
+WALRUS,12,0,1,8,19,1987,114,5,1,,,"Gearin memo, 8/19/1987"
+BOGOSLOF/FIRE ISLAND,9,1,1,7,22,1989,358,5,99,,,"""Loughlin et al, 1990 but 381 Loughlin et al, 1992"""
+KISKA/CAPE ST STEPHEN,10,1,1,7,16,1989,258,5,99,,,"""Merrick et al, 1990"""
+KISKA/LIEF COVE,10,1,1,7,16,1989,293,5,99,,,"""Merrick et al, 1990"""
+SEGUAM/SADDLERIDGE,10,1,1,7,18,1989,529,5,99,,,"""Merrick et al, 1990"""
+ATKINS,8,1,1,6,28,1990,433,5,1,,,"""435 in Merrick et al, 1991"""
+CHERNABURA,8,1,1,6,28,1990,197,5,1,,,"""193 in Merrick et al, 1991"""
+CHIRIKOF,7,1,1,6,26,1990,607,5,1,,,"""checked to field book,Merrick et al, 1991"""
+OUTER (PYE),7,0,1,6,99,1990,363,5,1,,,"""Calkins et al, 1994"""
+SUGARLOAF,7,1,1,6,99,1990,1638,5,1,,,"""Calkins et al, 1994"""
+UGAMAK COMPLEX,9,1,1,6,30,1990,847,5,1,,,"""851 in AKCOUNT-edited 5/1/96 as typo, Ugamak only"""
+HAZY,5,1,1,6,27,1990,638,5,2,,,641 in NMFS 1992
+ADUGAK,9,1,1,7,6,1990,262,5,1,,,"""Merrick et al, 1991"""
+AKUN/BILLINGS HEAD,9,1,1,7,3,1990,63,5,1,,,"""Merrick et al, 1991"""
+AMCHITKA/COLUMN ROCK,10,0,1,7,13,1990,148,5,1,,,"""Merrick et al, 1991"""
+AMLIA/SVIECH. HARBOR,10,0,0,7,9,1990,26,5,1,,,"""Merrick et al, 1991"""
+AYUGADAK,10,1,1,7,14,1990,163,5,1,,,"""Merrick et al, 1991"""
+BOGOSLOF/FIRE ISLAND,9,1,1,7,5,1990,461,5,1,,,"""Merrick et al, 1991"""
+FORRESTER COMPLEX,5,1,1,7,99,1990,2932,5,1,,,NMFS 1992
+GRAMP ROCK,10,1,1,7,16,1990,448,5,1,,,"""Merrick et al, 1991"""
+KISKA/CAPE ST STEPHEN,10,1,1,7,15,1990,212,5,1,,,"""Merrick et al, 1991"""
+KISKA/LIEF COVE,10,1,1,7,15,1990,221,5,1,,,216 in field book
+SEAL ROCKS,6,1,1,7,99,1990,571,5,1,,,NMFS 1992
+SEGUAM/SADDLERIDGE,10,1,1,7,8,1990,684,5,1,,,"""Merrick et al, 1991"""
+TAG,10,1,1,7,12,1990,357,5,1,,,"""Merrick et al, 1991"""
+ULAK/HASGOX POINT,10,1,1,7,12,1990,790,5,1,,,"""Merrick et al, 1991"""
+WHITE SISTERS,5,1,1,7,8,1990,30,5,1,,,"""NMFS 1992, est?"""
+YUNASKA,10,1,1,7,7,1990,230,5,1,,,"""Merrick et al, 1991"""
+BOGOSLOF/FIRE ISLAND,9,1,1,6,28,1991,501,5,1,,,"""Merrick et al, 1992"""
+CHIRIKOF,7,1,1,6,28,1991,656,5,1,,,"""Merrick et al, 1992"""
+OUTER (PYE),7,0,1,6,29,1991,180,5,2,,,"""Merrick et al, 1992"""
+SEAL ROCKS,6,1,1,6,28,1991,657,5,2,,,"""Merrick et al, 1992"""
+AKUN/BILLINGS HEAD,9,1,1,7,5,1991,64,5,1,,,"""63 in Merrick et al, 1992"""
+ATKINS,8,1,1,7,1,1991,485,5,1,,,"""505 in Merrick et al, 1992"""
+MARMOT,7,1,1,7,3,1991,1611,5,1,,,"""Merrick et al, 1992"""
+PINNACLE ROCK,8,1,1,7,2,1991,794,5,1,,,"""845 in Merrick et al, 1992"""
+UGAMAK COMPLEX,9,1,1,7,4,1991,813,5,1,,,"""811 in Merrick et al, 1992, Ugamak only"""
+FORRESTER COMPLEX,5,1,1,7,7,1991,3261,5,2,,,"""Merrick et al, 1992"""
+HAZY,5,1,1,7,6,1991,808,5,2,,,"""Merrick et al, 1992"""
+WHITE SISTERS,5,1,1,7,8,1991,95,5,2,,,"""Merrick et al, 1992"""
+WALRUS,12,0,1,7,16,1991,63,5,99,,,"""50 in Merrick et al, 1992"""
+WHITE SISTERS,5,1,1,6,26,1992,116,5,2,,,
+AKUTAN/CAPE MORGAN,9,1,1,7,7,1992,558,5,1,,,"""556 in Sease et al, 1993,field notes?"""
+CHERNABURA,8,1,1,7,16,1992,211,5,1,,,"""210 in Sease et al, 1993"""
+CHOWIET,7,1,1,7,4,1992,636,5,1,,,"""635 in Sease et al, 1993"""
+CLUBBING ROCKS,8,1,1,7,15,1992,433,5,1,,,"""Sease et al, 1993"""
+SUGARLOAF,7,1,1,7,1,1992,1000,5,1,,,"""1001 in Sease et al, 1993"""
+BOGOSLOF/FIRE ISLAND,9,1,1,6,29,1993,322,5,1,,,
+AKUN/BILLINGS HEAD,9,1,1,7,2,1993,51,5,1,,,field notes
+ATKINS,8,1,1,7,6,1993,419,5,1,,,
+CHIRIKOF,7,1,1,7,7,1993,344,5,1,,,
+MARMOT,7,1,1,7,9,1993,986,5,1,,,
+PINNACLE ROCK,8,1,1,7,4,1993,773,5,1,,,
+UGAMAK COMPLEX,9,1,1,7,3,1993,711,5,1,,,Ugamak only
+HAZY,5,1,1,7,26,1993,759,5,2,,,
+OUTER (PYE),7,0,1,7,2,1993,181,5,2,,,
+SEAL ROCKS,6,1,1,7,1,1993,566,5,2,,,
+WHITE SISTERS,5,1,1,7,11,1993,115,5,2,,,
+WOODED (FISH),6,1,1,7,1,1993,514,5,2,,,
+ADUGAK,9,1,1,6,25,1994,180,5,1,,,checked to field book
+AKUTAN/CAPE MORGAN,9,1,1,6,23,1994,631,5,1,,,checked to field book
+MARMOT,7,1,1,6,27,1994,804,5,1,,,"""Strick et al, 1997"""
+OGCHUL,9,1,1,6,24,1994,94,5,1,,,checked to field book
+SEGUAM/SADDLERIDGE,10,1,1,6,27,1994,444,5,1,,,checked to field book
+YUNASKA,10,1,1,6,26,1994,217,5,1,,,checked to field book
+ATKINS,8,1,1,6,29,1994,324,5,2,,,"""Strick et al, 1997"""
+CHERNABURA,8,1,1,6,29,1994,139,5,2,,,"""Strick et al, 1997"""
+CHIRIKOF,7,1,1,6,28,1994,325,5,2,,,"""Strick et al, 1997"""
+CHOWIET,7,1,1,6,28,1994,625,5,2,,,"""Strick et al, 1997"""
+FORRESTER COMPLEX,5,1,1,6,30,1994,2757,5,2,,,"""Strick et al, 1997"""
+SUGARLOAF,7,1,1,6,26,1994,958,5,2,,,"""Strick et al, 1997"""
+ADAK,10,0,0,7,2,1994,327,5,1,,,"""checked to field book, prior name was c yakak/lake pt"""
+AKUN/BILLINGS HEAD,9,1,1,7,12,1994,69,5,1,,,checked to field book
+AMCHITKA/COLUMN ROCK,10,0,1,7,4,1994,114,5,1,,,checked to field book
+AYUGADAK,10,1,1,7,5,1994,142,5,1,,,checked to field book
+GRAMP ROCK,10,1,1,7,3,1994,425,5,1,,,checked to field book
+KASATOCHI/NORTH POINT,10,1,1,7,8,1994,215,5,1,,,checked to field book
+KISKA/CAPE ST STEPHEN,10,1,1,7,6,1994,120,5,1,,,checked to field book
+KISKA/LIEF COVE,10,1,1,7,6,1994,233,5,1,,,checked to field book
+TAG,10,1,1,7,3,1994,234,5,1,,,checked to field book
+UGAMAK COMPLEX,9,1,1,7,17,1994,574,5,1,,,"""checked to field book, Ugamak only"""
+ULAK/HASGOX POINT,10,1,1,7,3,1994,638,5,1,,,checked to field book
+CLUBBING ROCKS,8,1,1,7,1,1994,547,5,2,,,"""Strick et al, 1997"""
+HAZY,5,1,1,7,1,1994,862,5,2,,,"""Strick et al, 1997"""
+OUTER (PYE),7,0,1,7,3,1994,119,5,2,,,"""Strick et al, 1997"""
+PINNACLE ROCK,8,1,1,7,1,1994,652,5,2,,,"""Strick et al, 1997"""
+SEAL ROCKS,6,1,1,7,2,1994,598,5,2,,,"""Strick et al, 1997"""
+WHITE SISTERS,5,1,1,7,2,1994,151,5,2,,,"""Strick et al, 1997"""
+WOODED (FISH),6,1,1,7,2,1994,305,5,2,,,"""Strick et al, 1997"""
+BOGOSLOF/FIRE ISLAND,9,1,1,6,22,1995,282,5,99,,,checked to field book
+FORRESTER COMPLEX,5,1,1,6,24,1995,2869,5,2,,,
+UGAMAK COMPLEX,9,1,1,6,27,1996,706,5,1,,,"""checked to field book,27 (S) 29 (N) June, Ugamak only"""
+ATKINS,8,1,1,7,2,1996,366,5,1,,,checked to field book (7/2 and 7/7/96)
+MARMOT,7,1,1,7,10,1996,632,5,1,,,checked to field book
+FORRESTER COMPLEX,5,1,1,7,1,1996,2764,5,2,,,"""Strick et al, 1999"""
+HAZY,5,1,1,7,3,1996,768,5,2,,,"""Strick et al, 1999"""
+SEAL ROCKS,6,1,1,7,14,1996,352,5,2,,,"""Strick et al, 1999"""
+WHITE SISTERS,5,1,1,7,3,1996,182,5,2,,,"""Strick et al, 1999"""
+WOODED (FISH),6,1,1,7,13,1996,232,5,2,,,"""Strick et al, 1999"""
+AGATTU/CAPE SABAK,11,1,1,6,25,1997,379,5,1,,,checked to field book
+AGATTU/GILLON POINT,11,1,1,6,25,1997,258,5,1,,,checked to field book
+ATTU/CAPE WRANGELL,11,0,1,6,24,1997,222,5,1,,,checked to field book
+BULDIR,11,0,1,6,26,1997,120,5,1,,,checked to field book
+YUNASKA,10,1,1,6,24,1997,192,5,1,,,"""7 dead pups, Sease & Loughlin, 1999"""
+FORRESTER COMPLEX,5,1,1,6,29,1997,2798,5,2,,,"""Pitcher, 1998 contract report"""
+BOGOSLOF/FIRE ISLAND,9,1,1,7,5,1997,281,5,1,,,checked to field book
+KASATOCHI/NORTH POINT,10,1,1,7,1,1997,268,5,1,,,checked to field book
+SEGUAM/SADDLERIDGE,10,1,1,7,4,1997,463,5,1,,,checked to field book
+UGAMAK COMPLEX,9,1,1,7,7,1997,589,5,1,,,"""Sease & Loughlin, 1999, Ugamak only"""
+HAZY,5,1,1,7,7,1997,1157,5,2,,,"""Pitcher, 1998 contract report"""
+WHITE SISTERS,5,1,1,7,5,1997,205,5,2,,,"""Pitcher, 1998 contract report"""
+ADAK,10,0,0,6,30,1998,340,5,1,,,"""checked to field book, prior name was c yakak/lake pt"""
+AGATTU/CAPE SABAK,11,1,1,6,24,1998,314,5,1,,,checked to field book
+AGATTU/GILLON POINT,11,1,1,6,24,1998,213,5,1,,,checked to field book
+AMCHITKA/COLUMN ROCK,10,0,1,6,28,1998,70,5,1,,,checked to field book
+ATKINS,8,1,1,6,29,1998,352,5,1,,,checked to field book
+ATTU/CAPE WRANGELL,11,0,1,6,25,1998,154,5,1,,,checked to field book
+BULDIR,11,0,1,6,26,1998,122,5,1,,,checked to field book
+CHERNABURA,8,1,1,6,29,1998,54,5,1,,,checked to field book
+CHIRIKOF,7,1,1,6,27,1998,184,5,1,,,checked to field book
+CHOWIET,7,1,1,6,28,1998,234,5,1,,,checked to field book
+CLUBBING ROCKS,8,1,1,6,30,1998,448,5,1,,,checked to field book
+GRAMP ROCK,10,1,1,6,29,1998,456,5,1,,,checked to field book
+KISKA/LIEF COVE,10,1,1,6,27,1998,179,5,1,,,checked to field book
+PINNACLE ROCK,8,1,1,6,30,1998,639,5,1,,,checked to field book
+TAG,10,1,1,6,29,1998,238,5,1,,,checked to field book
+ULAK/HASGOX POINT,10,1,1,6,29,1998,521,5,1,,,checked to field book
+SEAL ROCKS,6,1,1,6,29,1998,542,5,2,,,"""Pitcher, 1998 contract report"""
+ADUGAK,9,1,1,7,4,1998,135,5,1,,,checked to field book
+AKUN/BILLINGS HEAD,9,1,1,7,3,1998,56,5,1,,,checked to field book
+AKUTAN/CAPE MORGAN,9,1,1,7,4,1998,505,5,1,,,checked to field book
+BOGOSLOF/FIRE ISLAND,9,1,1,7,5,1998,220,5,1,,,checked to field book
+KASATOCHI/NORTH POINT,10,1,1,7,1,1998,247,5,1,,,checked to field book
+SEA LION ROCK (AMAK),9,1,1,7,1,1998,134,5,1,,,checked to field book
+SEGUAM/SADDLERIDGE,10,1,1,7,2,1998,479,5,1,,,checked to field book
+UGAMAK COMPLEX,9,1,1,7,2,1998,558,5,1,,,"""checked to field book, Ugamak only"""
+YUNASKA,10,1,1,7,3,1998,161,5,1,,,checked to field book
+FORRESTER COMPLEX,5,1,1,7,5,1998,2753,5,2,,,"""Pitcher, 1998 contract report"""
+HAZY,5,1,1,7,4,1998,1199,5,2,,,"""Pitcher, 1998 contract report"""
+MARMOT,7,1,1,7,1,1998,642,5,2,,,"""Pitcher, 1998 contract report"""
+OUTER (PYE),7,0,1,7,5,1998,113,5,2,,,"""Pitcher 1998, contract report"""
+WHITE SISTERS,5,1,1,7,4,1998,282,5,2,,,"""Pitcher, 1998 contract report"""
+UGAMAK COMPLEX,9,1,1,99,99,1986,1386,6,99,,,"""field book (rt 7/99) + Merrick et al, 1987, Ugamak only"""
+MARMOT,7,1,1,7,99,1997,762,6,1,,,"""Pitcher, 1998 contract report, cnt from perphery"""
+SUGARLOAF,7,1,1,7,3,1997,673,6,2,,,"""Pitcher, 1998 contract report, cnt from periphery"""
+AYUGADAK,10,1,1,6,28,1998,89,6,1,,,checked to field book
+KISKA/CAPE ST STEPHEN,10,1,1,6,27,1998,54,6,1,,,checked to field book
+WOODED (FISH),6,1,1,6,27,1998,147,6,2,,,"""Pitcher, 1998 contract report, cnt from periphery"""
+SUGARLOAF,7,1,1,7,4,1998,703,6,2,,,"""Pitcher, 1998 contract report"""
+BOGOSLOF/FIRE ISLAND,9,1,1,7,15,1979,914,7,99,,,"""Fiscus et al, 1981"""
+ADAK,10,0,0,7,2,1985,558,7,99,,,"""Merrick et al, 1987, prior name was c yakak/lake pt"""
+CHOWIET,7,1,1,6,27,1990,343,7,1,,,"""344 in Merrick et al, 1991"""
+ADAK,10,0,0,7,11,1990,137,7,1,,,"""Merrick et al, 1991, prior name was c yakak/lake pt"""
+AGLIGADAK,10,1,0,7,8,1990,0,3,1,,,"""Merrick et al, 1991"""
+AKUTAN/CAPE MORGAN,9,1,1,7,3,1990,442,7,1,,,"""Merrick et al, 1991"""
+KASATOCHI/NORTH POINT,10,1,1,7,10,1990,178,7,1,,,"""Merrick et al, 1991"""
+AMCHITKA/EAST CAPE,10,1,0,7,4,1994,6,7,1,,,checked to field book
+AMCHITKA/EAST CAPE,10,1,0,6,28,1998,9,7,1,,,checked to field book
+AMLIA/SVIECH. HARBOR,10,0,0,7,2,1998,13,7,1,,,checked to field book
+OGCHUL,9,1,1,7,5,1998,42,7,1,,,checked to field book
+SEMISOPOCHNOI/PETREL,10,0,0,7,7,1994,10,8,1,,,checked to field book
+SEMISOPOCHNOI/POCHNOI,10,0,0,7,7,1994,11,8,1,,,checked to field book
+SEMISOPOCHNOI/PETREL,10,0,0,6,19,1998,0,8,1,,,
+SEMISOPOCHNOI/POCHNOI,10,0,0,6,19,1998,6,8,1,,,checked to JLS field book
+AGLIGADAK,10,1,0,7,2,1998,0,8,1,,,checked to field book
+OUTER (PYE),7,0,1,99,99,1997,106,2,2,,,"""medium-format photo, Pitcher 1998 (contract report)"""
+WOODED (FISH),6,1,1,99,99,1997,123,2,2,,,"""medium-format photo, Pitcher, 1998 contract report"""
+SEAL ROCKS,6,1,1,7,2,1997,487,2,2,,,"""medium-format photo, Pitcher, 1998 contract report, Snyder via Pitcher"""
+MARMOT,7,1,1,7,2,1997,759,2,5,,,medium-format photo
+AGATTU,11,1,1,7,6,1990,1127,99,7,,,"""Douglas & Byrd, 1990, Alaska Maritime NWR"""
+BULDIR,11,0,1,7,8,1990,381,99,7,,,"""Douglas & Byrd, 1990, Alaska Maritime NWR"""
+BULDIR,11,0,1,6,28,1995,120,99,7,,,source: Alaska Maritime NWR
+WALRUS,12,0,1,7,24,1997,35,99,7,,,"""Byrd, 1997, Alaska Maritime NWR"""
+WOODED (FISH),6,1,1,6,20,1978,29,99,99,,,"""Calkins et al, 1979 Annual Report"""
+ADAK/LAKE POINT,10,1,1,6,30,1979,20,99,99,,,"""Fiscus et al, 1981 (rt added 7/99)"""
+KASATOCHI/NORTH POINT,10,1,1,6,25,1979,213,99,99,,,"""Fiscus et al, 1981 (rt added 7/99)"""
+AGATTU,11,1,1,7,99,1979,183,99,99,,,"""AINWR report, 1980 (rt added 7/99, min count)"""
+AYUGADAK,10,1,1,7,10,1979,22,99,99,,,"""Fiscus et al, 1981 (rt added 7/99)"""
+AMCHITKA/COLUMN ROCK,10,0,1,7,6,1979,135,99,99,,,"""Fiscus et al, 1981 (rt added 7/99)"""
+KISKA/CAPE ST STEPHEN,10,1,1,7,8,1979,137,99,99,,,"""Fiscus et al, 1981 (rt added 7/99)"""
+KISKA/LIEF COVE,10,1,1,7,8,1979,476,99,99,,,"""Fiscus et al, 1981 (rt added 7/99)"""
+SEMISOPOCHNOI/POCHNOI,10,0,0,7,3,1979,25,99,99,,,"""Fiscus et al, 1981 (rt added 7/99)"""
+ULAK/HASGOX POINT,10,1,1,7,2,1979,204,99,99,,,"""Fiscus et al, 1981 (rt added 7/99)"""
+OUTER (PYE),7,0,1,99,99,1984,1034,99,99,,,Calkins & Pitcher?
+UGAMAK COMPLEX,9,1,1,7,99,1989,434,99,99,,,"""Loughlin et al, 1992, Ugamak only"""
+WALRUS,12,0,1,8,99,1989,250,99,99,,,"""Loughlin et al, 1992"""
+YUNASKA,10,1,1,6,21,2000,136,5,1,,,Loughlin field book
+ADUGAK,9,1,1,6,22,2000,153,5,1,,,Loughlin field book
+BOGOSLOF/FIRE ISLAND,9,1,1,6,22,2000,249,5,1,,,Loughlin field book
+AKUN/BILLINGS HEAD,9,1,1,6,23,2000,41,5,1,,,Loughlin field book
+UGAMAK/ROUND,9,1,1,6,25,2000,15,5,1,,,Loughlin field book
+PINNACLE ROCK,8,1,1,6,26,2000,634,5,1,,,Loughlin field book
+THE WHALEBACK,8,0,0,6,27,2000,12,5,1,,,Loughlin field book
+ATKINS,8,1,1,6,28,2000,262,5,1,,,Loughlin field book
+LIGHTHOUSE ROCKS,8,0,1,6,28,2000,5,5,1,,,Loughlin field book
+CHIRIKOF,7,1,1,6,29,2000,187,5,1,,,Loughlin field book
+OUTER (PYE),7,0,1,7,3,2000,108,5,1,,,Towell field book
+WOODED (FISH),6,1,1,7,5,2000,149,5,1,,,"""Towell, Thomason & Fadely field notes"""
+CHISWELL ISLANDS,6,1,1,7,6,2000,58,5,1,,,Towell + others count (no written record?)
+AMCHITKA/EAST CAPE,10,1,0,6,11,2001,5,5,99,,,count from USFWS
+SEGUAM/SADDLERIDGE,10,1,1,6,23,2001,468,5,1,,,"June/July 2001 data book (TRL), 14 dead"
+SEGUAM/TURF POINT,10,1,0,6,24,2001,24,5,1,,,RT small data book
+OGCHUL,9,1,1,6,25,2001,47,5,1,,,"part RT small book, part TRL count from Tiglax"
+AKUTAN/CAPE MORGAN,9,1,1,6,26,2001,508,5,1,,,"June/July 2001 data book (TRL), 15 dead"
+UGAMAK/NORTH,9,1,1,6,27,2001,298,5,1,,,"June/July 2001 data book (TRL), 7 dead"
+UGAMAK/UGAMAK BAY,9,1,1,6,28,2001,256,5,1,,,"June/July 2001 data book (TRL), 11 dead"
+UGAMAK/ROUND,9,1,1,6,28,2001,16,5,1,,,June/July 2001 data book (TRL)
+CLUBBING ROCKS NORTH,8,1,1,6,29,2001,152,5,1,,,"June/July 2001 data book (TRL), 6 dead"
+CLUBBING ROCKS SOUTH,8,1,1,6,29,2001,338,5,1,,,"June/July 2001 data book (TRL), 3 dead"
+CHERNABURA,8,1,1,6,30,2001,92,5,1,,,"June/July 2001 data book (TRL), 2 dead"
+CHOWIET,7,1,1,7,1,2001,278,5,1,,,"June/July 2001 data book (TRL), 7 dead"
+SEA OTTER,7,0,0,7,3,2001,3,5,1,,,"no hardcopy of this count, saw pups while looking for brands"
+SUGARLOAF,7,1,1,7,4,2001,490,5,1,,,"RT and TRL small data books, 9 dead"
+SEAL ROCKS,6,1,1,7,6,2001,500,5,1,,,"June/July 2001 data book (TRL), 12 dead"
+THE NEEDLE,6,1,0,7,8,2001,6,7,1,,,"no hardcopy, entered directly to spreadsheet"
+POINT ELRINGTON,6,1,0,7,8,2001,3,7,1,,,"no hardcopy, entered directly to spreadsheet"
+ADUGAK,9,1,1,6,25,2002,160,5,1,,,"Rod Towell - 157 live 4 dead, dave thompson 163 live 3 dead"
+YUNASKA,10,1,1,6,25,2002,145,5,1,,,"rt 146 live 2 dead, dt 144 live 1 dead"
+KASATOCHI/NORTH POINT,10,1,1,6,28,2002,302,5,1,,,"rt - 343, 331 live, trl 280 live, lander 284, 274 live"
+ADAK/LAKE POINT,10,1,1,6,29,2002,363,5,1,,,"rt 387 live 5 dead, dt 339 live"
+GRAMP ROCK,10,1,1,6,30,2002,444,5,1,,,"dt 418,406 ; ml 322, trl 353, 335  + single count of 77 by trl diff area"
+TAG,10,1,1,6,30,2002,153,5,1,,,"rt 149, 2 dead; dt 163 6 dead; tyler hobbs 148, 1 dead"
+ULAK/HASGOX POINT,10,1,1,6,30,2002,331,5,1,,,"rt 293, dt 271, 3 dead + trl 52,48,47 on offshore rock"
+AYUGADAK,10,1,1,7,1,2002,90,5,1,,,"dt 88/90, th 90,  2 dead"
+KISKA/LIEF COVE,10,1,1,7,2,2002,158,5,1,,,"trl 128, 122 live, 2,3 dead; + ml 32, 34 live"
+KISKA/CAPE ST STEPHEN,10,1,1,7,2,2002,71,5,1,,,70 + 1 dead in rt personal log
+BULDIR,11,0,1,7,3,2002,42,5,1,,,"trl 44, 41, 41"
+AGATTU/CAPE SABAK,11,1,1,7,4,2002,212,5,1,,,"trl 112, 109; rt 106; ml 98,   + rt 106"
+SEGUAM/TURF POINT,10,1,0,6,26,2002,23,6,1,,,count from above with bino's
+ADAK/CAPE YAKAK,10,1,0,6,29,2002,0,7,1,,,"skiffed around area, juvs and males only"
+AMCHITKA/EAST CAPE,10,1,0,7,1,2002,0,7,1,,,"skiffed around are, put people onshore to be certain"
+AMCHITKA/COLUMN ROCK,10,0,1,7,1,2002,52,5,1,,,"Tom, Dave and Tyler did counts, trl small data book"
+ATTU/CAPE WRANGELL,11,0,1,7,5,2002,75,5,1,,,trl 78; ml 71; dt 75; th 76
+AGATTU/GILLON POINT,11,1,1,7,4,2002,159,5,1,,,trl 177; rt 162; dt 154; th 142
+SEMISOPOCHNOI,10,0,0,7,7,2002,0,8,1,,,glassed from Pacific Star
+BOGOSLOF/FIRE ISLAND,9,1,1,7,9,2002,180,5,1,,,"trl 155, 148; dt 159, 156;  + trl 25"
+AKUN/BILLINGS HEAD,9,1,1,6,25,2002,55,5,1,,,fadely report + field book
+AMAK+ROCKS,9,1,0,6,26,2002,3,7,1,,,fadely trip report
+SEA LION ROCK (AMAK),9,1,1,6,26,2002,160,5,1,,,fadely field book
+UGAMAK/ROUND,9,1,1,6,27,2002,6,7,1,,,fadely field book
+AIKTAK,9,0,0,6,27,2002,10,7,1,,,"field book says 9, report says 10"
+PINNACLE ROCK,8,1,1,6,28,2002,769,5,1,,,fadely field book
+JUDE,8,0,1,6,29,2002,119,5,1,,,fadely field book
+THE WHALEBACK,8,0,0,6,29,2002,16,5,1,,,fadely field book
+ATKINS,8,1,1,6,30,2002,224,5,1,,,fadely field book
+LIGHTHOUSE ROCKS,8,0,1,6,30,2002,7,7,1,,,fadely field book
+CHIRIKOF,7,1,1,7,1,2002,225,5,1,,,fadely field book
+THE HAYSTACKS,8,0,0,6,29,2002,0,7,1,,,fadely field book & trip report
+NAGAI ROCKS,7,0,0,7,1,2002,19,7,1,,,fadely trip report
+OUTER (PYE),7,0,1,7,6,2002,58,5,1,,,fadely field book
+WALRUS,12,0,1,7,5,2001,39,5,1,,,Robson email dated 11/27/02
+AMLIA/SVIECH. HARBOR,10,0,0,6,19,2002,22,3,1,,,"counted from oblique digital aerial photo by sease, york, thomason, call"
+FORRESTER/SEA LION RK,5,1,1,7,5,2002,424,2,5,,,"Perryman et al., La Jolla"
+FORRESTER/C HORN RK,5,1,1,7,5,2002,381,2,5,,,"Perryman et al., La Jolla"
+FORRESTER/LOWRIE,5,1,1,7,5,2002,1086,2,5,,,"Perryman et al., La Jolla"
+FORRESTER/NORTH RK,5,1,1,7,5,2002,1030,2,5,,,"Perryman et al., La Jolla"
+FORRESTER/EAST RK,5,0,0,7,5,2002,136,2,5,,,"Perryman et al., La Jolla"
+FORRESTER COMPLEX,5,1,1,7,5,2002,0,2,5,,,"Perryman et al., La Jolla, Count at West Rock"
+CAPE ADDINGTON,5,0,0,7,5,2002,6,2,5,,,"Perryman et al., La Jolla"
+HAZY,5,1,1,7,5,2002,1248,2,5,,,"Perryman et al., La Jolla"
+CAPE OMMANEY,5,0,0,7,5,2002,2,2,5,,,"Perryman et al., La Jolla"
+BIALI ROCK,5,1,1,7,4,2002,59,2,5,,,"Perryman et al., La Jolla"
+YASHA,5,0,0,7,6,2002,1,2,5,,,"Perryman et al., La Jolla"
+WHITE SISTERS,5,1,1,7,4,2002,403,2,5,,,"Perryman et al., La Jolla"
+GRAVES ROCK,5,1,1,7,4,2002,99,2,5,,,"Perryman et al., La Jolla"
+UNALASKA/BISHOP POINT,9,0,0,6,20,2003,2,7,1,,,Testa brand resight form
+OGCHUL,9,1,1,6,21,2003,69,5,1,,,"K. Call field book, kc - 57,56  cj - 55, 55,, kc - 12,12 cj - 12, 13 (56+13), 1 dead"
+UNALASKA/CAPE IZIGAN,9,0,0,6,21,2003,20,7,1,,,"loughlin trip report 2003, Testa notes 0 pups, JRT reports 20 pups during capture attempt, whole sight was NOT counted"
+AKUTAN/CAPE MORGAN,9,1,1,6,22,2003,497,5,1,,,"loughlin and testa field notes, WT - 500, JS - 494, 13 dead"
+UGAMAK/NORTH,9,1,1,6,25,2003,352,5,1,,,"louglin field notes, BD - 357, JS - 348 , 12 dead"
+UGAMAK/UGAMAK BAY,9,1,1,6,24,2003,295,6,1,,,"loughlin field notes, count by field camper Heidi, prior to beach landing"
+UGAMAK/ROUND,9,1,1,6,25,2003,39,8,1,,,"loughlin trip report, looking for verification, BD count + 1 dead"
+CLUBBING ROCKS NORTH,8,1,1,6,26,2003,194,5,1,,,"loughlin field notes, kc - 194, 197, cj - 198, 187 mean 194, 4 dead"
+CLUBBING ROCKS SOUTH,8,1,1,6,26,2003,372,5,1,,,"loughlin field notes, wt - 379, js - 366 mean 372, 7 dead"
+JUDE,8,0,1,6,26,2003,61,7,1,,,"testa field notes, PARTIAL COUNT OF LIVE PUPS"
+THE WHALEBACK,8,0,0,6,27,2003,22,7,1,,,"testa field notes, PARTIAL COUNT OF LIVE PUPS"
+CHERNABURA,8,1,1,6,27,2003,82,5,1,,,"loughlin field notes, trl - 31+34, js - 29+30 = 62 + wt 20"
+ATKINS,8,1,1,6,27,2003,128,8,1,,,"thomason resight from, 128, MOST LIKELY A LOW COUNT"
+CHOWIET,7,1,1,6,28,2003,368,6,1,,,"field notes, jt - 237, js - 234 + kc - 75 + trl 57 = 368; 1 dead(likely low)"
+TWOHEADED,7,1,0,6,29,2003,20,7,1,,,testa field notes
+LATAX ROCKS,7,1,0,7,1,2003,10,7,1,,,"towell brand resight form, PARTIAL COUNT OF LIVE PUPS"
+WOODED (FISH),6,1,1,7,3,2003,173,5,1,,,"loughlin field notes, c1 - 164, 155 c2 - 199, 171 mean 173, 18 dead"
+SEAL ROCKS,6,1,1,7,4,2003,543,5,1,,,"loughlin field notes, rt - 548, js - 537, 116 dead"
+THE NEEDLE,6,1,0,7,5,2003,7,7,1,,,b delong resight form - count 7 live pups
+POINT ELRINGTON,6,1,0,7,5,2003,2,7,1,,,brand resight form - 2 live pups
+KASATOCHI/NORTH POINT,10,1,1,6,20,2004,354,5,1,,,"Fadely field notes, kac 352, rt 357, jwt 353 live and 17 dead"
+ADAK/CAPE YAKAK,10,1,0,6,21,2004,4,7,1,,,Fadely field notes
+AMLIA/SVIECH. HARBOR,10,0,0,6,22,2004,28,6,1,,,"Fadely field notes, kac, jts and jwt count 27, 28 and 28"
+AGLIGADAK,10,1,0,6,22,2004,2,7,1,,,"Fadely field notes, counters BF, TZ and DH (skiff count?)"
+SEGUAM/SADDLERIDGE,10,1,1,6,22,2004,517,5,1,,,"Fadely field notes. Kac 515, tz 511, rt 525. 6 dead"
+YUNASKA,10,1,1,6,23,2004,145,5,1,,,"Fadely field notes. Kac 146, dh 146, jts 142. 3 dead"
+ADUGAK,9,1,1,6,24,2004,185,5,1,,,"Fadely field notes. Rt 182, tz 189, jwt 183. 7 dead"
+BOGOSLOF/FIRE ISLAND,9,1,1,6,25,2004,278,5,1,,,"Fadely field notes. Kac 277, jwt 279 other counts discarded. 7 dead."
+AKUN/BILLINGS HEAD,9,1,1,6,26,2004,85,5,1,,,"Fadely field notes. Kac 86, rt 84, jts 86. 1 dead."
+SEA LION ROCK (AMAK),9,1,1,6,27,2004,185,5,1,,,"Fadely field notes. Jts 191&188, jwt 171&177, tz 194&189. 4 dead"
+UGAMAK/ROUND,9,1,1,6,28,2004,27,6,1,,,Fadely cruise report. No individ counts. 1 dead.
+AIKTAK,9,0,0,6,28,2004,7,7,1,,,Fadely cruise report. No counts in field notes.
+PINNACLE ROCK,8,1,1,6,29,2004,663,5,1,,,"Fadely field notes. Rt 680, kac 634, jwt 674. min 10 dead"
+JUDE,8,0,1,6,29,2004,187,6,1,,,"Fadely field notes. Rt 197, dh 182, bf 193. min 2 dead."
+ATKINS,8,1,1,6,30,2004,266,5,1,,,Fadely field notes. 3 areas ground and viewpoint. Min 13 dead.
+CHIRIKOF,7,1,1,7,1,2004,189,5,1,,,"Fadely field notes. Kac 187, tz 190, jwt 189. 6 dead."
+NAGAI ROCKS,7,0,0,7,1,2004,22,7,1,,,JWT resight book. Min 22 pups from skiff.
+OUTER (PYE),7,0,1,7,5,2004,59,7,1,,,"Fadely field notes. Bf 42, kac 42, rt 43. + 17 at other site (bf res book)"
+SUGARLOAF,7,1,1,7,6,2004,488,5,1,,,"Fadely field notes. Several sites added for rt,kac,jwt plus from res. Min 10 dead."
+WEST ROCK,5,0,0,6,28,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+POINT MARSH,5,0,0,6,28,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+WOLF ROCK,5,0,0,6,28,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+CAPE BARTOLOME,5,0,0,6,28,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+CAPE ADDINGTON,5,0,0,6,28,2004,1,2,5,,,SWFSC count from MF non-pup aerial survey photo
+TIMBERED,5,0,0,6,28,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+CORONATION,5,1,0,6,28,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+HAZY,5,1,1,6,28,2004,1271,2,5,,,SWFSC count from MF non-pup aerial survey photo
+GRINDALL,5,0,0,6,28,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+CAPE OMMANEY,5,0,0,6,28,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+SEA LION ROCK (PUFFIN BAY),5,0,0,6,28,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+BIALI ROCK,5,1,1,6,28,2004,71,2,5,,,SWFSC count from MF non-pup aerial survey photo
+JACOB ROCK,5,1,0,6,28,2004,1,2,5,,,SWFSC count from MF non-pup aerial survey photo
+KAIUCHALI (BIORKA),5,0,0,6,28,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+TURNABOUT,5,1,0,6,28,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+SUNSET,5,0,0,6,28,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+SEA LION ISLANDS,5,1,0,6,28,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+WHITE SISTERS,5,1,1,6,28,2004,488,2,5,,,SWFSC count from MF non-pup aerial survey photo
+SOUTH MARBLE,5,0,0,6,27,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+GRAN (LEDGE) POINT,5,0,0,6,27,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+CAPE FAIRWEATHER,5,1,0,6,28,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+CAPE ST. ELIAS,6,1,0,6,29,2004,7,2,5,,,SWFSC count from MF non-pup aerial survey photo
+HOOK POINT,6,0,0,6,10,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+CAPE HINCHINBROOK,6,0,0,6,10,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+SEAL ROCKS,6,1,1,6,29,2004,573,2,5,,,SWFSC count from MF non-pup aerial survey photo
+WOODED (FISH),6,1,1,6,29,2004,123,2,5,,,SWFSC count from MF non-pup aerial survey photo
+MIDDLETON,6,0,0,6,10,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+GLACIER,6,1,0,6,10,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+THE NEEDLE,6,1,0,6,10,2004,7,2,5,,,SWFSC count from MF non-pup aerial survey photo
+POINT LaTOUCHE,6,0,0,6,10,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+DANGER,6,0,0,6,10,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+POINT ELRINGTON,6,1,0,6,10,2004,2,2,5,,,SWFSC count from MF non-pup aerial survey photo
+PROCESSION ROCKS,6,0,0,6,10,2004,1,2,5,,,SWFSC count from MF non-pup aerial survey photo
+CAPE PUGET,6,0,0,6,10,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+CAPE JUNKEN,6,0,0,6,10,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+CAPE FAIRFIELD,6,0,0,6,10,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+CAPE RESURRECTION,6,0,0,6,10,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+RUGGED,6,1,0,6,10,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+AIALIK CAPE,6,0,0,6,10,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+CHISWELL ISLANDS,6,1,1,6,10,2004,33,2,5,,,SWFSC count from MF non-pup aerial survey photo
+GRANITE CAPE,6,0,0,6,10,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+SEAL ROCKS (KENAI),6,1,0,6,10,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+STEEP POINT,6,0,0,6,10,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+RABBIT,6,0,0,6,10,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+OUTER (PYE),7,0,1,6,10,2004,67,2,5,,,SWFSC count from MF non-pup aerial survey photo
+NUKA POINT,7,0,0,6,10,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+GORE POINT,7,0,0,6,11,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+EAST CHUGACH,7,0,0,6,11,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+PERL,7,0,0,6,10,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+PERL ROCKS,7,0,0,6,11,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+NAGAHUT ROCKS,7,0,0,6,11,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+ELIZABETH/CAPE ELIZABETH,7,0,0,6,26,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+FLAT,7,0,0,6,10,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+WEST AMATULI,7,0,0,6,11,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+USHAGAT,7,1,0,6,25,2004,43,2,5,,,SWFSC count from MF non-pup aerial survey photo
+USHAGAT/ROCKS SOUTH,7,1,0,6,25,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+SUD,7,0,0,6,11,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+LATAX ROCKS,7,1,0,6,11,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+SEA OTTER,7,0,0,6,24,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+RK NEAR SEA OTTER,7,0,0,6,24,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+AFOGNAK/TONKI CAPE,7,0,0,6,24,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+SEA LION ROCKS (MARMOT),7,1,0,6,25,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+MARMOT,7,1,1,6,26,2004,494,2,5,,,SWFSC count from MF non-pup aerial survey photo
+LONG ISLAND,7,1,0,6,24,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+KODIAK/CAPE CHINIAK,7,1,0,6,25,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+UGAK,7,0,0,6,26,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+KODIAK/GULL POINT,7,0,0,6,26,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+KODIAK/CAPE BARNABAS,7,1,0,6,26,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+TWOHEADED,7,1,0,6,26,2004,28,2,5,,,SWFSC count from MF non-pup aerial survey photo
+SITKINAK/CAPE SITKINAK,7,1,0,6,26,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+KODIAK/SUNDSTROM,7,0,0,6,11,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+KODIAK/CAPE ALITAK,7,0,0,6,11,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+KODIAK/CAPE IKOLIK,7,0,0,6,11,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+KODIAK/TOMBSTONE ROCKS,7,0,0,6,11,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+KODIAK/CAPE KULIUK,7,0,0,6,11,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+KODIAK/CAPE UGAT,7,0,0,6,24,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+NOISY,7,0,0,6,24,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+KODIAK/MALINA POINT,7,0,0,6,24,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+KODIAK/STEEP CAPE,7,0,0,6,24,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+KODIAK/CAPE PARAMANOF,7,0,0,6,24,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+SHAW,7,0,0,6,11,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+CAPE DOUGLAS,7,0,0,6,11,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+SHAKUN ROCKS,7,0,0,6,11,2004,3,2,5,,,SWFSC count from MF non-pup aerial survey photo
+CAPE NUKSHAK,7,0,0,6,11,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+CAPE UGYAK,7,0,0,6,11,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+CAPE GULL,7,0,0,6,11,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+TAKLI,7,0,0,6,11,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+PUALE BAY,7,0,0,6,11,2004,3,2,5,,,SWFSC count from MF non-pup aerial survey photo
+KILOKAK ROCKS,7,0,0,6,26,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+AIUGNAK COLUMNS,7,0,0,6,26,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+UGAIUSHAK,7,1,0,6,26,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+SUTWIK,7,1,0,6,26,2004,2,2,5,,,SWFSC count from MF non-pup aerial survey photo
+AGHIYUK,7,0,0,6,12,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+CHOWIET,7,1,1,6,12,2004,262,2,5,,,SWFSC count from MF non-pup aerial survey photo
+NAGAI ROCKS,7,0,0,6,26,2004,23,2,5,,,SWFSC count from MF non-pup aerial survey photo
+LIGHTHOUSE ROCKS,8,0,1,6,12,2004,17,2,5,,,SWFSC count from MF non-pup aerial survey photo
+ATKULIK,8,0,0,6,12,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+KAK,8,0,0,6,12,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+CHANKLIUT,8,0,0,6,12,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+SEAL CAPE,8,0,0,6,12,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+MITROFANIA,8,0,0,6,12,2004,1,2,5,,,SWFSC count from MF non-pup aerial survey photo
+SPITZ,8,1,0,6,12,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+KUPREANOF POINT,8,0,0,6,12,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+CASTLE ROCK,8,1,0,6,12,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+BIG KONIUJI,8,0,0,6,12,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+ATKINS,8,1,1,6,12,2004,222,2,5,,,SWFSC count from MF non-pup aerial survey photo
+CHERNABURA,8,1,1,6,12,2004,153,2,5,,,SWFSC count from MF non-pup aerial survey photo
+TWINS,8,0,0,6,12,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+THE HAYSTACKS,8,0,0,6,12,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+THE WHALEBACK,8,0,0,6,12,2004,27,2,5,,,SWFSC count from MF non-pup aerial survey photo
+NAGAI/MOUNTAIN POINT,8,1,0,6,12,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+NAGAI/RK W OF CAPE WEDGE,8,0,0,6,12,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+EGG (SAND POINT),8,0,0,6,12,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+SEA LION ROCKS (SHUMAGINS),8,1,0,6,12,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+UNGA/CAPE UNGA,8,0,0,6,12,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+UNGA/ACHEREDIN POINT,8,0,0,6,12,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+JUDE,8,0,1,6,12,2004,134,2,5,,,SWFSC count from MF non-pup aerial survey photo
+OMEGA,8,0,0,6,12,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+WOSNESENSKI,8,0,0,6,12,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+OLGA ROCKS,8,0,0,6,12,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+SUSHILNOI ROCKS,8,0,0,6,12,2004,16,2,5,,,SWFSC count from MF non-pup aerial survey photo
+PINNACLE ROCK,8,1,1,6,12,2004,457,2,5,,,SWFSC count from MF non-pup aerial survey photo
+HUNT,8,0,0,6,12,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+SOZAVARIKA,8,0,0,6,12,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+UMGA,8,0,0,6,12,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+CLUBBING ROCKS,8,1,1,6,12,2004,392,2,5,,,SWFSC count from MF non-pup aerial survey photo
+CHERNI,8,0,0,6,12,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+HAGUE ROCK,8,0,0,6,12,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+CATON,8,0,0,6,12,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+SOUTH ROCKS,8,0,1,6,12,2004,34,2,5,,,SWFSC count from MF non-pup aerial survey photo
+SANAK,8,0,0,6,12,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+BIRD,8,1,0,6,12,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+ROCK,8,0,0,6,12,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+UNIMAK/CAPE LAZAREF,9,0,0,6,12,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+UNIMAK/CAPE LUTKE,9,0,0,6,12,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+UNIMAK/SCOTCH CAP,9,0,0,6,12,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+UNIMAK/SENNETT POINT,9,0,0,6,12,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+UNIMAK/CAPE SARICHEF,9,0,0,6,14,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+AMAK+ROCKS,9,1,0,6,24,2004,1,2,5,,,SWFSC count from MF non-pup aerial survey photo
+SEA LION ROCK (AMAK),9,1,1,6,24,2004,177,2,5,,,SWFSC count from MF non-pup aerial survey photo
+UGAMAK/NORTH,9,1,1,6,14,2004,319,2,5,,,SWFSC count from MF non-pup aerial survey photo
+UGAMAK/UGAMAK BAY,9,1,1,6,14,2004,235,2,5,,,SWFSC count from MF non-pup aerial survey photo
+UGAMAK/ROUND,9,1,1,6,14,2004,34,2,5,,,SWFSC count from MF non-pup aerial survey photo
+AIKTAK,9,0,0,6,14,2004,22,2,5,,,SWFSC count from MF non-pup aerial survey photo
+KALIGAGAN,9,0,0,6,14,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+TIGALDA/ROCKS NE,9,0,0,6,14,2004,4,2,5,,,SWFSC count from MF non-pup aerial survey photo
+TIGALDA/SOUTH SIDE,9,0,0,6,14,2004,5,2,5,,,SWFSC count from MF non-pup aerial survey photo
+BASALT ROCK,9,0,0,6,14,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+ROOTOK,9,0,0,6,14,2004,1,2,5,,,SWFSC count from MF non-pup aerial survey photo
+TANGINAK,9,0,0,6,14,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+AKUN/JACKASS POINT,9,0,0,6,14,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+AKUN/AKUN BAY,9,0,0,6,14,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+AKUN/AKUN HEAD,9,0,0,6,14,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+AKUTAN/REEF-LAVA,9,1,0,6,14,2004,6,2,5,,,SWFSC count from MF non-pup aerial survey photo
+AKUTAN/CAPE MORGAN,9,1,1,6,14,2004,480,2,5,,,SWFSC count from MF non-pup aerial survey photo
+AKUTAN/BATTERY POINT,9,0,0,6,14,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+BABY,9,0,0,6,14,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+OLD MAN ROCKS,9,0,0,6,14,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+EGG,9,0,0,6,14,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+OUTER SIGNAL,9,0,0,6,14,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+INNER SIGNAL,9,0,0,6,14,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+UNALASKA/CAPE SEDANKA,9,0,0,6,14,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+UNALASKA/PRIEST ROCK,9,0,0,6,14,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+UNALASKA/CAPE WISLOW,9,0,0,6,23,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+UNALASKA/BISHOP POINT,9,0,0,6,23,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+UNALASKA/KOVRIZHKA,9,0,0,6,23,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+UNALASKA/MAKUSHIN BAY,9,0,0,6,23,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+UNALASKA/CAPE STARICHKOF,9,0,0,6,23,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+UNALASKA/SPRAY CAPE,9,0,0,6,23,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+UNALASKA/WHALEBONE CAPE,9,0,0,6,14,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+UNALASKA/CAPE IZIGAN,9,0,0,6,14,2004,18,2,5,,,SWFSC count from MF non-pup aerial survey photo
+BOGOSLOF/FIRE ISLAND,9,1,1,6,23,2004,217,2,5,,,SWFSC count from MF non-pup aerial survey photo
+UMNAK/CAPE ASLIK,9,1,0,6,14,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+EMERALD,9,0,0,6,14,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+POLIVNOI ROCK,9,0,0,6,14,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+THE PILLARS,9,0,0,6,14,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+OGCHUL,9,1,1,6,14,2004,43,2,5,,,SWFSC count from MF non-pup aerial survey photo
+VSEVIDOF,9,1,0,6,14,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+SAMALGA,9,0,0,6,14,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+ADUGAK,9,1,1,6,14,2004,149,2,5,,,SWFSC count from MF non-pup aerial survey photo
+KAGAMIL,10,1,0,6,23,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+CHUGINADAK,10,1,0,6,23,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+CARLISLE,10,1,0,6,23,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+HERBERT,10,1,0,6,23,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+YUNASKA,10,1,1,6,23,2004,75,2,5,,,SWFSC count from MF non-pup aerial survey photo
+CHAGULAK,10,1,0,6,23,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+AMUKTA+ROCKS,10,1,0,6,23,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+SEGUAM/FINCH POINT,10,1,0,6,23,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+SEGUAM/SW RIP,10,1,0,6,23,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+SEGUAM/SADDLERIDGE,10,1,1,6,23,2004,506,2,5,,,SWFSC count from MF non-pup aerial survey photo
+SEGUAM/TURF POINT,10,1,0,6,23,2004,15,2,5,,,SWFSC count from MF non-pup aerial survey photo
+SEGUAM/LAVA COVE,10,1,0,6,23,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+SEGUAM/LAVA POINT,10,1,0,6,23,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+SEGUAM/WHARF POINT,10,1,0,6,23,2004,2,2,5,,,SWFSC count from MF non-pup aerial survey photo
+AGLIGADAK,10,1,0,6,15,2004,2,2,5,,,SWFSC count from MF non-pup aerial survey photo
+AMLIA/EAST CAPE,10,1,0,6,15,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+AMLIA/CAPE MISTY,10,0,0,6,15,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+AMLIA/SVIECH. HARBOR,10,0,0,6,15,2004,30,2,5,,,SWFSC count from MF non-pup aerial survey photo
+TANADAK (AMLIA),10,1,0,6,15,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+SAGIGIK,10,1,0,6,15,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+ATKA/NORTH CAPE,10,1,0,6,15,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+ATKA/CAPE KOROVIN,10,1,0,6,15,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+SALT,10,1,0,6,15,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+KONIUJI/NORTH POINT,10,0,0,6,15,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+KASATOCHI/NORTH POINT,10,1,1,6,15,2004,327,2,5,,,SWFSC count from MF non-pup aerial survey photo
+OGLODAK,10,0,0,6,15,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+IKIGINAK,10,1,0,6,15,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+FENIMORE,10,0,0,6,15,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+TAGALAK,10,0,0,6,15,2004,3,2,5,,,SWFSC count from MF non-pup aerial survey photo
+CHUGUL,10,0,0,6,15,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+ANAGAKSIK,10,1,0,6,15,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+IGITKIN/SW POINT,10,0,0,6,15,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+GREAT SITKIN,10,0,0,6,15,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+LITTLE TANAGA STRAIT,10,1,0,6,15,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+SILAK,10,1,0,6,15,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+KAGALASKA,10,0,0,6,15,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+ADAK/CAPE MOFFET,10,1,0,6,15,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+ADAK/ARGONNE POINT,10,1,0,6,15,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+ADAK/LAKE POINT,10,1,1,6,15,2004,350,2,5,,,SWFSC count from MF non-pup aerial survey photo
+ADAK/CAPE YAKAK,10,1,0,6,15,2004,10,2,5,,,SWFSC count from MF non-pup aerial survey photo
+ADAK/CRONE ISLAND,10,0,0,6,14,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+KANAGA/N CAPE,10,0,0,6,15,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+KANAGA/CAPE MIGA,10,0,0,6,15,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+KANAGA/SHIP ROCK,10,0,1,6,15,2004,126,2,5,,,SWFSC count from MF non-pup aerial survey photo
+KANAGA/CAPE CHUNU,10,0,0,6,23,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+BOBROF,10,0,0,6,23,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+TANAGA/BUMPY POINT,10,0,0,6,23,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+TANAGA/CAPE SASMIK,10,0,0,6,23,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+ILAK,10,0,0,6,23,2004,2,2,5,,,SWFSC count from MF non-pup aerial survey photo
+GRAMP ROCK,10,1,1,6,23,2004,439,2,5,,,SWFSC count from MF non-pup aerial survey photo
+UGIDAK,10,1,0,6,23,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+TAG,10,1,1,6,23,2004,150,2,5,,,SWFSC count from MF non-pup aerial survey photo
+OGLIUGA,10,0,0,6,23,2004,1,2,5,,,SWFSC count from MF non-pup aerial survey photo
+SKAGUL/S. POINT,10,0,0,6,23,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+KAVALGA,10,1,0,6,23,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+UNALGA+DINKUM ROCKS,10,1,0,6,23,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+ULAK/HASGOX POINT,10,1,1,6,23,2004,257,2,5,,,SWFSC count from MF non-pup aerial survey photo
+AMATIGNAK/KNOB POINT,10,0,0,6,23,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+AMATIGNAK/NITROF POINT,10,1,0,6,23,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+SEMISOPOCHNOI/POCHNOI,10,0,0,6,20,2004,17,2,5,,,SWFSC count from MF non-pup aerial survey photo
+SEMISOPOCHNOI/PETREL,10,0,0,6,20,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+SEMISOPOCHNOI/TUMAN POINT,10,0,0,6,20,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+SEMISOPOCHNOI/SW KNOB,10,0,0,6,20,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+AMCHITKA/CAPE IVAKIN,10,1,0,6,20,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+AMCHITKA/EAST CAPE,10,1,0,6,23,2004,23,2,5,,,SWFSC count from MF non-pup aerial survey photo
+AMCHITKA/OMEGA POINT,10,0,0,6,23,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+AMCHITKA/ST. MAKARIUS,10,0,0,6,23,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+AMCHITKA/COLUMN ROCK,10,0,1,6,20,2004,45,2,5,,,SWFSC count from MF non-pup aerial survey photo
+AMCHITKA/BIRD,10,0,0,6,20,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+AMCHITKA/CHITKA POINT,10,0,0,6,20,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+AYUGADAK,10,1,1,6,20,2004,56,2,5,,,SWFSC count from MF non-pup aerial survey photo
+HAWADAX (RAT),10,0,0,6,20,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+SEA LION ROCK (KISKA),10,0,0,6,20,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+TANADAK (KISKA),10,0,0,6,20,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+TWIN ROCKS (KISKA),10,0,0,6,20,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+KISKA/SOUTH HEAD,10,0,0,6,24,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+KISKA/GERTRUDE-BUKHTI,10,0,0,6,20,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+KISKA/SOBAKA-VEGA,10,0,0,6,20,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+KISKA/CAPE ST STEPHEN,10,1,1,6,20,2004,75,2,5,,,SWFSC count from MF non-pup aerial survey photo
+KISKA/LIEF COVE,10,1,1,6,20,2004,101,2,5,,,SWFSC count from MF non-pup aerial survey photo
+KISKA/WITCHCRAFT POINT,10,0,0,6,20,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+KISKA/PILLAR ROCK,10,0,0,6,20,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+BULDIR/EAST CAPE,11,0,1,6,21,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+BULDIR/ROOKERY,11,1,1,6,21,2004,26,2,5,,,SWFSC count from MF non-pup aerial survey photo
+BULDIR/NW ROCKS,11,1,1,6,21,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+INGENSTREM ROCKS,11,0,0,6,21,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+SHEMYA,11,0,0,6,16,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+NIZKI,11,0,0,6,16,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+ALAID,11,1,0,6,16,2004,20,2,5,,,SWFSC count from MF non-pup aerial survey photo
+AGATTU/CAPE SABAK,11,1,1,6,21,2004,159,2,5,,,SWFSC count from MF non-pup aerial survey photo
+AGATTU/GILLON POINT,11,1,1,6,21,2004,174,2,5,,,SWFSC count from MF non-pup aerial survey photo
+DAN'S ROCKS,11,0,0,6,17,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+ATTU/MASSACRE BAY,11,0,0,6,17,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+ATTU/CHIRIKOF POINT,11,0,0,6,17,2004,1,2,5,,,SWFSC count from MF non-pup aerial survey photo
+ATTU/CHICHAGOF POINT,11,0,0,6,17,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+ATTU/KRESTA POINT,11,0,0,6,17,2004,0,2,5,,,SWFSC count from MF non-pup aerial survey photo
+ATTU/CAPE WRANGELL,11,0,1,6,21,2004,47,2,5,,,SWFSC count from MF non-pup aerial survey photo
+OGCHUL,9,1,1,6,21,2005,65,5,1,,,"Gelatt field notes, KC 55, BD 53 + 11 skiff count, ave + 11"
+AKUTAN/CAPE MORGAN,9,1,1,6,22,2005,657,5,1,,,"Gelatt fn - KC 589, BD 689, TG 624, avg TG and BD"
+UGAMAK/NORTH,9,1,1,6,23,2005,426,5,1,,,"Gelatt fn - WT 381, KC 426, BD 426, drop WT avg KC&BD"
+UGAMAK/UGAMAK BAY,9,1,1,6,24,2005,298,5,1,,,"Gelatt fn - kc 285, wt 318, bd 292 ave all"
+UGAMAK/ROUND,9,1,1,6,24,2005,45,5,1,,,Gelatt fn - one count
+CLUBBING ROCKS NORTH,8,1,1,6,25,2005,192,5,1,,,"Gelatt fn - bd 188, wt 196,"
+CLUBBING ROCKS SOUTH,8,1,1,6,25,2005,391,5,1,,,"Gelatt fn - kc 376, jt 406"
+JUDE,8,0,1,6,26,2005,206,5,1,,,"Gelatt fn - tg 218, wt 208, bd 193"
+THE WHALEBACK,8,0,0,6,27,2005,23,5,1,,,Gelatt fn one count
+CHERNABURA,8,1,1,6,27,2005,115,5,1,,,"Gelatt fn - one count 98 + 17 counted from skiff, probably low count"
+CHOWIET,7,1,1,6,28,2005,309,5,1,,,"Gelatt fn - lots of parts and counters, consult field book for details"
+TWOHEADED,7,1,0,6,29,2005,1,99,1,,,Gelatt field notes
+LATAX ROCKS,7,1,0,6,30,2005,1,99,1,,,Gelatt field notes
+SEAL ROCKS,6,1,1,7,2,2005,556,5,1,,,"Gelatt fn - kc 557, bd 554"
+WOODED (FISH),6,1,1,7,3,2005,154,5,1,,,"Gelatt fn - wt 138, bd 170, second count done but not used, see field book for details"
+WALRUS,12,0,1,7,26,2005,29,5,1,,,Brian Fadely count (Pribilofs)
+WHITE SISTERS,5,1,1,7,10,2005,520,2,5,,,
+BIALI ROCK,5,1,1,7,10,2005,100,2,5,,,
+HAZY,5,1,1,7,10,2005,1286,2,5,,,
+FORRESTER/SEA LION RK,5,1,1,7,10,2005,533,2,5,,,
+FORRESTER/EAST RK,5,0,0,7,10,2005,134,2,5,,,
+FORRESTER/C HORN RK,5,1,1,7,10,2005,303,2,5,,,
+FORRESTER/LOWRIE,5,1,1,7,10,2005,1508,2,5,,,
+GRAVES ROCK,5,1,1,7,10,2005,175,2,5,,,
+SEAL ROCKS,6,1,1,6,21,2005,508,2,5,,,
+WOODED (FISH),6,1,1,6,21,2005,96,2,5,,,
+CHISWELL ISLANDS,6,1,1,6,21,2005,44,2,5,,,
+OUTER (PYE),7,0,1,6,21,2005,104,2,5,,,
+SUGARLOAF,7,1,1,6,21,2005,559,2,5,,,
+USHAGAT,7,1,0,6,21,2005,55,2,5,,,
+MARMOT,7,1,1,6,23,2005,433,2,5,,,
+TWOHEADED,7,1,0,6,23,2005,16,2,5,,,
+CHOWIET,7,1,1,6,23,2005,432,2,5,,,
+CHIRIKOF,7,1,1,6,23,2005,123,2,5,,,
+NAGAI ROCKS,7,0,0,6,23,2005,31,2,5,,,
+LIGHTHOUSE ROCKS,8,0,1,6,23,2005,11,2,5,,,
+ATKINS,8,1,1,6,23,2005,328,2,5,,,
+CHERNABURA,8,1,1,7,9,2005,153,2,5,,,
+THE WHALEBACK,8,0,0,6,23,2005,24,2,5,,,
+JUDE,8,0,1,6,23,2005,168,2,5,,,
+SUSHILNOI ROCKS,8,0,0,6,25,2005,12,2,5,,,
+PINNACLE ROCK,8,1,1,6,25,2005,643,2,5,,,
+CLUBBING ROCKS,8,1,1,6,25,2005,528,2,5,,,
+SOUTH ROCKS,8,0,1,7,9,2005,44,2,5,,,
+SEA LION ROCK (AMAK),9,1,1,6,23,2005,158,2,5,,,
+UGAMAK/NORTH,9,1,1,6,25,2005,404,2,5,,,
+UGAMAK/UGAMAK BAY,9,1,1,6,25,2005,239,2,5,,,
+UGAMAK/ROUND,9,1,1,6,25,2005,44,2,5,,,
+AKUTAN/CAPE MORGAN,9,1,1,6,25,2005,485,2,5,,,
+UNALASKA/CAPE IZIGAN,9,0,0,7,9,2005,21,2,5,,,
+OGCHUL,9,1,1,7,9,2005,78,2,5,,,
+ADUGAK,9,1,1,7,9,2005,185,2,5,,,
+SEGUAM/SADDLERIDGE,10,1,1,6,28,2005,530,2,5,,,
+AGLIGADAK,10,1,0,7,9,2005,0,2,5,,,
+SEGUAM/TURF POINT,10,1,0,7,9,2005,7,2,5,,,
+AMLIA/SVIECH. HARBOR,10,0,0,7,9,2005,28,2,5,,,
+ADAK/LAKE POINT,10,1,1,7,8,2005,311,2,5,,,
+ADAK/CAPE YAKAK,10,1,0,7,8,2005,0,2,5,,,
+KANAGA/SHIP ROCK,10,0,1,7,6,2005,221,2,5,,,
+GRAMP ROCK,10,1,1,7,6,2005,387,2,5,,,
+TAG,10,1,1,7,6,2005,144,2,5,,,
+ULAK/HASGOX POINT,10,1,1,7,8,2005,338,2,5,,,
+SEMISOPOCHNOI/POCHNOI,10,0,0,7,8,2005,16,2,5,,,
+AMCHITKA/EAST CAPE,10,1,0,7,8,2005,24,2,5,,,
+AMCHITKA/COLUMN ROCK,10,0,1,7,5,2005,44,2,5,,,
+AYUGADAK,10,1,1,7,5,2005,83,2,5,,,
+KISKA/CAPE ST STEPHEN,10,1,1,7,5,2005,82,2,5,,,
+KISKA/LIEF COVE,10,1,1,7,5,2005,115,2,5,,,
+BULDIR,11,0,1,7,8,2005,26,2,5,,,
+ALAID,11,1,0,7,2,2005,27,2,5,,,
+AGATTU/CAPE SABAK,11,1,1,7,2,2005,113,2,5,,,
+AGATTU/GILLON POINT,11,1,1,7,2,2005,157,2,5,,,
+ATTU/CAPE WRANGELL,11,0,1,7,8,2005,47,2,5,,,
+AIKTAK,9,0,0,6,25,2005,8,2,5,,,
+WALRUS,12,0,1,6,27,2005,27,2,5,,,
+ST. PAUL/SEA LION ROCK,12,0,0,6,27,2005,0,2,5,,,
+FORRESTER/NORTH RK,5,1,1,7,10,2005,951,2,5,,,
+BOGOSLOF/FIRE ISLAND,9,1,1,6,23,2005,225,2,5,,,
+KASATOCHI/NORTH POINT,10,1,1,6,28,2005,372,2,5,,,
+KISKA/CAPE ST STEPHEN,10,1,1,6,27,2007,86,6,1,,,need individ cnts from gelatt book
+KISKA/LIEF COVE,10,1,1,6,27,2007,48,6,1,,,need individ cnts from gelatt book
+AGATTU/CAPE SABAK,11,1,1,6,28,2007,94,5,1,,,need individ cnts from gelatt book
+AKUN/BILLINGS HEAD,9,1,1,7,3,2007,119,5,1,,,"checked vs gelatt field notes (elec) - cnts 113, 131, 112"
+AKUN/BILLINGS HEAD,9,1,1,6,26,2009,148,5,1,,BF,To check to aerial photo count
+AKUN/BILLINGS HEAD,9,1,1,6,26,2009,141,5,1,,RT,To check to aerial photo count
+PINNACLE ROCK,8,1,1,6,28,2009,497,5,1,,RT,To check to aerial photo count
+PINNACLE ROCK,8,1,1,6,28,2009,414,5,1,,BF,To check to aerial photo count
+PINNACLE ROCK,8,1,1,6,28,2009,472,5,1,,JTS,To check to aerial photo count
+ADAK/CAPE YAKAK,10,1,0,7,4,2009,0,3,1,,KLS,Logs for checkcount
+ADAK/CAPE YAKAK,10,1,0,7,4,2009,0,3,1,,LF,Logs for checkcount
+ADAK/LAKE POINT,10,1,1,7,4,2009,337,3,1,,KLS,Logs for checkcount
+ADAK/LAKE POINT,10,1,1,7,4,2009,340,3,1,,LF,Logs for checkcount
+ADUGAK,9,1,1,7,8,2009,278,3,1,,KLS,Logs for checkcount
+ADUGAK,9,1,1,7,8,2009,275,3,1,,SF,Logs for checkcount
+AGATTU/CAPE SABAK,11,1,1,6,30,2008,84,3,1,,KLS,Logs for checkcount
+AGATTU/CAPE SABAK,11,1,1,6,30,2008,82,3,1,,LF,Logs for checkcount
+AGATTU/GILLON POINT,11,1,1,6,30,2008,142,3,1,,KLS,Logs for checkcount
+AGATTU/GILLON POINT,11,1,1,6,30,2008,143,3,1,,LF,Logs for checkcount
+AGLIGADAK,10,1,0,7,7,2009,0,3,1,,KLS,Logs for checkcount
+AGLIGADAK,10,1,0,7,7,2009,0,3,1,,LF,Logs for checkcount
+AIKTAK,9,0,0,7,10,2009,2,3,1,,KLS,Logs for checkcount
+AIKTAK,9,0,0,7,10,2009,2,3,1,,SF,Logs for checkcount
+AKUTAN/CAPE MORGAN,9,1,1,7,8,2009,699,3,1,,KLS,Logs for checkcount
+AKUTAN/CAPE MORGAN,9,1,1,7,8,2009,677,3,1,,SF,Logs for checkcount
+AKUTAN/REEF-LAVA,9,1,0,7,8,2009,22,3,1,,KLS,Logs for checkcount
+AKUTAN/REEF-LAVA,9,1,0,7,8,2009,22,3,1,,SF,Logs for checkcount
+ALAID,11,1,0,6,24,2008,21,3,1,,KLS,Logs for checkcount
+ALAID,11,1,0,6,24,2008,20,3,1,,LF,Logs for checkcount
+AMAK+ROCKS,9,1,0,6,28,2009,1,3,1,,KLS,Logs for checkcount
+AMAK+ROCKS,9,1,0,6,28,2009,1,3,1,,SF,Logs for checkcount
+AMCHITKA/COLUMN ROCK,10,0,1,7,7,2009,38,3,1,,KLS,Logs for checkcount
+AMCHITKA/COLUMN ROCK,10,0,1,7,7,2009,41,3,1,,LF,Logs for checkcount
+AMCHITKA/EAST CAPE,10,1,0,7,7,2009,14,3,1,,KLS,Logs for checkcount
+AMCHITKA/EAST CAPE,10,1,0,7,7,2009,12,3,1,,LF,Logs for checkcount
+AMLIA/SVIECH. HARBOR,10,0,0,7,7,2009,35,3,1,,KLS,Logs for checkcount
+AMLIA/SVIECH. HARBOR,10,0,0,7,7,2009,32,3,1,,LF,Logs for checkcount
+ATKINS,8,1,1,6,28,2009,341,3,1,,KLS,Logs for checkcount
+ATKINS,8,1,1,6,28,2009,334,3,1,,SF,Logs for checkcount
+AYUGADAK,10,1,1,7,4,2009,44,3,1,,KLS,Logs for checkcount
+AYUGADAK,10,1,1,7,4,2009,43,3,1,,LF,Logs for checkcount
+BIALI ROCK,5,1,1,6,24,2009,144,3,1,,KLS,Logs for checkcount
+BIALI ROCK,5,1,1,6,24,2009,143,3,1,,CJ,Logs for checkcount
+BOGOSLOF/FIRE ISLAND,9,1,1,7,8,2009,283,3,1,,KLS,Logs for checkcount
+BOGOSLOF/FIRE ISLAND,9,1,1,7,8,2009,280,3,1,,SF,Logs for checkcount
+BULDIR/ROOKERY,11,1,1,7,2,2008,7,3,1,,KLS,Logs for checkcount
+BULDIR/ROOKERY,11,1,1,7,20,2008,7,3,1,,LF,Logs for checkcount
+CAPE FAIRFIELD,6,0,0,6,26,2009,0,3,1,,KLS,Logs for checkcount
+CAPE FAIRFIELD,6,0,0,6,26,2009,0,3,1,,SF,Logs for checkcount
+CAPE HINCHINBROOK,6,0,0,6,26,2009,0,3,1,,KLS,Logs for checkcount
+CAPE HINCHINBROOK,6,0,0,6,26,2009,0,3,1,,SF,Logs for checkcount
+CAPE OMMANEY,5,0,0,6,24,2009,1,3,1,,KLS,Logs for checkcount combined with photo count of South of Cape Ommaney (0)
+CAPE OMMANEY,5,0,0,6,24,2009,1,3,1,,SF,Logs for checkcount combined with photo count of South of Cape Ommaney (0)
+CAPE RESURRECTION,6,0,0,6,26,2009,1,3,1,,KLS,Logs for checkcount
+CAPE RESURRECTION,6,0,0,6,26,2009,1,3,1,,SF,Logs for checkcount
+CAPE ST. ELIAS,6,1,0,6,25,2009,18,3,1,,KLS,Logs for checkcount
+CAPE ST. ELIAS,6,1,0,6,25,2009,17,3,1,,SF,Logs for checkcount
+CHERNABURA,8,1,1,7,14,2009,244,3,1,,KLS,Logs for checkcount
+CHERNABURA,8,1,1,7,14,2009,244,3,1,,LF,Logs for checkcount
+CHIRIKOF,7,1,1,7,14,2009,214,3,1,,KLS,Logs for checkcount
+CHIRIKOF,7,1,1,7,14,2009,218,3,1,,LF,Logs for checkcount
+CHISWELL ISLANDS,6,1,1,6,26,2009,64,3,1,,KLS,Logs for checkcount
+CHISWELL ISLANDS,6,1,1,6,26,2009,64,3,1,,SF,Logs for checkcount
+CHOWIET,7,1,1,6,28,2009,363,3,1,,KLS,Logs for checkcount
+CHOWIET,7,1,1,6,28,2009,358,3,1,,SF,Logs for checkcount
+CLUBBING ROCKS NORTH,8,1,1,7,14,2009,247,3,1,,KLS,Logs for checkcount
+CLUBBING ROCKS NORTH,8,1,1,7,14,2009,242,3,1,,LF,Logs for checkcount
+CLUBBING ROCKS SOUTH,8,1,1,7,14,2009,526,3,1,,KLS,Logs for checkcount
+CLUBBING ROCKS SOUTH,8,1,1,7,14,2009,541,3,1,,LF,Logs for checkcount
+EASTERLY,5,0,0,6,24,2009,1,3,1,,KLS,Logs for checkcount
+EASTERLY,5,0,0,6,24,2009,1,3,1,,CJ,Logs for checkcount
+FORRESTER/C HORN RK,5,1,1,6,24,2009,451,3,1,,KLS,Logs for checkcount
+FORRESTER/C HORN RK,5,1,1,6,24,2009,431,3,1,,CJ,Logs for checkcount
+FORRESTER/FORRESTER ISLAND,5,1,0,6,24,2009,0,3,1,,KLS,Logs for checkcount
+FORRESTER/FORRESTER ISLAND,5,1,0,6,24,2009,0,3,1,,CJ,Logs for checkcount
+FORRESTER/LOWRIE,5,1,1,6,24,2009,1763,3,1,,KLS,Logs for checkcount
+FORRESTER/LOWRIE,5,1,1,6,24,2009,1706,3,1,,SF,Logs for checkcount
+FORRESTER/NORTH RK,5,1,1,6,24,2009,1240,3,1,,KLS,Logs for checkcount
+FORRESTER/NORTH RK,5,1,1,6,24,2009,1206,3,1,,LF,Logs for checkcount
+FORRESTER/SEA LION RK,5,1,1,6,24,2009,641,3,1,,KLS,Logs for checkcount
+FORRESTER/SEA LION RK,5,1,1,6,24,2009,635,3,1,,LF,Logs for checkcount
+GLACIER,6,1,0,6,26,2009,4,3,1,,KLS,Logs for checkcount
+GLACIER,6,1,0,6,26,2009,4,3,1,,SF,Logs for checkcount
+GRAMP ROCK,10,1,1,7,4,2009,334,3,1,,KLS,Logs for checkcount
+GRAMP ROCK,10,1,1,7,4,2009,331,3,1,,LF,Logs for checkcount
+GRAN (LEDGE) POINT,5,0,0,6,24,2009,0,3,1,,KLS,Logs for checkcount
+GRAN (LEDGE) POINT,5,0,0,6,24,2009,0,3,1,,CJ,Logs for checkcount
+GRAVES ROCK,5,1,1,6,25,2009,444,3,1,,KLS,Logs for checkcount
+GRAVES ROCK,5,1,1,6,25,2009,435,3,1,,SF,Logs for checkcount
+HARBOR POINT,5,1,0,6,25,2009,0,3,1,,KLS,Logs for checkcount
+HARBOR POINT,5,1,0,6,25,2009,0,3,1,,SF,Logs for checkcount
+HAZY,5,1,1,6,24,2009,1993,3,1,,KLS,Logs for checkcount
+HAZY,5,1,1,6,24,2009,1959,3,1,,CJ,Logs for checkcount
+JACOB ROCK,5,1,0,6,24,2009,2,3,1,,KLS,Logs for checkcount
+JACOB ROCK,5,1,0,6,24,2009,2,3,1,,SF,Logs for checkcount
+JUDE,8,0,1,7,14,2009,275,3,1,,KLS,Logs for checkcount
+JUDE,8,0,1,7,14,2009,265,3,1,,LF,Logs for checkcount
+KANAGA/CAPE CHUNU,10,0,0,7,4,2009,0,3,1,,KLS,Logs for checkcount
+KANAGA/CAPE CHUNU,10,0,0,7,4,2009,0,3,1,,LF,Logs for checkcount
+KANAGA/SHIP ROCK,10,0,1,7,4,2009,216,3,1,,KLS,Logs for checkcount
+KANAGA/SHIP ROCK,10,0,1,7,4,2009,211,3,1,,LF,Logs for checkcount
+KASATOCHI/NORTH POINT,10,1,1,7,4,2009,395,3,1,,KLS,Logs for checkcount
+KASATOCHI/NORTH POINT,10,1,1,7,4,2009,392,3,1,,LF,Logs for checkcount
+KISKA/CAPE ST STEPHEN,10,1,1,7,7,2009,91,3,1,,KLS,Logs for checkcount
+KISKA/CAPE ST STEPHEN,10,1,1,7,7,2009,91,3,1,,LF,Logs for checkcount
+KISKA/LIEF COVE,10,1,1,7,7,2009,80,3,1,,KLS,Logs for checkcount
+KISKA/LIEF COVE,10,1,1,7,7,2009,81,3,1,,LF,Logs for checkcount
+KODIAK/CAPE BARNABAS,7,1,0,6,27,2009,0,3,1,,KLS,Logs for checkcount
+KODIAK/CAPE BARNABAS,7,1,0,6,27,2009,0,3,1,,SF,Logs for checkcount
+KODIAK/CAPE CHINIAK,7,1,0,6,27,2009,0,3,1,,KLS,Logs for checkcount
+KODIAK/CAPE CHINIAK,7,1,0,6,27,2009,0,3,1,,SF,Logs for checkcount
+KODIAK/CAPE UGAT,7,0,0,6,27,2009,1,3,1,,KLS,Logs for checkcount
+KODIAK/CAPE UGAT,7,0,0,6,27,2009,1,3,1,,SF,Logs for checkcount
+KODIAK/GULL POINT,7,0,0,6,27,2009,0,3,1,,KLS,Logs for checkcount
+KODIAK/GULL POINT,7,0,0,6,27,2009,0,3,1,,SF,Logs for checkcount
+LATAX ROCKS,7,1,0,6,27,2009,13,3,1,,KLS,Logs for checkcount
+LATAX ROCKS,7,1,0,6,27,2009,12,3,1,,SF,Logs for checkcount
+LIGHTHOUSE ROCKS,8,0,1,7,14,2009,15,3,1,,KLS,Logs for checkcount
+LIGHTHOUSE ROCKS,8,0,1,7,14,2009,16,3,1,,LF,Logs for checkcount
+LONG ISLAND,7,1,0,6,27,2009,0,3,1,,KLS,Logs for checkcount
+LONG ISLAND,7,1,0,6,27,2009,0,3,1,,SF,Logs for checkcount
+MARMOT,7,1,1,7,15,2009,505,3,1,,KLS,Logs for checkcount
+MARMOT,7,1,1,7,15,2009,513,3,1,,LF,Logs for checkcount
+NAGAI ROCKS,7,0,0,6,28,2009,18,3,1,,KLS,Logs for checkcount
+NAGAI ROCKS,7,0,0,6,28,2009,18,3,1,,SF,Logs for checkcount
+OGCHUL,9,1,1,7,8,2009,89,3,1,,KLS,Logs for checkcount
+OGCHUL,9,1,1,7,8,2009,91,3,1,,SF,Logs for checkcount
+OGLODAK,10,0,0,7,4,2009,3,3,1,,KLS,Logs for checkcount
+OGLODAK,10,0,0,7,4,2009,5,3,1,,LF,Logs for checkcount
+OUTER (PYE),7,0,1,6,26,2009,124,3,1,,KLS,Logs for checkcount
+OUTER (PYE),7,0,1,6,26,2009,120,3,1,,SF,Logs for checkcount
+PERL,7,0,0,6,26,2009,0,3,1,,KLS,Logs for checkcount
+PERL,7,0,0,6,26,2009,0,3,1,,SF,Logs for checkcount
+PINNACLE ROCK,8,1,1,7,14,2009,705,3,1,,KLS,Logs for checkcount
+PINNACLE ROCK,8,1,1,7,14,2009,699,3,1,,LF,Logs for checkcount
+POINT ELRINGTON,6,1,0,6,26,2009,1,3,1,,KLS,Logs for checkcount
+POINT ELRINGTON,6,1,0,6,26,2009,1,3,1,,SF,Logs for checkcount
+POINT LULL,5,0,0,6,24,2009,0,3,1,,KLS,Logs for checkcount
+POINT LULL,5,0,0,6,24,2009,0,3,1,,LF,Logs for checkcount
+PROCESSION ROCKS,6,0,0,6,26,2009,0,3,1,,KLS,Logs for checkcount
+PROCESSION ROCKS,6,0,0,6,26,2009,0,3,1,,SF,Logs for checkcount
+RK NEAR SEA OTTER,7,0,0,6,27,2009,0,3,1,,KLS,Logs for checkcount
+RK NEAR SEA OTTER,7,0,0,6,27,2009,0,3,1,,SF,Logs for checkcount
+SAIL,5,0,0,6,24,2009,0,3,1,,KLS,Logs for checkcount
+SAIL,5,0,0,6,24,2009,0,3,1,,SF,Logs for checkcount
+SEA LION ISLANDS,5,1,0,6,25,2009,0,3,1,,KLS,Logs for checkcount
+SEA LION ISLANDS,5,1,0,6,25,2009,0,3,1,,SF,Logs for checkcount
+SEA LION ROCK (AMAK),9,1,1,7,14,2009,188,3,1,,KLS,Logs for checkcount
+SEA LION ROCK (AMAK),9,1,1,7,14,2009,182,3,1,,LF,Logs for checkcount
+SEA LION ROCK (PUFFIN BAY),5,0,0,6,24,2009,0,3,1,,KLS,Logs for checkcount
+SEA LION ROCK (PUFFIN BAY),5,0,0,6,24,2009,0,3,1,,SF,Logs for checkcount
+SEAL ROCKS,6,1,1,6,26,2009,742,3,1,,KLS,Logs for checkcount
+SEAL ROCKS,6,1,1,6,26,2009,737,3,1,,SF,Logs for checkcount
+SEGUAM/SADDLERIDGE,10,1,1,7,1,2009,540,3,1,,KLS,Logs for checkcount
+SEGUAM/SADDLERIDGE,10,1,1,7,1,2009,540,3,1,,LF,Logs for checkcount
+SEGUAM/TURF POINT,10,1,0,7,7,2009,0,3,1,,KLS,Logs for checkcount
+SEGUAM/TURF POINT,10,1,0,7,7,2009,0,3,1,,LF,Logs for checkcount
+SEMISOPOCHNOI/POCHNOI,10,0,0,7,4,2009,5,3,1,,KLS,Logs for checkcount
+SEMISOPOCHNOI/POCHNOI,10,0,0,7,4,2009,5,3,1,,LF,Logs for checkcount
+SITKINAK/CAPE SITKINAK,7,1,0,6,27,2009,0,3,1,,KLS,Logs for checkcount
+SITKINAK/CAPE SITKINAK,7,1,0,6,27,2009,0,3,1,,SF,Logs for checkcount
+SOUTH MARBLE,5,0,0,6,25,2009,0,3,1,,KLS,Logs for checkcount
+SOUTH MARBLE,5,0,0,6,25,2009,0,3,1,,SF,Logs for checkcount
+SOUTH ROCKS,8,0,1,6,28,2009,60,3,1,,KLS,Logs for checkcount
+SOUTH ROCKS,8,0,1,6,28,2009,60,3,1,,SF,Logs for checkcount
+SUGARLOAF,7,1,1,6,27,2009,617,3,1,,KLS,Logs for checkcount
+SUGARLOAF,7,1,1,6,27,2009,609,3,1,,SF,Logs for checkcount
+SUNSET,5,0,0,6,24,2009,1,3,1,,KLS,Logs for checkcount
+SUNSET,5,0,0,6,24,2009,1,3,1,,CJ,Logs for checkcount
+SUSHILNOI ROCKS,8,0,0,6,28,2009,35,3,1,,KLS,Logs for checkcount
+SUSHILNOI ROCKS,8,0,0,6,28,2009,34,3,1,,SF,Logs for checkcount
+SUTWIK,7,1,0,6,28,2009,12,3,1,,KLS,Logs for checkcount
+SUTWIK,7,1,0,6,28,2009,11,3,1,,SF,Logs for checkcount
+TAG,10,1,1,7,4,2009,128,3,1,,KLS,Logs for checkcount
+TAG,10,1,1,7,4,2009,133,3,1,,LF,Logs for checkcount
+THE BROTHERS/SW,5,1,0,6,24,2009,2,3,1,,KLS,Logs for checkcount
+THE BROTHERS/SW,5,1,0,6,24,2009,2,3,1,,CJ,Logs for checkcount
+THE NEEDLE,6,1,0,6,26,2009,20,3,1,,KLS,Logs for checkcount
+THE NEEDLE,6,1,0,6,26,2009,20,3,1,,SF,Logs for checkcount
+THE WHALEBACK,8,0,0,6,28,2009,41,3,1,,KLS,Logs for checkcount
+THE WHALEBACK,8,0,0,6,28,2009,40,3,1,,SF,Logs for checkcount
+TIGALDA/ROCKS NE,9,0,0,7,9,2009,0,3,1,,KLS,Logs for checkcount
+TIGALDA/ROCKS NE,9,0,0,7,9,2009,0,3,1,,SF,Logs for checkcount
+TWOHEADED,7,1,0,6,27,2009,14,3,1,,KLS,Logs for checkcount
+TWOHEADED,7,1,0,6,27,2009,13,3,1,,SF,Logs for checkcount
+UGAMAK/NORTH,9,1,1,7,9,2009,506,3,1,,KLS,Logs for checkcount
+UGAMAK/NORTH,9,1,1,7,9,2009,517,3,1,,LF,Logs for checkcount
+UGAMAK/ROUND,9,1,1,7,9,2009,73,3,1,,KLS,Logs for checkcount
+UGAMAK/ROUND,9,1,1,7,9,2009,69,3,1,,LF,Logs for checkcount
+UGAMAK/UGAMAK BAY,9,1,1,7,9,2009,331,3,1,,KLS,Logs for checkcount
+UGAMAK/UGAMAK BAY,9,1,1,7,9,2009,322,3,1,,LF,Logs for checkcount
+ULAK/HASGOX POINT,10,1,1,7,7,2009,273,3,1,,KLS,Logs for checkcount
+ULAK/HASGOX POINT,10,1,1,7,7,2009,271,3,1,,LF,Logs for checkcount
+UNALASKA/BISHOP POINT,9,0,0,7,1,2009,0,3,1,,KLS,Logs for checkcount
+UNALASKA/BISHOP POINT,9,0,0,7,1,2009,0,3,1,,SF,Logs for checkcount
+UNALASKA/CAPE IZIGAN,9,0,0,7,8,2009,28,3,1,,KLS,Logs for checkcount
+UNALASKA/CAPE IZIGAN,9,0,0,7,8,2009,30,3,1,,SF,Logs for checkcount
+USHAGAT/ROCKS SOUTH,7,1,0,6,27,2009,1,3,1,,KLS,Logs for checkcount
+USHAGAT/ROCKS SOUTH,7,1,0,6,27,2009,1,3,1,,SF,Logs for checkcount
+USHAGAT/SW,7,1,1,6,27,2009,69,3,1,,KLS,Logs for checkcount
+USHAGAT/SW,7,1,1,6,27,2009,70,3,1,,SF,Logs for checkcount
+WEST ROCK,5,0,0,6,24,2009,2,3,1,,KLS,Logs for checkcount
+WEST ROCK,5,0,0,6,24,2009,1,3,1,,CJ,Logs for checkcount
+WHITE SISTERS,5,1,1,6,25,2009,858,3,1,,KLS,Logs for checkcount
+WHITE SISTERS,5,1,1,6,25,2009,836,3,1,,SF,Logs for checkcount
+WOLF ROCK,5,0,0,6,24,2009,0,3,1,,KLS,Logs for checkcount
+WOLF ROCK,5,0,0,6,24,2009,0,3,1,,CJ,Logs for checkcount
+WOODED (FISH),6,1,1,6,26,2009,177,3,1,,KLS,Logs for checkcount
+WOODED (FISH),6,1,1,6,26,2009,178,3,1,,SF,Logs for checkcount
+YASHA,5,0,0,6,24,2009,10,3,1,,KLS,Logs for checkcount
+YASHA,5,0,0,6,24,2009,10,3,1,,CJ,Logs for checkcount
+YUNASKA,10,1,1,7,13,2009,173,3,1,,KLS,Logs for checkcount
+YUNASKA,10,1,1,7,13,2009,168,3,1,,LF,Logs for checkcount
+UNIMAK/OKSENOF POINT,9,0,0,7,10,2009,6,4,1,,CJ,logs for chkcnt combined with photo count south of Oksenof point (6)
+UNIMAK/OKSENOF POINT,9,0,0,7,10,2009,6,4,1,,KLS,logs for chkcnt combined with photo count south of Oksenof point (6)
+AIALIK CAPE,6,0,0,6,26,2009,1,4,1,,SF,logs for chkcnt combined with photo count from Unnamed rock bn Rugged and Aialik Cape (1)
+AIALIK CAPE,6,0,0,6,26,2009,1,4,1,,KLS,logs for chkcnt combined with photo count from Unnamed rock bn Rugged and Aialik Cape (1)
+STEEP POINT,6,0,0,6,26,2009,0,4,1,,KLS,logs for chkcnt combined with photo count of Unnamed rock bn Steep Point and Rabbit (0)
+STEEP POINT,6,0,0,6,26,2009,0,4,1,,SF,logs for chkcnt combined with photo count of Unnamed rock bn Steep Point and Rabbit (0)
+ADAK/ARGONNE POINT,10,1,0,6,24,2010,0,3,1,N,SF,
+ADAK/ARGONNE POINT,10,1,0,6,24,2010,0,3,1,N,LF,
+ADAK/CAPE YAKAK,10,1,0,6,24,2010,2,3,1,N,SF,
+ADAK/CAPE YAKAK,10,1,0,6,24,2010,2,3,1,N,LF,
+ADAK/CRONE ISLAND,10,0,0,6,25,2010,0,3,1,N,KLS,
+ADAK/CRONE ISLAND,10,0,0,6,25,2010,0,3,1,N,LF,
+ADAK/LAKE POINT,10,1,1,6,24,2010,323,3,1,N,SF,
+ADAK/LAKE POINT,10,1,1,6,24,2010,314,3,1,N,LF,
+ADUGAK,9,1,1,6,19,2010,247,3,1,N,KLS,alittle early to use for annual pup production at this rookery
+ADUGAK,9,1,1,6,19,2010,236,3,1,N,LF,alittle early to use for annual pup production at this rookery
+AGLIGADAK,10,1,0,6,25,2010,1,3,1,N,KLS,
+AGLIGADAK,10,1,0,6,25,2010,1,3,1,N,LF,
+AKUTAN/CAPE MORGAN,9,1,1,7,3,2010,736,3,1,N,KLS,
+AKUTAN/CAPE MORGAN,9,1,1,7,3,2010,723,3,1,N,LF,
+AKUTAN/REEF-LAVA,9,1,0,6,15,2010,10,3,1,N,LF,
+AKUTAN/REEF-LAVA,9,1,0,6,15,2010,9,3,1,N,KLS,
+AMATIGNAK/NITROF POINT,10,1,0,6,24,2010,0,3,1,N,SF,
+AMATIGNAK/NITROF POINT,10,1,0,6,24,2010,0,3,1,N,LF,
+AMLIA/EAST CAPE,10,1,0,6,25,2010,2,3,1,N,KLS,
+AMLIA/EAST CAPE,10,1,0,6,25,2010,2,3,1,N,LF,
+AMLIA/SVIECH. HARBOR,10,0,0,6,25,2010,30,3,1,N,KLS,
+AMLIA/SVIECH. HARBOR,10,0,0,6,25,2010,29,3,1,N,LF,
+AMUKTA+ROCKS,10,1,0,7,3,2010,0,3,1,N,KLS,
+AMUKTA+ROCKS,10,1,0,7,3,2010,0,3,1,N,LF,
+BIALI ROCK,5,1,1,7,12,2010,83,3,1,N,KLS,
+BIALI ROCK,5,1,1,7,12,2010,87,3,1,N,LF,
+BOGOSLOF/FIRE ISLAND,9,1,1,6,19,2010,337,3,1,N,KLS,alittle early to use for annual pup production at this rookery
+BOGOSLOF/FIRE ISLAND,9,1,1,6,19,2010,328,3,1,N,LF,alittle early to use for annual pup production at this rookery
+CAPE ADDINGTON,5,0,0,7,12,2010,1,3,1,N,KLS,
+CAPE ADDINGTON,5,0,0,7,12,2010,1,3,1,N,LF,
+CAPE BARTOLOME,5,0,0,7,12,2010,0,3,1,N,KLS,
+CAPE BARTOLOME,5,0,0,7,12,2010,0,3,1,N,LF,
+CAPE FAIRFIELD,6,0,0,7,11,2010,0,3,1,N,KLS,
+CAPE FAIRFIELD,6,0,0,7,11,2010,0,3,1,N,LF,
+CAPE OMMANEY,5,0,0,7,12,2010,0,3,1,N,KLS,
+CAPE OMMANEY,5,0,0,7,12,2010,0,3,1,N,LF,
+CAPE RESURRECTION,6,0,0,7,11,2010,0,3,1,N,KLS,
+CAPE RESURRECTION,6,0,0,7,11,2010,0,3,1,N,LF,
+CAPE ST. ELIAS,6,1,0,6,9,2010,14,3,1,R,SF,
+CAPE ST. ELIAS,6,1,0,6,9,2010,14,3,1,R,CJ,
+CAPE ST. ELIAS,6,1,0,7,11,2010,15,3,1,R,KLS,
+CAPE ST. ELIAS,6,1,0,7,11,2010,15,3,1,R,LF,
+CHAGULAK,10,1,0,7,3,2010,0,3,1,N,KLS,
+CHAGULAK,10,1,0,7,3,2010,0,3,1,N,LF,
+CHIRIKOF,7,1,1,6,12,2010,83,3,1,N,LF,alittle early to use for annual pup production at this rookery
+CHIRIKOF,7,1,1,6,12,2010,82,3,1,N,KLS,alittle early to use for annual pup production at this rookery
+CHISWELL ISLANDS,6,1,1,6,9,2010,33,3,1,R,SF,alittle early to use for annual pup production at this rookery
+CHISWELL ISLANDS,6,1,1,6,9,2010,32,3,1,R,CJ,alittle early to use for annual pup production at this rookery
+CHISWELL ISLANDS,6,1,1,7,11,2010,63,3,1,R,KLS,
+CHISWELL ISLANDS,6,1,1,7,11,2010,64,3,1,R,LF,
+CHOWIET,7,1,1,6,12,2010,327,3,1,N,KLS,alittle early to use for annual pup production at this rookery
+CHOWIET,7,1,1,6,12,2010,315,3,1,N,LF,alittle early to use for annual pup production at this rookery
+CHUGINADAK,10,1,0,7,3,2010,0,3,1,N,KLS,
+CHUGINADAK,10,1,0,7,3,2010,0,3,1,N,LF,
+CHUGUL,10,0,0,6,24,2010,0,3,1,N,SF,
+CHUGUL,10,0,0,6,24,2010,0,3,1,N,LF,
+CORONATION,5,1,0,7,12,2010,0,3,1,N,KLS,
+CORONATION,5,1,0,7,12,2010,0,3,1,N,LF,
+DANGER,6,0,0,7,11,2010,0,3,1,N,KLS,
+DANGER,6,0,0,7,11,2010,0,3,1,N,LF,
+EASTERLY,5,0,0,7,12,2010,0,3,1,N,KLS,
+EASTERLY,5,0,0,7,12,2010,0,3,1,N,LF,
+EGG,9,0,0,7,3,2010,0,3,1,N,KLS,
+EGG,9,0,0,7,3,2010,0,3,1,N,LF,
+FORRESTER/C HORN RK,5,1,1,7,12,2010,170,3,1,N,KLS,
+FORRESTER/C HORN RK,5,1,1,7,12,2010,160,3,1,N,LF,
+FORRESTER/FORRESTER ISLAND,5,1,0,7,12,2010,0,3,1,N,KLS,
+FORRESTER/FORRESTER ISLAND,5,1,0,7,12,2010,0,3,1,N,LF,
+FORRESTER/LOWRIE,5,1,1,7,12,2010,1617,3,1,N,KLS,
+FORRESTER/LOWRIE,5,1,1,7,12,2010,1600,3,1,N,LF,
+FORRESTER/NORTH RK,5,1,1,7,12,2010,475,3,1,N,KLS,
+FORRESTER/NORTH RK,5,1,1,7,12,2010,468,3,1,N,LF,
+FORRESTER/SEA LION RK,5,1,1,7,12,2010,432,3,1,N,KLS,
+FORRESTER/SEA LION RK,5,1,1,7,12,2010,424,3,1,N,LF,
+GLACIER,6,1,0,6,9,2010,1,3,1,R,KLS,
+GLACIER,6,1,0,6,9,2010,1,3,1,R,CJ,
+GLACIER,6,1,0,7,11,2010,0,3,1,R,KLS,
+GLACIER,6,1,0,7,11,2010,0,3,1,R,LF,
+GRAMP ROCK,10,1,1,6,24,2010,304,3,1,N,SF,
+GRAMP ROCK,10,1,1,6,24,2010,294,3,1,N,LF,
+GRAN (LEDGE) POINT,5,0,0,7,12,2010,0,3,1,N,KLS,
+GRAN (LEDGE) POINT,5,0,0,7,12,2010,0,3,1,N,LF,
+GRINDALL,5,0,0,7,12,2010,0,3,1,N,KLS,
+GRINDALL,5,0,0,7,12,2010,0,3,1,N,LF,
+NATOA (GROTTO),6,0,0,6,9,2010,2,3,1,R,SF,
+NATOA (GROTTO),6,0,0,6,9,2010,2,3,1,R,CJ,
+NATOA (GROTTO),6,0,0,7,11,2010,0,3,1,R,KLS,
+NATOA (GROTTO),6,0,0,7,11,2010,0,3,1,R,LF,
+HAZY,5,1,1,7,12,2010,1365,3,1,N,KLS,
+HAZY,5,1,1,7,12,2010,1349,3,1,N,LF,
+HERBERT,10,1,0,7,3,2010,0,3,1,N,KLS,
+HERBERT,10,1,0,7,3,2010,0,3,1,N,LF,
+ILAK,10,0,0,6,24,2010,1,3,1,N,LF,
+ILAK,10,0,0,6,24,2010,0,3,1,N,SF,
+INNER SIGNAL,9,0,0,7,3,2010,0,3,1,N,KLS,
+INNER SIGNAL,9,0,0,7,3,2010,0,3,1,N,LF,
+JACOB ROCK,5,1,0,7,12,2010,0,3,1,N,KLS,
+JACOB ROCK,5,1,0,7,12,2010,0,3,1,N,LF,
+KAGALASKA,10,0,0,6,25,2010,0,3,1,N,KLS,
+KAGALASKA,10,0,0,6,25,2010,0,3,1,N,LF,
+KAIUCHALI (BIORKA),5,0,0,7,12,2010,0,3,1,N,KLS,
+KAIUCHALI (BIORKA),5,0,0,7,12,2010,0,3,1,N,LF,
+KANAGA/CAPE CHUNU,10,0,0,6,24,2010,3,3,1,N,SF,
+KANAGA/CAPE CHUNU,10,0,0,6,24,2010,3,3,1,N,LF,
+KANAGA/SHIP ROCK,10,0,1,6,24,2010,217,3,1,N,SF,
+KANAGA/SHIP ROCK,10,0,1,6,24,2010,210,3,1,N,LF,
+KASATOCHI/NORTH POINT,10,1,1,6,24,2010,354,3,1,N,LF,
+KASATOCHI/NORTH POINT,10,1,1,6,24,2010,353,3,1,N,SF,
+KODIAK/CAPE UGAT,7,0,0,6,10,2010,4,3,1,N,LF,
+KODIAK/CAPE UGAT,7,0,0,6,10,2010,3,3,1,N,KLS,
+LATAX ROCKS,7,1,0,6,10,2010,9,3,1,N,KLS,
+LATAX ROCKS,7,1,0,6,10,2010,9,3,1,N,LF,
+MARMOT,7,1,1,6,12,2010,278,3,1,N,LF,alittle early to use for annual pup production at this rookery
+MARMOT,7,1,1,6,12,2010,273,3,1,N,KLS,alittle early to use for annual pup production at this rookery
+OGCHUL,9,1,1,7,3,2010,117,3,1,N,KLS,
+OGCHUL,9,1,1,7,3,2010,116,3,1,N,LF,
+OGLODAK,10,0,0,6,23,2010,3,3,1,N,KLS,
+OGLODAK,10,0,0,6,23,2010,3,3,1,N,LF,
+OLD MAN ROCKS,9,0,0,6,19,2010,2,3,1,N,KLS,
+OLD MAN ROCKS,9,0,0,6,19,2010,2,3,1,N,LF,
+OUTER (PYE),7,0,1,6,9,2010,82,3,1,R,CJ,alittle early to use for annual pup production at this rookery
+OUTER (PYE),7,0,1,6,9,2010,80,3,1,R,KLS,alittle early to use for annual pup production at this rookery
+OUTER (PYE),7,0,1,7,11,2010,120,3,1,R,KLS,
+OUTER (PYE),7,0,1,7,11,2010,124,3,1,R,LF,
+OUTER SIGNAL,9,0,0,7,3,2010,0,3,1,N,KLS,
+OUTER SIGNAL,9,0,0,7,3,2010,0,3,1,N,LF,
+PERL,7,0,0,7,10,2010,0,3,1,N,KLS,
+PERL,7,0,0,7,10,2010,0,3,1,N,LF,
+POINT ELRINGTON,6,1,0,6,9,2010,2,3,1,R,SF,
+POINT ELRINGTON,6,1,0,6,9,2010,1,3,1,R,CJ,
+POINT ELRINGTON,6,1,0,7,11,2010,4,3,1,R,KLS,
+POINT ELRINGTON,6,1,0,7,11,2010,4,3,1,R,LF,
+POINT MARSH,5,0,0,7,12,2010,0,3,1,N,KLS,
+POINT MARSH,5,0,0,7,12,2010,0,3,1,N,LF,
+POLIVNOI ROCK,9,0,0,7,3,2010,0,3,1,N,KLS,
+POLIVNOI ROCK,9,0,0,7,3,2010,0,3,1,N,LF,
+PROCESSION ROCKS,6,0,0,7,11,2010,0,3,1,N,KLS,
+PROCESSION ROCKS,6,0,0,7,11,2010,0,3,1,N,LF,
+SAGIGIK,10,1,0,6,25,2010,0,3,1,N,KLS,
+SAGIGIK,10,1,0,6,25,2010,0,3,1,N,LF,
+SAIL,5,0,0,7,12,2010,0,3,1,N,KLS,
+SAIL,5,0,0,7,12,2010,0,3,1,N,LF,
+SEA LION ROCK (AMAK),9,1,1,6,14,2010,156,3,1,N,LF,alittle early to use for annual pup production at this rookery
+SEA LION ROCK (AMAK),9,1,1,6,14,2010,152,3,1,N,KLS,alittle early to use for annual pup production at this rookery
+SEA LION ROCK (PUFFIN BAY),5,0,0,7,12,2010,0,3,1,N,KLS,
+SEA LION ROCK (PUFFIN BAY),5,0,0,7,12,2010,0,3,1,N,LF,
+SEAL ROCKS,6,1,1,6,9,2010,399,3,1,R,SF,alittle early to use for annual pup production at this rookery
+SEAL ROCKS,6,1,1,6,9,2010,391,3,1,R,CJ,alittle early to use for annual pup production at this rookery
+SEAL ROCKS,6,1,1,7,11,2010,640,3,1,R,KLS,
+SEAL ROCKS,6,1,1,7,11,2010,627,3,1,R,LF,
+SEAL ROCKS (KENAI),6,1,0,7,11,2010,0,3,1,N,KLS,
+SEAL ROCKS (KENAI),6,1,0,7,11,2010,0,3,1,N,LF,
+SEGUAM/SADDLERIDGE,10,1,1,7,3,2010,521,3,1,N,KLS,
+SEGUAM/SADDLERIDGE,10,1,1,7,3,2010,514,3,1,N,LF,
+SEGUAM/SW RIP,10,1,0,7,3,2010,0,3,1,N,KLS,
+SEGUAM/SW RIP,10,1,0,7,3,2010,0,3,1,N,LF,
+SEGUAM/WHARF POINT,10,1,0,7,3,2010,0,3,1,N,KLS,
+SEGUAM/WHARF POINT,10,1,0,7,3,2010,0,3,1,N,LF,
+SHAKUN ROCKS,7,0,0,6,10,2010,2,3,1,N,KLS,
+SHAKUN ROCKS,7,0,0,6,10,2010,2,3,1,N,LF,
+SILAK,10,1,0,6,25,2010,1,3,1,N,KLS,
+SILAK,10,1,0,6,25,2010,1,3,1,N,LF,
+CAPE OMMANEY/S,5,0,0,7,12,2010,0,3,1,N,KLS,
+CAPE OMMANEY/S,5,0,0,7,12,2010,0,3,1,N,LF,
+SUGARLOAF,7,1,1,6,10,2010,430,3,1,N,KLS,alittle early to use for annual pup production at this rookery
+SUGARLOAF,7,1,1,6,10,2010,419,3,1,N,LF,alittle early to use for annual pup production at this rookery
+SUTWIK,7,1,0,6,13,2010,11,3,1,N,KLS,
+SUTWIK,7,1,0,6,13,2010,11,3,1,N,LF,
+TAG,10,1,1,6,24,2010,135,3,1,N,SF,
+TAG,10,1,1,6,24,2010,135,3,1,N,LF,
+TAGALAK,10,0,0,6,24,2010,1,3,1,N,SF,
+TAGALAK,10,0,0,6,24,2010,1,3,1,N,LF,
+TANADAK (AMLIA),10,1,0,6,25,2010,0,3,1,N,KLS,
+TANAGA/CAPE SASMIK,10,0,0,6,24,2010,3,3,1,N,SF,
+TANAGA/CAPE SASMIK,10,0,0,6,24,2010,3,3,1,N,LF,
+THE BROTHERS/SW,5,1,0,7,12,2010,0,3,1,N,KLS,
+THE BROTHERS/SW,5,1,0,7,12,2010,0,3,1,N,LF,
+THE NEEDLE,6,1,0,6,9,2010,9,3,1,R,CJ,
+THE NEEDLE,6,1,0,6,9,2010,8,3,1,R,SF,
+THE NEEDLE,6,1,0,7,11,2010,22,3,1,R,KLS,
+THE NEEDLE,6,1,0,7,11,2010,21,3,1,R,LF,
+THE PILLARS,9,0,0,7,3,2010,1,3,1,N,KLS,
+THE PILLARS,9,0,0,7,3,2010,1,3,1,N,LF,
+TIMBERED,5,0,0,7,12,2010,1,3,1,N,KLS,
+TIMBERED,5,0,0,7,12,2010,1,3,1,N,LF,
+TWOHEADED,7,1,0,6,12,2010,35,3,1,N,KLS,
+TWOHEADED,7,1,0,6,12,2010,33,3,1,N,LF,
+ULAK/HASGOX POINT,10,1,1,6,24,2010,270,3,1,N,SF,
+ULAK/HASGOX POINT,10,1,1,6,24,2010,258,3,1,N,LF,
+ULIAGA,10,0,0,6,19,2010,8,3,1,N,KLS,
+ULIAGA,10,0,0,6,19,2010,7,3,1,N,LF,
+UNALASKA/BISHOP POINT,9,0,0,6,19,2010,2,3,1,N,KLS,
+UNALASKA/BISHOP POINT,9,0,0,6,19,2010,1,3,1,N,LF,
+UNALASKA/CAPE IZIGAN,9,0,0,7,3,2010,41,3,1,N,KLS,
+UNALASKA/CAPE IZIGAN,9,0,0,7,3,2010,41,3,1,N,LF,
+USHAGAT/SW,7,1,1,6,10,2010,38,3,1,N,KLS,alittle early to use for annual pup production at this rookery
+USHAGAT/SW,7,1,1,6,10,2010,38,3,1,N,LF,alittle early to use for annual pup production at this rookery
+VSEVIDOF,9,1,0,7,3,2010,0,3,1,N,KLS,
+VSEVIDOF,9,1,0,7,3,2010,0,3,1,N,LF,
+WEST ROCK,5,0,0,7,12,2010,0,3,1,N,KLS,
+WEST ROCK,5,0,0,7,12,2010,3,3,1,N,LF,
+WOODED (FISH),6,1,1,7,11,2010,226,3,1,N,KLS,
+WOODED (FISH),6,1,1,7,11,2010,221,3,1,N,LF,
+YASHA,5,0,0,7,12,2010,9,3,1,N,KLS,
+YASHA,5,0,0,7,12,2010,9,3,1,N,LF,
+YUNASKA,10,1,1,7,3,2010,189,3,1,N,KLS,
+YUNASKA,10,1,1,7,3,2010,181,3,1,N,LF,
+ADAK/CAPE YAKAK,10,1,0,7,11,2011,0,3,1,N,LF,
+ADAK/LAKE POINT,10,1,1,7,11,2011,314,3,1,N,LF,4 dead pups
+ADUGAK,9,1,1,7,3,2011,252,3,1,N,LF,8 dead pups
+AGATTU/CAPE SABAK,11,1,1,7,16,2011,77,3,1,N,LF,5 dead pups
+AGATTU/GILLON POINT,11,1,1,7,16,2011,83,3,1,N,LF,2 dead pups
+AGLIGADAK,10,1,0,7,9,2011,0,3,1,N,LF,
+AIKTAK,9,0,0,7,4,2011,2,3,1,N,LF,1 dead pups
+AKUTAN/CAPE MORGAN,9,1,1,7,4,2011,740,3,1,N,LF,14 dead pups
+AKUTAN/REEF-LAVA,9,1,0,7,4,2011,21,3,1,N,LF,
+AMAK+ROCKS,9,1,0,7,5,2011,2,3,1,N,LF,
+AMLIA/CAPE MISTY,10,0,0,7,9,2011,0,3,1,N,LF,
+AMLIA/EAST CAPE,10,1,0,7,9,2011,0,3,1,N,LF,
+AMLIA/SVIECH. HARBOR,10,0,0,7,9,2011,35,3,1,N,LF,
+AMUKTA+ROCKS,10,1,0,7,9,2011,1,3,1,N,LF,
+ANAGAKSIK,10,1,0,7,11,2011,0,3,1,N,LF,
+ATKA/NORTH CAPE,10,1,0,7,11,2011,0,3,1,N,LF,
+ATKINS,8,1,1,6,30,2011,377,3,1,N,LF,2 dead pups
+ATTU/CAPE WRANGELL,11,0,1,7,16,2011,28,3,1,N,LF,1 dead pups
+ATTU/CHICHAGOF POINT,11,0,0,7,16,2011,0,3,1,N,LF,
+ATTU/CHIRIKOF POINT,11,0,0,7,16,2011,0,3,1,N,LF,
+BIRD,8,1,0,7,1,2011,2,3,1,N,LF,
+BOBROF,10,0,0,7,11,2011,0,3,1,N,LF,
+BOGOSLOF/FIRE ISLAND,9,1,1,7,3,2011,324,3,1,N,LF,7 dead pups
+CAPE HINCHINBROOK,6,0,0,6,27,2011,0,3,1,N,LF,
+CAPE RESURRECTION,6,0,0,6,28,2011,2,3,1,N,LF,
+CAPE ST. ELIAS,6,1,0,6,27,2011,26,3,1,N,LF,
+CARLISLE,10,1,0,7,3,2011,0,3,1,N,LF,
+CATON,8,0,0,7,1,2011,1,3,1,N,LF,
+CHAGULAK,10,1,0,7,9,2011,0,3,1,N,LF,
+CHERNABURA,8,1,1,6,30,2011,251,3,1,N,LF,1 dead pups
+CHIRIKOF,7,1,1,6,30,2011,184,3,1,N,LF,2 dead pups
+CHISWELL ISLANDS,6,1,1,6,28,2011,83,3,1,N,LF,3 dead pups
+CHOWIET,7,1,1,6,30,2011,451,3,1,N,LF,6 dead pups
+CHUGINADAK,10,1,0,7,3,2011,0,3,1,N,LF,
+CHUGUL,10,0,0,7,11,2011,0,3,1,N,LF,
+CLUBBING ROCKS NORTH,8,1,1,6,30,2011,277,3,1,N,LF,2 dead pups
+CLUBBING ROCKS SOUTH,8,1,1,6,30,2011,553,3,1,N,LF,2 dead pups
+FENIMORE,10,0,0,7,11,2011,0,3,1,N,LF,
+GLACIER,6,1,0,6,27,2011,5,3,1,N,LF,
+GREAT SITKIN,10,0,0,7,11,2011,0,3,1,N,LF,
+HERBERT,10,1,0,7,9,2011,3,3,1,N,LF,
+HOOK POINT,6,0,0,6,27,2011,0,3,1,N,LF,
+JUDE,8,0,1,6,30,2011,295,3,1,N,LF,4 dead pups
+KAGAMIL,10,1,0,7,3,2011,0,3,1,N,LF,
+KANAGA/CAPE MIGA,10,0,0,7,11,2011,0,3,1,N,LF,
+KANAGA/SHIP ROCK,10,0,1,7,11,2011,206,3,1,N,LF,7 dead pups
+KASATOCHI/NORTH POINT,10,1,1,7,11,2011,375,3,1,N,LF,3 dead pups
+KILOKAK ROCKS,7,0,0,6,30,2011,3,3,1,N,LF,
+KODIAK/CAPE CHINIAK,7,1,0,6,28,2011,1,3,1,N,LF,
+KODIAK/CAPE UGAT,7,0,0,6,30,2011,0,3,1,N,LF,
+KUPREANOF POINT,8,0,0,6,30,2011,0,3,1,N,LF,
+LATAX ROCKS,7,1,0,6,28,2011,18,3,1,N,LF,
+LIGHTHOUSE ROCKS,8,0,1,6,30,2011,8,3,1,N,LF,
+LITTLE TANAGA STRAIT,10,1,0,7,11,2011,0,3,1,N,LF,
+MARMOT,7,1,1,6,28,2011,527,3,1,N,LF,4 dead pups
+MITROFANIA,8,0,0,6,30,2011,3,3,1,N,LF,
+NAGAI ROCKS,7,0,0,6,30,2011,8,3,1,N,LF,
+NATOA (GROTTO),6,0,0,6,28,2011,0,3,1,N,LF,
+OGCHUL,9,1,1,7,3,2011,109,3,1,N,LF,
+OGLODAK,10,0,0,7,11,2011,0,3,1,N,LF,
+OLD MAN ROCKS,9,0,0,7,1,2011,0,3,1,N,LF,
+OLGA ROCKS NE,8,0,0,7,1,2011,0,3,1,N,LF,
+OLGA ROCKS SW,8,0,0,7,1,2011,1,3,1,N,LF,
+OUTER (PYE),7,0,1,6,28,2011,143,3,1,N,LF,
+PERL,7,0,0,6,28,2011,1,3,1,N,LF,
+PINNACLE ROCK,8,1,1,7,1,2011,757,3,1,N,LF,5 dead pups
+POINT ELRINGTON,6,1,0,6,28,2011,2,3,1,N,LF,
+POLIVNOI ROCK,9,0,0,7,3,2011,0,3,1,N,LF,
+PROCESSION ROCKS,6,0,0,6,28,2011,0,3,1,N,LF,
+SAGIGIK,10,1,0,7,9,2011,0,3,1,N,LF,
+SEA LION ROCK (AMAK),9,1,1,7,5,2011,201,3,1,N,LF,3 dead pups
+SEA LION ROCKS (SHUMAGINS),8,1,0,6,30,2011,1,3,1,N,LF,
+SEAL ROCKS,6,1,1,6,27,2011,726,3,1,N,LF,80 dead pups
+SEGUAM/SADDLERIDGE,10,1,1,7,9,2011,510,3,1,N,LF,15 dead pups
+SEGUAM/TURF POINT,10,1,0,7,9,2011,0,3,1,N,LF,
+SEGUAM/WHARF POINT,10,1,0,7,9,2011,0,3,1,N,LF,
+SHAKUN ROCKS,7,0,0,6,30,2011,1,3,1,N,LF,
+SHEMYA,11,0,0,7,16,2011,0,3,1,N,LF,
+SILAK,10,1,0,7,11,2011,0,3,1,N,LF,
+SOUTH ROCKS,8,0,1,7,1,2011,71,3,1,N,LF,1 dead pups
+SUGARLOAF,7,1,1,6,28,2011,776,3,1,N,LF,6 dead pups
+SUSHILNOI ROCKS,8,0,0,7,1,2011,28,3,1,N,LF,
+SUTWIK,7,1,0,6,30,2011,23,3,1,N,LF,
+TAGALAK,10,0,0,7,11,2011,2,3,1,N,LF,
+TANADAK (AMLIA),10,1,0,7,9,2011,1,3,1,N,LF,
+TANAGA/CAPE SUDAK,10,,,7,11,2011,0,3,1,N,LF,
+TANAGA/CAPE SASMIK,10,0,0,7,11,2011,1,3,1,N,LF,
+THE NEEDLE,6,1,0,6,28,2011,30,3,1,N,LF,
+THE PILLARS,9,0,0,7,3,2011,1,3,1,N,LF,
+THE WHALEBACK,8,0,0,6,30,2011,52,3,1,N,LF,
+TIGALDA/ROCKS NE,9,0,0,7,4,2011,0,3,1,N,LF,
+TIGALDA/SOUTH SIDE,9,0,0,7,1,2011,0,3,1,N,LF,
+TWOHEADED,7,1,0,6,28,2011,53,3,1,N,LF,
+UGAMAK/NORTH,9,1,1,7,4,2011,482,3,1,N,LF,10 dead pups
+UGAMAK/ROUND,9,1,1,7,4,2011,157,3,1,N,LF,
+UGAMAK/UGAMAK BAY,9,1,1,7,5,2011,330,3,1,N,LF,9 dead pups
+ULIAGA,10,0,0,7,3,2011,0,3,1,N,LF,
+UMNAK/CAPE ASLIK,9,1,0,7,3,2011,0,3,1,N,LF,
+UNALASKA/BISHOP POINT,9,0,0,7,3,2011,1,3,1,N,LF,
+UNALASKA/CAPE IZIGAN,9,0,0,7,4,2011,34,3,1,N,LF,
+UNGA/ACHEREDIN POINT,8,0,0,6,30,2011,0,3,1,N,LF,
+UNIMAK/OKSENOF POINT,9,0,0,7,5,2011,0,3,1,N,LF,
+USHAGAT/SW,7,1,1,6,28,2011,84,3,1,N,LF,3 dead pups
+VSEVIDOF,9,1,0,7,3,2011,0,3,1,N,LF,
+WOODED (FISH),6,1,1,6,28,2011,225,3,1,N,LF,
+WOSNESENSKI,8,0,0,7,1,2011,0,3,1,N,LF,
+YUNASKA,10,1,1,7,9,2011,165,3,1,N,LF,
+ADAK/CAPE YAKAK,10,1,0,7,11,2011,0,3,1,N,SF,
+ADAK/LAKE POINT,10,1,1,7,11,2011,305,3,1,N,KS,
+ADUGAK,9,1,1,7,3,2011,247,3,1,N,KS,
+AGATTU/CAPE SABAK,11,1,1,7,16,2011,74,3,1,N,KS,
+AGATTU/GILLON POINT,11,1,1,7,16,2011,83,3,1,N,KS,
+AGLIGADAK,10,1,0,7,9,2011,0,3,1,N,KS,
+AIKTAK,9,0,0,7,4,2011,1,3,1,N,KS,
+AKUTAN/CAPE MORGAN,9,1,1,7,4,2011,727,3,1,N,KS,
+AKUTAN/REEF-LAVA,9,1,0,7,4,2011,21,3,1,N,KS,
+AMAK+ROCKS,9,1,0,7,5,2011,0,3,1,N,KS,
+AMLIA/CAPE MISTY,10,0,0,7,9,2011,0,3,1,N,KS,
+AMLIA/EAST CAPE,10,1,0,7,9,2011,0,3,1,N,KS,
+AMLIA/SVIECH. HARBOR,10,0,0,7,9,2011,35,3,1,N,KS,
+AMUKTA+ROCKS,10,1,0,7,9,2011,0,3,1,N,KS,
+ANAGAKSIK,10,1,0,7,11,2011,0,3,1,N,SF,
+ATKA/NORTH CAPE,10,1,0,7,11,2011,0,3,1,N,SF,
+ATKINS,8,1,1,6,30,2011,382,3,1,N,SF,
+ATTU/CAPE WRANGELL,11,0,1,7,16,2011,26,3,1,N,KS,
+ATTU/CHICHAGOF POINT,11,0,0,7,16,2011,0,3,1,N,KS,
+ATTU/CHIRIKOF POINT,11,0,0,7,16,2011,0,3,1,N,KS,
+BIRD,8,1,0,7,1,2011,2,3,1,N,KS,
+BOBROF,10,0,0,7,11,2011,0,3,1,N,SF,
+BOGOSLOF/FIRE ISLAND,9,1,1,7,3,2011,322,3,1,N,KS,
+CAPE HINCHINBROOK,6,0,0,6,27,2011,0,3,1,N,SF,
+CAPE RESURRECTION,6,0,0,6,28,2011,0,3,1,N,SF,
+CAPE ST. ELIAS,6,1,0,6,27,2011,26,3,1,N,SF,
+CARLISLE,10,1,0,7,3,2011,0,3,1,N,KS,
+CATON,8,0,0,7,1,2011,0,3,1,N,KS,
+CHAGULAK,10,1,0,7,9,2011,0,3,1,N,KS,
+CHERNABURA,8,1,1,6,30,2011,248,3,1,N,SF,
+CHIRIKOF,7,1,1,6,30,2011,187,3,1,N,SF,
+CHISWELL ISLANDS,6,1,1,6,28,2011,84,3,1,N,SF,
+CHOWIET,7,1,1,6,30,2011,455,3,1,N,SF,
+CHUGINADAK,10,1,0,7,3,2011,0,3,1,N,KS,
+CHUGUL,10,0,0,7,11,2011,0,3,1,N,SF,
+CLUBBING ROCKS NORTH,8,1,1,6,30,2011,288,3,1,N,SF,
+CLUBBING ROCKS SOUTH,8,1,1,6,30,2011,538,3,1,N,SF,
+FENIMORE,10,0,0,7,11,2011,0,3,1,N,SF,
+GLACIER,6,1,0,6,27,2011,5,3,1,N,SF,
+GREAT SITKIN,10,0,0,7,11,2011,0,3,1,N,SF,
+HERBERT,10,1,0,7,9,2011,3,3,1,N,KS,
+HOOK POINT,6,0,0,6,27,2011,0,3,1,N,SF,
+JUDE,8,0,1,6,30,2011,306,3,1,N,SF,
+KAGAMIL,10,1,0,7,3,2011,0,3,1,N,KS,
+KANAGA/CAPE MIGA,10,0,0,7,11,2011,0,3,1,N,SF,
+KANAGA/SHIP ROCK,10,0,1,7,11,2011,211,3,1,N,SF,
+KASATOCHI/NORTH POINT,10,1,1,7,11,2011,371,3,1,N,SF,
+KILOKAK ROCKS,7,0,0,6,30,2011,1,3,1,N,SF,
+KODIAK/CAPE CHINIAK,7,1,0,6,28,2011,0,3,1,N,SF,
+KODIAK/CAPE UGAT,7,0,0,6,30,2011,0,3,1,N,SF,
+KUPREANOF POINT,8,0,0,6,30,2011,0,3,1,N,SF,
+LATAX ROCKS,7,1,0,6,28,2011,18,3,1,N,SF,
+LIGHTHOUSE ROCKS,8,0,1,6,30,2011,10,3,1,N,SF,
+LITTLE TANAGA STRAIT,10,1,0,7,11,2011,0,3,1,N,SF,
+MARMOT,7,1,1,6,28,2011,522,3,1,N,SF,
+MITROFANIA,8,0,0,6,30,2011,2,3,1,N,SF,
+NAGAI ROCKS,7,0,0,6,30,2011,7,3,1,N,SF,
+NATOA (GROTTO),6,0,0,6,28,2011,0,3,1,N,SF,
+OGCHUL,9,1,1,7,3,2011,109,3,1,N,KS,
+OGLODAK,10,0,0,7,11,2011,0,3,1,N,SF,
+OLD MAN ROCKS,9,0,0,7,1,2011,0,3,1,N,KS,
+OLGA ROCKS NE,8,0,0,7,1,2011,0,3,1,N,KS,
+OLGA ROCKS SW,8,0,0,7,1,2011,1,3,1,N,KS,
+OUTER (PYE),7,0,1,6,28,2011,147,3,1,N,SF,
+PERL,7,0,0,6,28,2011,0,3,1,N,SF,
+PINNACLE ROCK,8,1,1,7,1,2011,739,3,1,N,KS,
+POINT ELRINGTON,6,1,0,6,28,2011,2,3,1,N,SF,
+POLIVNOI ROCK,9,0,0,7,3,2011,0,3,1,N,KS,
+PROCESSION ROCKS,6,0,0,6,28,2011,0,3,1,N,SF,
+SAGIGIK,10,1,0,7,9,2011,0,3,1,N,KS,
+SEA LION ROCK (AMAK),9,1,1,7,5,2011,199,3,1,N,KS,
+SEA LION ROCKS (SHUMAGINS),8,1,0,6,30,2011,0,3,1,N,SF,
+SEAL ROCKS,6,1,1,6,27,2011,729,3,1,N,KS,
+SEGUAM/SADDLERIDGE,10,1,1,7,9,2011,499,3,1,N,KS,
+SEGUAM/TURF POINT,10,1,0,7,9,2011,0,3,1,N,KS,
+SEGUAM/WHARF POINT,10,1,0,7,9,2011,0,3,1,N,KS,
+SHAKUN ROCKS,7,0,0,6,30,2011,1,3,1,N,SF,
+SHEMYA,11,0,0,7,16,2011,0,3,1,N,KS,
+SILAK,10,1,0,7,11,2011,0,3,1,N,SF,
+SOUTH ROCKS,8,0,1,7,1,2011,70,3,1,N,KS,
+SUGARLOAF,7,1,1,6,28,2011,758,3,1,N,SF,
+SUSHILNOI ROCKS,8,0,0,7,1,2011,26,3,1,N,KS,
+SUTWIK,7,1,0,6,30,2011,24,3,1,N,SF,
+TAGALAK,10,0,0,7,11,2011,2,3,1,N,SF,
+TANADAK (AMLIA),10,1,0,7,9,2011,0,3,1,N,KS,
+TANAGA/CAPE SUDAK,10,,,7,11,2011,0,3,1,N,SF,
+TANAGA/CAPE SASMIK,10,0,0,7,11,2011,2,3,1,N,SF,
+THE NEEDLE,6,1,0,6,28,2011,31,3,1,N,SF,
+THE PILLARS,9,0,0,7,3,2011,1,3,1,N,KS,
+THE WHALEBACK,8,0,0,6,30,2011,53,3,1,N,SF,
+TIGALDA/ROCKS NE,9,0,0,7,4,2011,0,3,1,N,KS,
+TIGALDA/SOUTH SIDE,9,0,0,7,1,2011,0,3,1,N,KS,
+TWOHEADED,7,1,0,6,28,2011,52,3,1,N,SF,
+UGAMAK/NORTH,9,1,1,7,4,2011,486,3,1,N,KS,
+UGAMAK/ROUND,9,1,1,7,4,2011,151,3,1,N,KS,
+UGAMAK/UGAMAK BAY,9,1,1,7,5,2011,332,3,1,N,KS,
+ULIAGA,10,0,0,7,3,2011,0,3,1,N,KS,
+UMNAK/CAPE ASLIK,9,1,0,7,3,2011,0,3,1,N,KS,
+UNALASKA/BISHOP POINT,9,0,0,7,3,2011,1,3,1,N,KS,
+UNALASKA/CAPE IZIGAN,9,0,0,7,4,2011,34,3,1,N,KS,
+UNGA/ACHEREDIN POINT,8,0,0,6,30,2011,0,3,1,N,SF,
+UNIMAK/OKSENOF POINT,9,0,0,7,5,2011,1,3,1,N,KS,
+USHAGAT/SW,7,1,1,6,28,2011,84,3,1,N,SF,
+VSEVIDOF,9,1,0,7,3,2011,0,3,1,N,KS,
+WOODED (FISH),6,1,1,6,28,2011,225,3,1,N,SF,
+WOSNESENSKI,8,0,0,7,1,2011,0,3,1,N,KS,
+YUNASKA,10,1,1,7,9,2011,168,3,1,N,KS,
+AKUN/BILLINGS HEAD,9,1,1,6,30,2011,134,5,1,N,RT,4 dead pups
+AKUN/BILLINGS HEAD,9,1,1,6,30,2011,137,5,1,N,JTS,
+ATTU/CAPE WRANGELL,11,0,1,6,24,2011,24,6,1,N,JTS,
+ATTU/CAPE WRANGELL,11,0,1,6,24,2011,20,6,2,N,TG,
+ATTU/CAPE WRANGELL,11,0,1,6,24,2011,22,6,3,N,TG,
+ATTU/CAPE WRANGELL,11,0,1,6,24,2011,20,6,4,N,MT,
+ATTU/CAPE WRANGELL,11,0,1,6,24,2011,25,6,5,N,MT,
+ATTU/CAPE WRANGELL,11,0,1,6,24,2011,16,6,6,N,JO,
+ATTU/CAPE WRANGELL,11,0,1,6,24,2011,22,6,7,N,JO,
+KISKA/CAPE ST STEPHEN,10,1,1,6,26,2011,36,6,8,N,TG,
+KISKA/CAPE ST STEPHEN,10,1,1,6,26,2011,37,6,9,N,TG,
+KISKA/CAPE ST STEPHEN,10,1,1,6,26,2011,41,6,10,N,RT,
+KISKA/CAPE ST STEPHEN,10,1,1,6,26,2011,42,6,11,N,RT,
+KISKA/CAPE ST STEPHEN,10,1,1,6,26,2011,44,6,12,N,RT,
+KISKA/CAPE ST STEPHEN,10,1,1,6,26,2011,35,6,13,N,JTS,
+KISKA/CAPE ST STEPHEN,10,1,1,6,26,2011,39,6,14,N,JO,
+KISKA/CAPE ST STEPHEN,10,1,1,6,26,2011,41,6,15,N,JO,
+AGATTU/CAPE SABAK,11,1,1,6,22,2011,60,6,16,N,TG,
+AGATTU/CAPE SABAK,11,1,1,6,22,2011,58,6,17,N,TG,
+AGATTU/CAPE SABAK,11,1,1,6,22,2011,64,6,18,N,RT,
+AGATTU/CAPE SABAK,11,1,1,6,22,2011,67,6,19,N,RT,
+AGATTU/CAPE SABAK,11,1,1,6,22,2011,62,6,20,N,MT,
+AGATTU/CAPE SABAK,11,1,1,6,22,2011,59,6,21,N,MT,
+TAG,10,1,1,6,22,2012,48,5,1,N,,"2 dead, partial count"
+TAG,10,1,1,6,22,2012,52,5,1,N,,"3 dead, partial count"
+TAG,10,1,1,6,22,2012,48,5,1,N,,"4 dead, partial count"
+TAG,10,1,1,6,22,2012,49,5,1,N,,"5 dead, partial count"
+AMCHITKA/EAST CAPE,10,1,0,6,23,2012,7,7,1,N,,
+AMCHITKA/EAST CAPE,10,1,0,6,23,2012,8,7,1,N,,
+AMCHITKA/EAST CAPE,10,1,0,6,23,2012,9,7,1,N,,
+AMCHITKA/COLUMN ROCK,10,0,1,6,23,2012,14,7,1,N,,
+AMCHITKA/COLUMN ROCK,10,0,1,6,23,2012,15,7,1,N,,
+AMCHITKA/COLUMN ROCK,10,0,1,6,23,2012,17,7,1,N,,
+AYUGADAK,10,1,1,6,23,2012,49,5,1,N,,2 dead
+AYUGADAK,10,1,1,6,23,2012,47,5,1,N,,2 dead
+AYUGADAK,10,1,1,6,23,2012,47,5,1,N,,2 dead
+AYUGADAK,10,1,1,6,23,2012,50,5,1,N,,2 dead
+KISKA/CAPE ST STEPHEN,10,1,1,6,23,2012,44,5,1,N,,
+KISKA/CAPE ST STEPHEN,10,1,1,6,23,2012,47,5,1,N,RT,
+KISKA/CAPE ST STEPHEN,10,1,1,6,23,2012,45,5,1,N,,
+AGATTU/GILLON POINT,11,1,1,6,24,2012,61,5,1,N,,
+AGATTU/GILLON POINT,11,1,1,6,24,2012,66,5,1,N,,
+ATTU/CAPE WRANGELL,11,0,1,6,25,2012,22,5,1,N,BF,
+ATTU/CAPE WRANGELL,11,0,1,6,25,2012,26,5,1,N,RT,
+ATTU/CHICHAGOF POINT,11,0,0,6,25,2012,0,7,1,N,,"Counted again next am, haulout."
+ATTU/CHIRIKOF POINT,11,0,0,6,26,2012,0,7,1,N,,
+AGATTU/CAPE SABAK,11,1,1,6,26,2012,69,5,1,N,,"Spook count, RT only count, + 2 dead"
+ALAID,11,1,0,6,27,2012,7,7,1,N,,
+BULDIR,11,0,1,6,27,2012,0,7,1,N,,"Not sure which site, NEED TO CHECK"
+SEMISOPOCHNOI/POCHNOI,10,0,0,6,28,2012,3,7,1,N,,
+ULAK/HASGOX POINT,10,1,1,6,29,2012,116,5,1,N,BF,"+ 4 dead, found when work up pups"
+ULAK/HASGOX POINT,10,1,1,6,29,2012,125,5,1,N,RT,"+ 4 dead, found when work up pups"
+KAGALASKA,10,0,0,6,30,2012,0,7,1,N,,
+SILAK,10,1,0,6,30,2012,0,7,1,N,,
+LITTLE TANAGA STRAIT,10,1,0,6,30,2012,0,7,1,N,,
+WALRUS,12,0,1,7,15,2010,14,6,1,N,RRR,Tiglax trip; cliff count supplemented by skiff and vessel observations
+AGATTU/CAPE SABAK,11,1,1,6,26,2013,55,6,,n,BF,"Non-pups BF:173/170 RT:158/160 JT:172  Pups BF:53/56, 2 dead RT:61/62, 2 dead  JT:56, 2 dead"
+AGATTU/CAPE SABAK,11,1,1,6,26,2013,58,6,,n,BF,See comment above for 2 dead included to live for each count. Rt 2/11/14
+AGATTU/CAPE SABAK,11,1,1,6,26,2013,63,6,,n,RT,
+AGATTU/CAPE SABAK,11,1,1,6,26,2013,64,6,,n,RT,
+AGATTU/CAPE SABAK,11,1,1,6,26,2013,58,6,,n,JTS,
+ATTU/CAPE WRANGELL,11,0,1,6,23,2013,32,5,,n,RT/JH/JS,"Ground count, incl 2 dead, spook counts"
+AGATTU/GILLON POINT,11,1,1,6,24,2013,99,5,,n,JTS,ground count
+AGATTU/GILLON POINT,11,1,1,6,24,2013,103,5,,n,JTS,"incl 2 dead, spook counts"
+AGATTU/GILLON POINT,11,1,1,6,24,2013,100,5,,n,RT,"incl 2 dead, spook counts"
+AGATTU/GILLON POINT,11,1,1,6,24,2013,106,5,,n,RT,"incl 2 dead, spook counts"
+KISKA/CAPE ST STEPHEN,10,1,1,6,27,2013,57,6,,n,RT,Cliff count counting from 2 vantage points
+KISKA/CAPE ST STEPHEN,10,1,1,6,27,2013,58,6,,n,RT,Cliff count counting from 2 vantage points
+KISKA/CAPE ST STEPHEN,10,1,1,6,27,2013,54,6,,n,JTS,Cliff count counting from 2 vantage points
+KISKA/CAPE ST STEPHEN,10,1,1,6,27,2013,55,6,,n,JTS,Cliff count counting from 2 vantage points
+KISKA/CAPE ST STEPHEN,10,1,1,6,27,2013,51,6,,n,BF,Cliff count counting from 2 vantage points
+KISKA/CAPE ST STEPHEN,10,1,1,6,27,2013,54,6,,n,BF,Cliff count counting from 2 vantage points
+KISKA/LIEF COVE,10,1,1,6,27,2013,62,6,,n,BF,"BF counted one dead, so added to all's live pup counts, minimal count due to distance"
+KISKA/LIEF COVE,10,1,1,6,27,2013,66,6,,n,BF,"BF counted one dead, so added to all's live pup counts, minimal count due to distance"
+KISKA/LIEF COVE,10,1,1,6,27,2013,70,6,,n,JH,"BF counted one dead, so added to all's live pup counts, minimal count due to distance"
+KISKA/LIEF COVE,10,1,1,6,27,2013,71,6,,n,JH,"BF counted one dead, so added to all's live pup counts, minimal count due to distance"
+KISKA/LIEF COVE,10,1,1,6,27,2013,69,6,,n,RT,"BF counted one dead, so added to all's live pup counts, minimal count due to distance"
+KISKA/LIEF COVE,10,1,1,6,27,2013,69,6,,n,RT,"BF counted one dead, so added to all's live pup counts, minimal count due to distance"
+KISKA/LIEF COVE,10,1,1,6,27,2013,65,6,,n,JTS,"BF counted one dead, so added to all's live pup counts, minimal count due to distance"
+KISKA/LIEF COVE,10,1,1,6,27,2013,67,6,,n,JTS,"BF counted one dead, so added to all's live pup counts, minimal count due to distance"
+KISKA/PILLAR ROCK,10,0,0,6,21,2013,0,8,,n,BF/RT/JS,
+KISKA/SIRIUS POINT,10,0,0,6,21,2013,0,8,,n,BF/RT/JS,
+KISKA/WITCHCRAFT POINT,10,0,0,6,21,2013,0,8,,n,BF/RT/JS,
+KISKA/WOLF POINT,10,0,0,6,21,2013,0,8,,n,BF/RT/JS,NP looked at vessel
+LITTLE SITKIN,10,0,0,6,21,2013,0,8,,n,BF/RT/JTS,
+SEGULA/GULA POINT,10,0,0,6,21,2013,0,8,,n,BF/RT/JTS,
+ATTU/CHICHAGOF POINT,11,0,0,6,23,2013,0,7,,n,BF/RT/JTS,All sea lions were on Gibson Island rocks
+ATTU/CHIRIKOF POINT,11,0,0,6,23,2013,0,8,,n,BF/RT/JRH,
+ATTU/KRESTA POINT,11,0,0,6,23,2013,0,8,,n,BF/JS,
+ALAID,11,1,0,6,26,2013,13,7,,n,RT,"BF:70/72 RT:72/75 non pups, plus 4 AM on haulout; pups BF:12 RT:13. Caught our wind and became alert to our presence; 4 AM on haulout went into water."
+ALAID,11,1,0,6,26,2013,12,7,,n,BF,
+NIZKI,11,0,0,6,26,2013,0,8,,n,BF/RT/JTS,
+SHEMYA,11,0,0,6,26,2013,0,7,,n,BF/RTJSJH,
+BULDIR/EAST CAPE,11,0,1,6,27,2013,0,8,,n,BF/RT/JTS,
+BULDIR/NW ROCKS,11,1,1,6,27,2013,0,7,,n,BF/RT/JTS,"On offshore rocks near largest, farthest rock with bird colonies. Four sea lions were on cobbles under cave. No sea lions on former rookery beach"
+BULDIR/ROOKERY,11,1,1,6,27,2013,0,8,,n,BF/RT/JTS,
+AYUGADAK,10,1,1,6,28,2013,50,6,,n,BF,"Non-pups BF 109/109, JRH 113/116, RT 112/113, JTS 114. Pups BF 50/51, JRH 49/52, RT 48/48, JTS 53"
+AYUGADAK,10,1,1,6,28,2013,51,6,,n,BF,
+AYUGADAK,10,1,1,6,28,2013,49,6,,n,JH,
+AYUGADAK,10,1,1,6,28,2013,52,6,,n,JH,
+AYUGADAK,10,1,1,6,28,2013,46,6,,n,RT,
+AYUGADAK,10,1,1,6,28,2013,46,6,,n,RT,
+AYUGADAK,10,1,1,6,28,2013,53,6,,n,JTS,
+KISKA/GERTRUDE-BUKHTI,10,0,0,6,28,2013,0,8,,n,BF/RT,
+HAWADAX (RAT),10,0,0,6,28,2013,0,6,,n,BF/RT/JTS,
+TWIN ROCKS (KISKA),10,0,0,6,28,2013,0,8,,n,BF/RT,
+THE PILLARS,9,0,0,7,6,2013,1,8,,n,BF/RT/JTS,
+VSEVIDOF,9,1,0,7,6,2013,0,6,,n,BF/RT/JTS,
+EGG,9,0,0,7,8,2013,0,7,,n,BF/RT/JTS,
+INNER SIGNAL,9,0,0,7,8,2013,0,7,,n,BF/RT/JTS,
+OLD MAN ROCKS,9,0,0,7,8,2013,3,7,,n,BF/RT/JTS,
+OUTER SIGNAL,9,0,0,7,8,2013,0,7,,n,BF/RT/JTS,
+AIALIK CAPE,6,0,0,6,25,2013,0,3,1,n,KLS,
+AIUGNAK COLUMNS,7,0,0,7,8,2013,0,3,1,n,KLS,
+ATKINS,8,1,1,7,9,2013,253,3,1,n,KLS,
+BENJAMIN,5,0,0,6,23,2013,0,3,1,n,KLS,
+BIALI ROCK,5,1,1,6,23,2013,183,3,1,n,KLS,
+BIRD,8,1,0,7,9,2013,0,3,1,n,KLS,
+CAPE ADDINGTON,5,0,0,6,23,2013,3,3,1,n,KLS,
+CAPE BARTOLOME,5,0,0,6,23,2013,0,3,1,n,KLS,
+CAPE FAIRFIELD,6,0,0,6,25,2013,0,3,1,n,KLS,
+CAPE GULL,7,0,0,6,28,2013,0,3,1,n,KLS,
+CAPE HINCHINBROOK,6,0,0,6,25,2013,0,3,1,n,KLS,
+CAPE OMMANEY,5,0,0,6,22,2013,2,3,1,n,KLS,
+CAPE RESURRECTION,6,0,0,6,25,2013,0,3,1,n,KLS,
+CAPE ST. ELIAS,6,1,0,6,25,2013,42,3,1,n,KLS,
+CASTLE ROCK,8,1,0,7,9,2013,0,3,1,n,KLS,
+CATON,8,0,0,7,9,2013,0,3,1,n,KLS,
+CHERNABURA,8,1,1,7,9,2013,245,3,1,n,KLS,
+CHIRIKOF,7,1,1,7,8,2013,195,3,1,n,KLS,
+CHISWELL ISLANDS,6,1,1,6,25,2013,77,3,1,n,KLS,
+CHOWIET,7,1,1,7,8,2013,612,3,1,n,KLS,
+CLUBBING ROCKS NORTH,8,1,1,7,9,2013,294,3,1,n,KLS,
+CLUBBING ROCKS SOUTH,8,1,1,7,9,2013,600,3,1,n,KLS,
+CORONATION,5,1,0,6,22,2013,0,3,1,n,KLS,
+EASTERLY,5,0,0,6,23,2013,2,3,1,n,KLS,
+FORRESTER/C HORN RK,5,1,1,6,23,2013,267,3,1,n,KLS,
+FORRESTER/FORRESTER ISLAND,5,1,0,6,23,2013,0,3,1,n,KLS,
+FORRESTER/LOWRIE,5,1,1,6,23,2013,1873,3,1,n,KLS,
+FORRESTER/NORTH RK,5,1,1,6,23,2013,573,3,1,n,KLS,
+FORRESTER/SEA LION RK,5,1,1,6,23,2013,499,3,1,n,KLS,
+GLACIER,6,1,0,6,25,2013,6,3,1,n,KLS,
+GRAN (LEDGE) POINT,5,0,0,6,23,2013,0,3,1,n,KLS,
+GRANITE CAPE,6,0,0,6,25,2013,0,3,1,n,KLS,
+GRAVES ROCK,5,1,1,6,24,2013,549,3,1,n,KLS,
+GRINDALL,5,0,0,6,23,2013,0,3,1,n,KLS,
+HAZY,5,1,1,6,22,2013,1834,3,1,n,KLS,
+HOOK POINT,6,0,0,6,25,2013,0,3,1,n,KLS,
+INIAN,5,0,0,6,24,2013,0,3,1,n,KLS,
+JACOB ROCK,5,1,0,6,23,2013,0,3,1,n,KLS,
+JUDE,8,0,1,7,9,2013,341,3,1,n,KLS,
+KAIUCHALI (BIORKA),5,0,0,6,23,2013,0,3,1,n,KLS,
+KAK,8,0,0,7,9,2013,0,3,1,n,KLS,
+KILOKAK ROCKS,7,0,0,7,8,2013,0,3,1,n,KLS,
+KODIAK/CAPE IKOLIK,7,0,0,7,8,2013,0,3,1,n,KLS,
+KODIAK/CAPE UGAT,7,0,0,6,28,2013,0,3,1,n,KLS,
+KODIAK/STEEP CAPE,7,0,0,6,28,2013,0,3,1,n,KLS,
+LATAX ROCKS,7,1,0,6,28,2013,15,3,1,n,KLS,
+LIGHTHOUSE ROCKS,8,0,1,7,9,2013,8,3,1,n,KLS,
+LONG ISLAND,7,1,0,6,28,2013,0,3,1,n,KLS,
+MARMOT,7,1,1,6,28,2013,553,3,1,n,KLS,
+Middle Pass Rock,5,0,0,6,24,2013,0,3,1,n,KLS,
+NAGAI ROCKS,7,0,0,7,8,2013,7,3,1,n,KLS,
+NAGAI/MOUNTAIN POINT,8,1,0,7,9,2013,0,3,1,n,KLS,
+NATOA (GROTTO),6,0,0,6,25,2013,1,3,1,n,KLS,
+OLGA ROCKS NE,8,0,0,7,9,2013,0,3,1,n,KLS,
+OLGA ROCKS SW,8,0,0,7,9,2013,1,3,1,n,KLS,
+OUTER (PYE),7,0,1,6,25,2013,135,3,1,n,KLS,
+PERL,7,0,0,6,25,2013,0,3,1,n,KLS,
+PINNACLE ROCK,8,1,1,7,9,2013,740,3,1,n,KLS,
+POINT ELRINGTON,6,1,0,6,25,2013,1,3,1,n,KLS,
+POINT MARSH,5,0,0,6,23,2013,0,3,1,n,KLS,
+PROCESSION ROCKS,6,0,0,6,25,2013,2,3,1,n,KLS,
+PUALE BAY,7,0,0,7,8,2013,0,3,1,n,KLS,
+RAGGED/HOOF POINT,6,0,0,6,25,2013,0,3,1,n,KLS,
+RK NEAR SEA OTTER,7,0,0,6,28,2013,0,3,1,n,KLS,
+SAIL,5,0,0,6,23,2013,0,3,1,n,KLS,
+SEA LION ISLANDS,5,1,0,6,24,2013,3,3,1,n,KLS,
+SEA LION ROCK (PUFFIN BAY),5,0,0,6,22,2013,0,3,1,n,KLS,
+SEA LION ROCKS (MARMOT),7,1,0,6,28,2013,0,3,1,n,KLS,
+SEA LION ROCKS (SHUMAGINS),8,1,0,7,9,2013,0,3,1,n,KLS,
+SEA OTTER,7,0,0,6,28,2013,0,3,1,n,KLS,
+SEAL ROCKS,6,1,1,6,25,2013,807,3,1,n,KLS,
+SEAL ROCKS (KENAI),6,1,0,6,25,2013,0,3,1,n,KLS,
+SHAKUN ROCKS,7,0,0,6,28,2013,4,3,1,n,KLS,
+SITKINAK/CAPE SITKINAK,7,1,0,7,8,2013,1,3,1,n,KLS,
+SOUTH MARBLE,5,0,0,6,24,2013,7,3,1,n,KLS,
+SOUTH ROCKS,8,0,1,7,9,2013,63,3,1,n,KLS,
+SUGARLOAF,7,1,1,7,2,2013,860,3,1,n,KLS,
+SUNSET,5,0,0,6,23,2013,3,3,1,n,KLS,
+SUSHILNOI ROCKS,8,0,0,7,9,2013,12,3,1,n,KLS,
+SUTWIK,7,1,0,7,8,2013,19,3,1,n,KLS,
+THE BROTHERS/SW,5,1,0,6,23,2013,0,3,1,n,KLS,
+THE HAYSTACKS,8,0,0,7,9,2013,0,3,1,n,KLS,
+THE NEEDLE,6,1,0,6,25,2013,29,3,1,n,KLS,
+THE WHALEBACK,8,0,0,7,9,2013,62,3,1,n,KLS,
+TIMBERED,5,0,0,6,23,2013,3,3,1,n,KLS,
+TWOHEADED,7,1,0,7,8,2013,48,3,1,n,KLS,
+UNGA/ACHEREDIN POINT,8,0,0,7,9,2013,0,3,1,n,KLS,
+USHAGAT/NW,7,1,0,7,2,2013,0,3,1,n,KLS,
+USHAGAT/ROCKS SOUTH,7,1,0,7,2,2013,0,3,1,n,KLS,
+USHAGAT/SW,7,1,1,7,2,2013,100,3,1,n,KLS,
+WEST ROCK,5,0,0,6,23,2013,0,3,1,n,KLS,
+WHITE SISTERS,5,1,1,6,24,2013,922,3,1,n,KLS,
+WOLF ROCK,5,0,0,6,23,2013,0,3,1,n,KLS,
+WOODED (FISH),6,1,1,6,25,2013,279,3,1,n,KLS,
+WOSNESENSKI,8,0,0,7,9,2013,0,3,1,n,KLS,
+YASHA,5,0,0,6,23,2013,8,3,1,n,KLS,
+AIALIK CAPE,6,0,0,6,25,2013,0,3,1,n,LF,
+AIUGNAK COLUMNS,7,0,0,7,8,2013,0,3,1,n,LF,
+ATKINS,8,1,1,7,9,2013,257,3,1,n,LF,
+BENJAMIN,5,0,0,6,23,2013,0,3,1,n,LF,
+BIALI ROCK,5,1,1,6,23,2013,187,3,1,n,LF,
+BIRD,8,1,0,7,9,2013,0,3,1,n,LF,
+CAPE ADDINGTON,5,0,0,6,23,2013,3,3,1,n,LF,
+CAPE BARTOLOME,5,0,0,6,23,2013,0,3,1,n,LF,
+CAPE FAIRFIELD,6,0,0,6,25,2013,0,3,1,n,LF,
+CAPE GULL,7,0,0,6,28,2013,0,3,1,n,LF,
+CAPE HINCHINBROOK,6,0,0,6,25,2013,0,3,1,n,LF,
+CAPE OMMANEY,5,0,0,6,22,2013,1,3,1,n,LF,
+CAPE RESURRECTION,6,0,0,6,25,2013,0,3,1,n,LF,
+CAPE ST. ELIAS,6,1,0,6,25,2013,44,3,1,n,LF,
+CASTLE ROCK,8,1,0,7,9,2013,0,3,1,n,LF,
+CATON,8,0,0,7,9,2013,0,3,1,n,LF,
+CHERNABURA,8,1,1,7,9,2013,251,3,1,n,LF,
+CHIRIKOF,7,1,1,7,8,2013,196,3,1,n,LF,
+CHISWELL ISLANDS,6,1,1,6,25,2013,76,3,1,n,LF,
+CHOWIET,7,1,1,7,8,2013,613,3,1,n,LF,
+CLUBBING ROCKS NORTH,8,1,1,7,9,2013,290,3,1,n,LF,
+CLUBBING ROCKS SOUTH,8,1,1,7,9,2013,602,3,1,n,LF,
+CORONATION,5,1,0,6,22,2013,0,3,1,n,LF,
+EASTERLY,5,0,0,6,23,2013,2,3,1,n,LF,
+FORRESTER/C HORN RK,5,1,1,6,23,2013,270,3,1,n,LF,
+FORRESTER/FORRESTER ISLAND,5,1,0,6,23,2013,0,3,1,n,LF,
+FORRESTER/LOWRIE,5,1,1,6,23,2013,1868,3,1,n,LF,
+FORRESTER/NORTH RK,5,1,1,6,23,2013,581,3,1,n,LF,
+FORRESTER/SEA LION RK,5,1,1,6,23,2013,499,3,1,n,LF,
+GLACIER,6,1,0,6,25,2013,6,3,1,n,LF,
+GRAN (LEDGE) POINT,5,0,0,6,23,2013,0,3,1,n,LF,
+GRANITE CAPE,6,0,0,6,25,2013,0,3,1,n,LF,
+GRAVES ROCK,5,1,1,6,24,2013,553,3,1,n,LF,
+GRINDALL,5,0,0,6,23,2013,0,3,1,n,LF,
+HAZY,5,1,1,6,22,2013,1840,3,1,n,LF,
+HOOK POINT,6,0,0,6,25,2013,0,3,1,n,LF,
+INIAN,5,0,0,6,24,2013,0,3,1,n,LF,
+JACOB ROCK,5,1,0,6,23,2013,1,3,1,n,LF,
+JUDE,8,0,1,7,9,2013,340,3,1,n,LF,
+KAIUCHALI (BIORKA),5,0,0,6,23,2013,0,3,1,n,LF,
+KAK,8,0,0,7,9,2013,0,3,1,n,LF,
+KILOKAK ROCKS,7,0,0,7,8,2013,0,3,1,n,LF,
+KODIAK/CAPE BARNABAS,7,1,0,7,8,2013,0,3,1,n,LF,
+KODIAK/CAPE CHINIAK,7,1,0,7,8,2013,0,3,1,n,LF,
+KODIAK/CAPE IKOLIK,7,0,0,7,8,2013,0,3,1,n,LF,
+KODIAK/CAPE UGAT,7,0,0,6,28,2013,0,3,1,n,LF,
+KODIAK/GULL POINT,7,0,0,7,8,2013,0,3,1,n,LF,
+KODIAK/STEEP CAPE,7,0,0,6,28,2013,0,3,1,n,LF,
+LATAX ROCKS,7,1,0,6,28,2013,15,3,1,n,LF,
+LIGHTHOUSE ROCKS,8,0,1,7,9,2013,8,3,1,n,LF,
+LONG ISLAND,7,1,0,6,28,2013,0,3,1,n,LF,
+MARMOT,7,1,1,6,28,2013,561,3,1,n,LF,
+Middle Pass Rock,5,0,0,6,24,2013,0,3,1,n,LF,
+NAGAI ROCKS,7,0,0,7,8,2013,7,3,1,n,LF,
+NAGAI/MOUNTAIN POINT,8,1,0,7,9,2013,0,3,1,n,LF,
+NATOA (GROTTO),6,0,0,6,25,2013,1,3,1,n,LF,
+OLGA ROCKS NE,8,0,0,7,9,2013,0,3,1,n,LF,
+OLGA ROCKS SW,8,0,0,7,9,2013,1,3,1,n,LF,
+OUTER (PYE),7,0,1,6,25,2013,131,3,1,n,LF,
+PERL,7,0,0,6,25,2013,0,3,1,n,LF,
+PINNACLE ROCK,8,1,1,7,9,2013,745,3,1,n,LF,
+POINT ELRINGTON,6,1,0,6,25,2013,1,3,1,n,LF,
+POINT MARSH,5,0,0,6,23,2013,0,3,1,n,LF,
+PROCESSION ROCKS,6,0,0,6,25,2013,2,3,1,n,LF,
+PUALE BAY,7,0,0,7,8,2013,0,3,1,n,LF,
+RAGGED/HOOF POINT,6,0,0,6,25,2013,0,3,1,n,LF,
+RK NEAR SEA OTTER,7,0,0,6,28,2013,0,3,1,n,LF,
+SAIL,5,0,0,6,23,2013,0,3,1,n,LF,
+SEA LION ISLANDS,5,1,0,6,24,2013,2,3,1,n,LF,
+SEA LION ROCK (PUFFIN BAY),5,0,0,6,22,2013,0,3,1,n,LF,
+SEA LION ROCKS (MARMOT),7,1,0,6,28,2013,0,3,1,n,LF,
+SEA LION ROCKS (SHUMAGINS),8,1,0,7,9,2013,0,3,1,n,LF,
+SEA OTTER,7,0,0,6,28,2013,0,3,1,n,LF,
+SEAL ROCKS,6,1,1,6,25,2013,798,3,1,n,LF,
+SEAL ROCKS (KENAI),6,1,0,6,25,2013,0,3,1,n,LF,
+SHAKUN ROCKS,7,0,0,6,28,2013,4,3,1,n,LF,
+SITKINAK/CAPE SITKINAK,7,1,0,7,8,2013,1,3,1,n,LF,
+SOUTH MARBLE,5,0,0,6,24,2013,7,3,1,n,LF,
+SOUTH ROCKS,8,0,1,7,9,2013,64,3,1,n,LF,
+SUGARLOAF,7,1,1,7,2,2013,863,3,1,n,LF,
+SUNSET,5,0,0,6,23,2013,2,3,1,n,LF,
+SUSHILNOI ROCKS,8,0,0,7,9,2013,12,3,1,n,LF,
+SUTWIK,7,1,0,7,8,2013,19,3,1,n,LF,
+THE BROTHERS/SW,5,1,0,6,23,2013,1,3,1,n,LF,
+THE HAYSTACKS,8,0,0,7,9,2013,0,3,1,n,LF,
+THE NEEDLE,6,1,0,6,25,2013,29,3,1,n,LF,
+THE WHALEBACK,8,0,0,7,9,2013,60,3,1,n,LF,
+TIMBERED,5,0,0,6,23,2013,5,3,1,n,LF,
+TWOHEADED,7,1,0,7,8,2013,49,3,1,n,LF,
+UNGA/ACHEREDIN POINT,8,0,0,7,9,2013,0,3,1,n,LF,
+USHAGAT/NW,7,1,0,7,2,2013,0,3,1,n,LF,
+USHAGAT/ROCKS SOUTH,7,1,0,7,2,2013,0,3,1,n,LF,
+USHAGAT/SW,7,1,1,7,2,2013,101,3,1,n,LF,
+WEST ROCK,5,0,0,6,23,2013,1,3,1,n,LF,
+WHITE SISTERS,5,1,1,6,24,2013,927,3,1,n,LF,
+WOLF ROCK,5,0,0,6,23,2013,0,3,1,n,LF,
+WOODED (FISH),6,1,1,6,25,2013,272,3,1,n,LF,
+WOSNESENSKI,8,0,0,7,9,2013,0,3,1,n,LF,
+YASHA,5,0,0,6,23,2013,8,3,1,n,LF,
+AGATTU/CAPE SABAK,11,1,1,6,25,2014,45,10,1,n,KLS,Hexacopter aerial photos
+AGATTU/CAPE SABAK,11,1,1,6,25,2014,44,10,1,n,LF,Hexacopter aerial photos
+AGATTU/GILLON POINT,11,1,1,6,24,2014,82,10,1,n,KLS,Hexacopter aerial photos
+AGATTU/GILLON POINT,11,1,1,6,24,2014,79,10,1,n,LF,Hexacopter aerial photos
+ALAID,11,1,0,6,22,2014,16,10,1,n,KLS,Hexacopter aerial photos
+ALAID,11,1,0,6,22,2014,16,10,1,n,LF,Hexacopter aerial photos
+AMCHITKA/EAST CAPE,10,1,0,6,28,2014,9,10,1,n,KLS,Hexacopter aerial photos
+AMCHITKA/EAST CAPE,10,1,0,6,28,2014,9,10,1,n,LF,Hexacopter aerial photos
+ATTU/CAPE WRANGELL,11,0,1,6,23,2014,35,10,1,n,KLS,Hexacopter aerial photos
+ATTU/CAPE WRANGELL,11,0,1,6,23,2014,34,10,1,n,LF,Hexacopter aerial photos
+ATTU/CHICHAGOF POINT,11,0,0,6,25,2014,0,10,1,n,KLS,Hexacopter aerial photos
+ATTU/CHICHAGOF POINT,11,0,0,6,25,2014,0,10,1,n,LF,Hexacopter aerial photos
+AYUGADAK,10,1,1,6,28,2014,43,10,1,n,KLS,Hexacopter aerial photos
+AYUGADAK,10,1,1,6,28,2014,41,10,1,n,LF,Hexacopter aerial photos
+KISKA/CAPE ST STEPHEN,10,1,1,6,27,2014,70,10,1,n,KLS,Hexacopter aerial photos
+KISKA/CAPE ST STEPHEN,10,1,1,6,27,2014,72,10,1,n,LF,Hexacopter aerial photos
+KISKA/LIEF COVE,10,1,1,6,26,2014,85,10,1,n,KLS,Hexacopter aerial photos
+KISKA/LIEF COVE,10,1,1,6,26,2014,84,10,1,n,LF,Hexacopter aerial photos
+SEMISOPOCHNOI/POCHNOI,10,0,0,6,21,2014,8,10,1,n,KLS,Hexacopter aerial photos
+SEMISOPOCHNOI/POCHNOI,10,0,0,6,21,2014,8,10,1,n,LF,Hexacopter aerial photos
+ULAK/HASGOX POINT,10,1,1,6,29,2014,178,10,1,y,KLS,"Hexacopter aerial photos, surveyed by otter on 7/9 too, reported otter count"
+ULAK/HASGOX POINT,10,1,1,6,29,2014,175,10,1,y,LF,"Hexacopter aerial photos, surveyed by otter on 7/9 too, reported otter count"
+ADAK/CAPE KAGIGIKAK,10,,,6,30,2014,4,3,1,n,KLS,NEW SITE
+ADAK/CAPE YAKAK,10,1,0,6,30,2014,0,3,1,n,KLS,
+ADAK/CRONE ISLAND,10,0,0,6,30,2014,0,3,1,n,KLS,
+ADAK/LAKE POINT,10,1,1,6,30,2014,247,3,1,n,KLS,
+ADUGAK,9,1,1,6,28,2014,294,3,1,n,KLS,
+AGLIGADAK,10,1,0,7,9,2014,0,3,1,n,KLS,
+AIKTAK,9,0,0,6,23,2014,7,3,1,n,KLS,
+AKUTAN/CAPE MORGAN,9,1,1,6,23,2014,743,3,1,n,KLS,
+AKUTAN/REEF-LAVA,9,1,0,6,28,2014,21,3,1,n,KLS,
+AMAK+ROCKS,9,1,0,6,23,2014,4,3,1,n,KLS,
+AMATIGNAK/NITROF POINT,10,1,0,7,9,2014,0,3,1,n,KLS,
+AMLIA/CAPE MISTY,10,0,0,7,9,2014,0,3,1,n,KLS,
+AMLIA/EAST CAPE,10,1,0,7,9,2014,2,3,1,n,KLS,
+AMLIA/SVIECH. HARBOR,10,0,0,7,9,2014,34,3,1,n,KLS,
+ANAGAKSIK,10,1,0,7,9,2014,0,3,1,n,KLS,
+ATKA/CAPE KOROVIN,10,1,0,7,9,2014,0,3,1,n,KLS,
+ATKA/NORTH CAPE,10,1,0,7,9,2014,0,3,1,n,KLS,
+ATKINS,8,1,1,6,23,2014,310,3,1,n,KLS,
+AVATANAK/S,9,,,6,23,2014,0,3,1,n,KLS,Sitename NOT IN DB
+AVATANAK/SE,9,,,6,28,2014,0,3,1,n,KLS,NEW SITE
+BIRD,8,1,0,6,23,2014,4,3,1,n,KLS,
+BIRD (SHUMAGINS),8,,,6,23,2014,0,3,1,n,KLS,NEW SITE
+BOGOSLOF/FIRE ISLAND,9,1,1,6,28,2014,336,3,1,n,KLS,
+CARLISLE,10,1,0,6,28,2014,0,3,1,n,KLS,
+CASTLE ROCK,8,1,0,6,23,2014,4,3,1,n,KLS,
+CATON,8,0,0,6,23,2014,1,3,1,n,KLS,
+CHERNABURA,8,1,1,6,23,2014,262,3,1,n,KLS,
+CHUGINADAK,10,1,0,6,28,2014,1,3,1,n,KLS,
+CHUGUL,10,0,0,7,9,2014,0,3,1,n,KLS,
+CLUBBING ROCKS NORTH,8,1,1,6,23,2014,228,3,1,n,KLS,
+CLUBBING ROCKS SOUTH,8,1,1,6,23,2014,483,3,1,n,KLS,
+EGG,9,0,0,6,28,2014,0,3,1,n,KLS,
+EGG/SE Tip,9,,,6,28,2014,0,3,1,n,KLS,Sitename NOT IN DB
+FENIMORE,10,0,0,7,9,2014,0,3,1,n,KLS,
+GRAMP ROCK,10,1,1,7,9,2014,234,3,1,n,KLS,
+HERBERT,10,1,0,6,28,2014,0,3,1,n,KLS,
+ILAK,10,0,0,7,9,2014,0,3,1,n,KLS,
+INNER SIGNAL,9,0,0,6,28,2014,0,3,1,n,KLS,
+JUDE,8,0,1,6,23,2014,300,3,1,n,KLS,
+KAGALASKA,10,0,0,6,30,2014,0,3,1,n,KLS,
+KAGAMIL,10,1,0,6,28,2014,0,3,1,n,KLS,
+KANAGA/SHIP ROCK,10,0,1,6,30,2014,206,3,1,n,KLS,
+KASATOCHI/NORTH POINT,10,1,1,7,9,2014,373,3,1,n,KLS,
+KAVALGA,10,1,0,6,30,2014,0,3,1,n,KLS,
+KUPREANOF POINT,8,0,0,6,23,2014,0,3,1,n,KLS,
+LITTLE TANAGA STRAIT,10,1,0,6,30,2014,0,3,1,n,KLS,
+MITROFANIA,8,0,0,6,23,2014,4,3,1,n,KLS,
+OGCHUL,9,1,1,6,28,2014,131,3,1,n,KLS,
+OGLIUGA,10,0,0,6,30,2014,0,3,1,n,KLS,
+OGLODAK,10,0,0,7,9,2014,0,3,1,n,KLS,
+OLD MAN ROCKS,9,0,0,6,28,2014,0,3,1,n,KLS,
+OLGA ROCKS NE,8,0,0,6,23,2014,0,3,1,n,KLS,
+OLGA ROCKS SW,8,0,0,6,23,2014,5,3,1,n,KLS,
+PINNACLE ROCK,8,1,1,6,23,2014,715,3,1,n,KLS,
+POLIVNOI ROCK,9,0,0,6,28,2014,0,3,1,n,KLS,
+ROOTOK/EAST,9,0,0,6,23,2014,0,3,1,n,KLS,
+ROOTOK/NORTH,9,0,0,6,23,2014,0,3,1,n,KLS,
+SAGIGIK,10,1,0,7,9,2014,0,3,1,n,KLS,
+SALT,10,1,0,7,9,2014,0,3,1,n,KLS,
+SEA LION ROCK (AMAK),9,1,1,6,23,2014,180,3,1,n,KLS,
+SEA LION ROCKS (SHUMAGINS),8,1,0,6,23,2014,0,3,1,n,KLS,
+SEGUAM/FINCH POINT,10,1,0,7,9,2014,2,3,1,n,KLS,
+SEGUAM/LAVA COVE,10,1,0,7,9,2014,0,3,1,n,KLS,
+SEGUAM/MOUNDHILL POINT,10,,,7,9,2014,0,3,1,n,KLS,NEW SITE
+SEGUAM/SADDLERIDGE,10,1,1,7,9,2014,529,3,1,n,KLS,
+SEGUAM/SW RIP,10,1,0,7,9,2014,0,3,1,n,KLS,
+SEGUAM/TURF POINT,10,1,0,7,9,2014,0,3,1,n,KLS,
+SILAK,10,1,0,6,30,2014,0,3,1,n,KLS,
+SKAGUL/S. POINT,10,0,0,6,30,2014,0,3,1,n,KLS,
+SPITZ,8,1,0,6,23,2014,0,3,1,n,KLS,
+SUSHILNOI ROCKS,8,0,0,6,23,2014,61,3,1,n,KLS,
+TAG,10,1,1,7,9,2014,105,3,1,n,KLS,
+TAGALAK,10,0,0,7,9,2014,0,3,1,n,KLS,
+TAGALAK/PASS,10,,,7,9,2014,12,3,1,n,KLS,NEW SITE
+TANGINAK,9,0,0,6,28,2014,0,3,1,n,KLS,
+THE HAYSTACKS,8,0,0,6,23,2014,1,3,1,n,KLS,
+THE PILLARS,9,0,0,6,28,2014,1,3,1,n,KLS,
+THE WHALEBACK,8,0,0,6,23,2014,57,3,1,n,KLS,
+TIGALDA/ROCKS NE,9,0,0,6,23,2014,0,3,1,n,KLS,
+TIGALDA/SOUTH SIDE,9,0,0,6,23,2014,1,3,1,n,KLS,
+UGAMAK/NORTH,9,1,1,6,23,2014,398,3,1,n,KLS,
+UGAMAK/ROUND,9,1,1,6,23,2014,159,3,1,n,KLS,
+UGAMAK/UGAMAK BAY,9,1,1,6,23,2014,242,3,1,n,KLS,
+UGIDAK,10,1,0,7,9,2014,0,3,1,n,KLS,
+ULAK/HASGOX POINT,10,1,1,7,9,2014,171,3,1,y,KLS,"surveyed by hex on 6/29 too, reported otter count"
+ULIAGA,10,0,0,6,28,2014,1,3,1,n,KLS,
+UMNAK/CAPE ASLIK,9,1,0,6,28,2014,2,3,1,n,KLS,
+UNALASKA/BISHOP POINT,9,0,0,6,28,2014,3,3,1,n,KLS,
+UNALASKA/CAPE IZIGAN,9,0,0,6,28,2014,42,3,1,n,KLS,
+UNALASKA/PRIEST ROCK,9,0,0,6,23,2014,0,3,1,n,KLS,
+UNALASKA/SPRAY CAPE,9,0,0,6,28,2014,1,3,1,n,KLS,
+UNGA/ACHEREDIN POINT,8,0,0,6,23,2014,0,3,1,n,KLS,
+UNIMAK/CAPE SARICHEF,9,0,0,6,23,2014,0,3,1,n,KLS,
+UNIMAK/S OF OKSENOF POINT,9,,,6,23,2014,1,3,1,n,KLS,
+UNALASKA/W OF MAKUSHIN BAY,9,,,6,28,2014,0,3,1,n,KLS,
+VSEVIDOF,9,1,0,6,28,2014,0,3,1,n,KLS,
+WOSNESENSKI,8,0,0,6,23,2014,0,3,1,n,KLS,
+ADAK/CAPE KAGIGIKAK,10,,,6,30,2014,4,3,1,n,LF,NEW SITE
+ADAK/CAPE YAKAK,10,1,0,6,30,2014,0,3,1,n,LF,
+ADAK/CRONE ISLAND,10,0,0,6,30,2014,0,3,1,n,LF,
+ADAK/LAKE POINT,10,1,1,6,30,2014,253,3,1,n,LF,
+ADUGAK,9,1,1,6,28,2014,294,3,1,n,LF,
+AGLIGADAK,10,1,0,7,9,2014,0,3,1,n,LF,
+AIKTAK,9,0,0,6,23,2014,7,3,1,n,LF,
+AKUTAN/CAPE MORGAN,9,1,1,6,23,2014,752,3,1,n,LF,
+AKUTAN/REEF-LAVA,9,1,0,6,28,2014,21,3,1,n,LF,
+AMAK+ROCKS,9,1,0,6,23,2014,4,3,1,n,LF,
+AMATIGNAK/NITROF POINT,10,1,0,7,9,2014,0,3,1,n,LF,
+AMLIA/CAPE MISTY,10,0,0,7,9,2014,0,3,1,n,LF,
+AMLIA/EAST CAPE,10,1,0,7,9,2014,2,3,1,n,LF,
+AMLIA/SVIECH. HARBOR,10,0,0,7,9,2014,34,3,1,n,LF,
+ANAGAKSIK,10,1,0,7,9,2014,0,3,1,n,LF,
+ATKA/CAPE KOROVIN,10,1,0,7,9,2014,0,3,1,n,LF,
+ATKA/NORTH CAPE,10,1,0,7,9,2014,0,3,1,n,LF,
+ATKINS,8,1,1,6,23,2014,320,3,1,n,LF,
+AVATANAK/S,9,,,6,23,2014,0,3,1,n,LF,Sitename NOT IN DB
+AVATANAK/SE,9,,,6,28,2014,0,3,1,n,LF,NEW SITE
+BIRD,8,1,0,6,23,2014,4,3,1,n,LF,
+BIRD (SHUMAGINS),8,,,6,23,2014,0,3,1,n,LF,NEW SITE
+BOGOSLOF/FIRE ISLAND,9,1,1,6,28,2014,338,3,1,n,LF,
+CARLISLE,10,1,0,6,28,2014,0,3,1,n,LF,
+CASTLE ROCK,8,1,0,6,23,2014,4,3,1,n,LF,
+CATON,8,0,0,6,23,2014,1,3,1,n,LF,
+CHERNABURA,8,1,1,6,23,2014,271,3,1,n,LF,
+CHUGINADAK,10,1,0,6,28,2014,1,3,1,n,LF,
+CHUGUL,10,0,0,7,9,2014,0,3,1,n,LF,
+CLUBBING ROCKS NORTH,8,1,1,6,23,2014,235,3,1,n,LF,
+CLUBBING ROCKS SOUTH,8,1,1,6,23,2014,491,3,1,n,LF,
+EGG,9,0,0,6,28,2014,0,3,1,n,LF,
+EGG/SE Tip,9,,,6,28,2014,0,3,1,n,LF,Sitename NOT IN DB
+FENIMORE,10,0,0,7,9,2014,0,3,1,n,LF,
+GRAMP ROCK,10,1,1,7,9,2014,239,3,1,n,LF,
+HERBERT,10,1,0,6,28,2014,0,3,1,n,LF,
+ILAK,10,0,0,7,9,2014,0,3,1,n,LF,
+INNER SIGNAL,9,0,0,6,28,2014,0,3,1,n,LF,
+JUDE,8,0,1,6,23,2014,309,3,1,n,LF,
+KAGALASKA,10,0,0,6,30,2014,0,3,1,n,LF,
+KAGAMIL,10,1,0,6,28,2014,0,3,1,n,LF,
+KANAGA/SHIP ROCK,10,0,1,6,30,2014,208,3,1,n,LF,
+KASATOCHI/NORTH POINT,10,1,1,7,9,2014,380,3,1,n,LF,
+KAVALGA,10,1,0,6,30,2014,0,3,1,n,LF,
+KUPREANOF POINT,8,0,0,6,23,2014,0,3,1,n,LF,
+LITTLE TANAGA STRAIT,10,1,0,6,30,2014,0,3,1,n,LF,
+MITROFANIA,8,0,0,6,23,2014,4,3,1,n,LF,
+OGCHUL,9,1,1,6,28,2014,130,3,1,n,LF,
+OGLIUGA,10,0,0,6,30,2014,0,3,1,n,LF,
+OGLODAK,10,0,0,7,9,2014,0,3,1,n,LF,
+OLD MAN ROCKS,9,0,0,6,28,2014,0,3,1,n,LF,
+OLGA ROCKS NE,8,0,0,6,23,2014,0,3,1,n,LF,
+OLGA ROCKS SW,8,0,0,6,23,2014,5,3,1,n,LF,
+PINNACLE ROCK,8,1,1,6,23,2014,714,3,1,n,LF,
+POLIVNOI ROCK,9,0,0,6,28,2014,0,3,1,n,LF,
+ROOTOK/EAST,9,0,0,6,23,2014,0,3,1,n,LF,
+ROOTOK/NORTH,9,0,0,6,23,2014,0,3,1,n,LF,
+SAGIGIK,10,1,0,7,9,2014,0,3,1,n,LF,
+SALT,10,1,0,7,9,2014,0,3,1,n,LF,
+SEA LION ROCK (AMAK),9,1,1,6,23,2014,190,3,1,n,LF,
+SEA LION ROCKS (SHUMAGINS),8,1,0,6,23,2014,0,3,1,n,LF,
+SEGUAM/FINCH POINT,10,1,0,7,9,2014,2,3,1,n,LF,
+SEGUAM/LAVA COVE,10,1,0,7,9,2014,0,3,1,n,LF,
+SEGUAM/MOUNDHILL POINT,10,,,7,9,2014,0,3,1,n,LF,Sitename NOT IN DB
+SEGUAM/SADDLERIDGE,10,1,1,7,9,2014,532,3,1,n,LF,
+SEGUAM/SW RIP,10,1,0,7,9,2014,0,3,1,n,LF,
+SEGUAM/TURF POINT,10,1,0,7,9,2014,0,3,1,n,LF,
+SILAK,10,1,0,6,30,2014,0,3,1,n,LF,
+SKAGUL/S. POINT,10,0,0,6,30,2014,0,3,1,n,LF,
+SPITZ,8,1,0,6,23,2014,0,3,1,n,LF,
+SUSHILNOI ROCKS,8,0,0,6,23,2014,63,3,1,n,LF,
+TAG,10,1,1,7,9,2014,104,3,1,n,LF,
+TAGALAK,10,0,0,7,9,2014,0,3,1,n,LF,
+TAGALAK/PASS,10,,,7,9,2014,12,3,1,n,LF,NEW SITE
+TANGINAK,9,0,0,6,28,2014,0,3,1,n,LF,
+THE HAYSTACKS,8,0,0,6,23,2014,1,3,1,n,LF,
+THE PILLARS,9,0,0,6,28,2014,1,3,1,n,LF,
+THE WHALEBACK,8,0,0,6,23,2014,59,3,1,n,LF,
+TIGALDA/ROCKS NE,9,0,0,6,23,2014,0,3,1,n,LF,
+TIGALDA/SOUTH SIDE,9,0,0,6,23,2014,1,3,1,n,LF,
+UGAMAK/NORTH,9,1,1,6,23,2014,407,3,1,n,LF,
+UGAMAK/ROUND,9,1,1,6,23,2014,162,3,1,n,LF,
+UGAMAK/UGAMAK BAY,9,1,1,6,23,2014,241,3,1,n,LF,
+UGIDAK,10,1,0,7,9,2014,0,3,1,n,LF,
+ULAK/HASGOX POINT,10,1,1,7,9,2014,177,3,1,y,LF,"surveyed by hex on 6/29 too, reported otter count"
+ULIAGA,10,0,0,6,28,2014,1,3,1,n,LF,
+UMNAK/CAPE ASLIK,9,1,0,6,28,2014,2,3,1,n,LF,
+UNALASKA/BISHOP POINT,9,0,0,6,28,2014,3,3,1,n,LF,
+UNALASKA/CAPE IZIGAN,9,0,0,6,28,2014,41,3,1,n,LF,
+UNALASKA/PRIEST ROCK,9,0,0,6,23,2014,0,3,1,n,LF,
+UNALASKA/SPRAY CAPE,9,0,0,6,28,2014,1,3,1,n,LF,
+UNGA/ACHEREDIN POINT,8,0,0,6,23,2014,0,3,1,n,LF,
+UNIMAK/CAPE SARICHEF,9,0,0,6,23,2014,0,3,1,n,LF,
+UNIMAK/S OF OKSENOF POINT,9,,,6,23,2014,1,3,1,n,LF,Sitename NOT IN DB
+UNALASKA/W OF MAKUSHIN BAY,9,,,6,28,2014,0,3,1,n,LF,Sitename NOT IN DB
+VSEVIDOF,9,1,0,6,28,2014,0,3,1,n,LF,
+WOSNESENSKI,8,0,0,6,23,2014,0,3,1,n,LF,

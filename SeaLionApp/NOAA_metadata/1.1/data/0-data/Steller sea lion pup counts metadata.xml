@@ -1,0 +1,1901 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog-item>
+   <common-information>
+      <cat-id>24573</cat-id>
+      <cat-type-code>DS</cat-type-code>
+      <metadata-workflow-state>Draft</metadata-workflow-state>
+      <is-do-not-publish>N</is-do-not-publish>
+      <name>Steller sea lion pup counts in Alaska</name>
+      <title>Alaska Steller Sea Lion Count Database (Pups)</title>
+      <abstract>This database contains counts of Steller sea lion pups on rookeries in Alaska made between 1961 and 2014.  Pup counts are conducted in late June-July.  Pups are counted from the ground (by walking along the rookery), from cliff-side overlooks, and from aerial images (oblique and vertical orientation).  Pup counts conducted in late June-mid July are considered to represent a complete census of pups produced at each site during the year.</abstract>
+      <purpose>Counts of Steller sea lions pups are used to monitor trends in the population and used in the development of population models.</purpose>
+      <notes>Loaded by FGDC Metadata Uploader, batch 5910, 04-23-2015 18:16
+
+The following FGDC sections are not currently supported in InPort, but were preserved and will be included in the FGDC export:
+-  Taxonomy (FGDC:taxonomy)
+-  Lineage (FGDC:lineage)</notes>
+      <other-citation-details>Cite data as: Fritz, L.W.; Sweeney, K;  Lynn, M.; Gelatt, T.;Gilpatrick, J; Towell, R. (2015). Steller sea lion pup counts in Alaska (NODC Accession ######). National Oceanographic Data Center, NOAA. Dataset. doi:###### [access date]</other-citation-details>
+      <supplemental-info>http://www.afsc.noaa.gov/Publications/AFSC-TM/NOAA-TM-AFSC-251.pdf</supplemental-info>
+      <is-display-xml-formats>Y</is-display-xml-formats>
+      <data-status>In Work</data-status>
+      <fgdc-data-status>In Work</fgdc-data-status>
+      <org-id>1288</org-id>
+      <owner-org-name>Alaska Fisheries Science Center</owner-org-name>
+      <owner-org-acro>AFSC</owner-org-acro>
+      <catalog-control-state>4</catalog-control-state>
+      <parent-cat-id>23109</parent-cat-id>
+      <parent-cat-type-code>PRJ</parent-cat-type-code>
+      <parent-title>Alaska Ecosystems Program</parent-title>
+      <created-by>Brian Fadely</created-by>
+      <created-by-pers-id>11329</created-by-pers-id>
+      <record-created>2015-04-23T18:14:14</record-created>
+      <record-last-modified>2015-05-11T17:28:02</record-last-modified>
+      <record-published/>
+      <publication-status>Never Published</publication-status>
+      <data-set-publication-status>Published</data-set-publication-status>
+      <data-set-publication-date>2015</data-set-publication-date>
+      <geo-data-presentation-form>other</geo-data-presentation-form>
+      <linking-share-level>Public</linking-share-level>
+   </common-information>
+   <physical-location/>
+   <data-set type="">
+      <maintenance-frequency>Annually</maintenance-frequency>
+      <data-set-publication-status>Published</data-set-publication-status>
+      <data-set-publication-date>2015</data-set-publication-date>
+      <geo-data-presentation-form>other</geo-data-presentation-form>
+      <distribution-liability>The user is responsible for the results of any application of this data for other than its intended purpose.NOAA denies liability if the data are misused.</distribution-liability>
+      <data-set-credit>Alaska Fisheries Science Center; Alaska Department of Fish and Game; Southwest Fisheries Science Center</data-set-credit>
+   </data-set>
+   <keywords>
+      <theme-keywords>
+         <keyword-list thesaurus="ISO19115">Biota, Oceans</keyword-list>
+      </theme-keywords>
+      <spatial-keywords>
+         <keyword-list thesaurus="None">Alaska, Aleutian Islands, Bering Sea, Gulf of Alaska</keyword-list>
+      </spatial-keywords>
+      <temporal-keywords>
+         <keyword-list thesaurus="None">summer</keyword-list>
+      </temporal-keywords>
+   </keywords>
+   <data-attributes/>
+   <support-roles>
+      <support-role ccid="198083"
+                    type=""
+                    last-modified=""
+                    created=""
+                    org="1288"
+                    person="11329"
+                    support-role="2710">
+         <role>Metadata Contact</role>
+         <role-definition>&lt;F7.4&gt; Person responsible for creating the metadata for this data set.</role-definition>
+         <in-effect>Y</in-effect>
+         <from>2015-04-23</from>
+         <to-date/>
+         <person-contact-info>
+            <name>Fadely, Brian </name>
+            <address-type>MAILING</address-type>
+            <street-address>, F/AKC3, Room 	1037</street-address>
+            <city>SEATTLE</city>
+            <state-prov>WA</state-prov>
+            <zip/>
+            <country>USA</country>
+            <email>brian.fadely@noaa.gov</email>
+            <phone>206-526-6173</phone>
+            <fax>206-526-6615</fax>
+         </person-contact-info>
+         <org-contact-info>
+            <name>Alaska Fisheries Science Center</name>
+            <street-address>7600 Sand Point Way N.E., Building 4</street-address>
+            <city>Seattle</city>
+            <state-prov>WA</state-prov>
+            <zip>98115</zip>
+            <country>USA</country>
+            <url>http://www.afsc.noaa.gov</url>
+            <business-hours>0700-1700 Pacific Time</business-hours>
+         </org-contact-info>
+         <contact-instructions/>
+      </support-role>
+      <support-role ccid="198085"
+                    type=""
+                    last-modified=""
+                    created=""
+                    org="1288"
+                    person="11331"
+                    support-role="2650">
+         <role>Originator</role>
+         <role-definition>&lt;F8.1&gt; Party responsible for the data set.</role-definition>
+         <in-effect>Y</in-effect>
+         <from>2015-04-23</from>
+         <to-date/>
+         <person-contact-info>
+            <name>Fritz, Lowell </name>
+            <address-type>MAILING</address-type>
+            <street-address/>
+            <city/>
+            <state-prov/>
+            <zip/>
+            <country/>
+            <email>lowell.fritz@noaa.gov</email>
+            <phone/>
+            <fax/>
+         </person-contact-info>
+         <org-contact-info>
+            <name>Alaska Fisheries Science Center</name>
+            <street-address>7600 Sand Point Way N.E., Building 4</street-address>
+            <city>Seattle</city>
+            <state-prov>WA</state-prov>
+            <zip>98115</zip>
+            <country>USA</country>
+            <url>http://www.afsc.noaa.gov</url>
+            <business-hours>0700-1700 Pacific Time</business-hours>
+         </org-contact-info>
+         <contact-instructions/>
+      </support-role>
+      <support-role ccid="198209"
+                    type=""
+                    last-modified=""
+                    created=""
+                    org="1288"
+                    person="11331"
+                    support-role="2660">
+         <role>Point of Contact</role>
+         <role-definition>&lt;F1.9&gt; Primary data manager for the data set(s)</role-definition>
+         <in-effect>Y</in-effect>
+         <from>2015</from>
+         <to-date/>
+         <person-contact-info>
+            <name>Fritz, Lowell </name>
+            <address-type>MAILING</address-type>
+            <street-address/>
+            <city/>
+            <state-prov/>
+            <zip/>
+            <country/>
+            <email>lowell.fritz@noaa.gov</email>
+            <phone/>
+            <fax/>
+         </person-contact-info>
+         <org-contact-info>
+            <name>Alaska Fisheries Science Center</name>
+            <street-address>7600 Sand Point Way N.E., Building 4</street-address>
+            <city>Seattle</city>
+            <state-prov>WA</state-prov>
+            <zip>98115</zip>
+            <country>USA</country>
+            <url>http://www.afsc.noaa.gov</url>
+            <business-hours>0700-1700 Pacific Time</business-hours>
+         </org-contact-info>
+         <contact-instructions/>
+      </support-role>
+   </support-roles>
+   <geog-area ccid="198082"
+              type=""
+              last-modified="2015-04-23T18:21:29"
+              created="2015-04-23T18:16:12">
+      <description>Aleutian Islands, Bering Sea, Gulf of Alaska to Southeast Alaska coastline</description>
+      <west-bound>172</west-bound>
+      <east-bound>-131</east-bound>
+      <south-bound>51</south-bound>
+      <north-bound>63</north-bound>
+   </geog-area>
+   <time-frames>
+      <currentness-reference>Ground condition</currentness-reference>
+      <time-frame ccid="198081"
+                  type="Continuing"
+                  last-modified="2015-04-27"
+                  created="2015-04-23T18:16:12">
+         <start>1961</start>
+      </time-frame>
+   </time-frames>
+   <access-info>
+      <security-class>Unclassified</security-class>
+      <data-access-constraints>There are no legal restrictions on access to the data. They reside in public domain and can be freely distributed.</data-access-constraints>
+      <data-use-constraints>User must read and fully comprehend the metadata prior to use.  Applications or inferences derived from the data should be carefully considered for accuracy. Data must be cited as: Fritz, L.W.; Sweeney, K;  Lynn, M.; Gelatt, T.;Gilpatrick, J.; Towell, R. (2015). Steller sea lion pup counts in Alaska (NODC Accession ######). National Oceanographic Data Center, NOAA. Dataset. doi:###### [access date]</data-use-constraints>
+   </access-info>
+   <urls>
+      <url ccid="198087"
+           type=""
+           last-modified="2015-04-23T18:16:12"
+           created="2015-04-23T18:16:12">
+         <link>http://www.afsc.noaa.gov/nmml/alaska/sslhome/databases/</link>
+         <url-type>Online Resource</url-type>
+      </url>
+   </urls>
+   <activity-log/>
+   <issues/>
+   <technical-environment ccid="198088"
+                          type=""
+                          last-modified="2015-04-23T18:33:36"
+                          created="2015-04-23T18:16:12">
+      <description>CSV</description>
+   </technical-environment>
+   <data-quality>
+      <representativeness>STELLER SEA LION PUP COUNT DATABASE 
+Last Updated:   February 20, 2015                       
+
+The file Pup Web Data.csv contains counts of Steller sea lion pups on rookeries and major haulouts in Alaska from the NMML data base.  The counts were made between 1961 and 2014.   
+
+The pup count data file (2014 pup web data.csv) is in ASCII text format and fields are comma delimited (.csv).  It contains the following fields:
+
+     SITENAME
+     REGIONNUMB: 5 = Southeast Alaska, 
+                                 6 = Eastern Gulf of Alaska
+                                 7 = Central Gulf of Alaska
+                                 8 = Western Gulf of Alaska
+                                 9 = Eastern Aleutian Islands
+                               10 = Central Aleutian Islands
+                               11 = Western Aleutian Islands
+                               12 = Bering Sea
+   
+     TRENDSITE    0 - not a trend site, 1 - is a trend site
+     ROOKERY      0 - not a rookery, 1 - is a rookery, 2 - special case, rookery but not a trend rookery.
+
+     MONTH   1-12, 99 is unknown/missing
+     DAY     1-31, 99 is unknown/missing
+     YEAR
+
+     PUPCOUNT  (live pups only, does not include pups dead at time of count)
+     COUNTTYPE: 1 = aerial photo (35mm)
+                             2 = medium-format (5 inch) aerial photo
+                             3 = aerial photo (digital)
+                             4 = aerial, visual estimate 
+	                     5 = beach/ground count
+	                     6 = viewpoint observations
+	                     7 = count from skiff nearshore
+	                     8 = count from ship offshore
+                             9 = other (explain in comments)
+	                   10 = UAV photos 
+                           99 = unknown or not specified
+     SOURCE:    1 = NMFS/National Marine Mammal Laboratory
+                         2 = Alaska Department of Fish and Game
+                         3 = Oregon Department of Fish and Wildlife
+                         4 = Washington Department of Fish and Wildlife
+                         5 = NMFS/Southwest Fisheries Science Center
+                         6 = Canada Department of Fisheries and Oceans
+                         7 = other (explain in comments)
+                       99 = unknown or not specified
+     REPLICATE: R if replicate count (different day) during the same survey, N otherwise. If there are replicate counts for a site, all counts for that site are marked R. Beginning in 2010, there are multiple counts at the same site with the same date.  These are the raw counts of more than one counter using aerial photos, and in these cases, the replicate field is marked N.  Note that starting in 2002, individual counters¿ counts during beach/ground counts are listed in the Comments, and again Replicate is "N".  
+     COUNTER:   initials of counter (photo) started in 2010)
+     COMMENTS:  (Clarification of COUNTTYPE, SOURCE, or COUNT as necessary)</representativeness>
+      <completeness-report>There are several issues with the data that users need to be aware of before using this database.  
+1. This database is continually being updated and modified. Users should check for the date the database was last modified.  
+2. This data set includes counts from all times year, some of which may not be appropriate for particular analyses.  The number of sea lions at a given site is extremely seasonally dependent.  Comparison of counts from November in one year and from July in another year is likely to produce confounded results.  Population trend analyses typically are performed using data only from the breeding season   June and July.  
+3. The most precise counts, and thus the counts preferred for population trend analyses, are aerial survey counts made from photographs.  Counts made from skiffs or ships may be very accurate for small numbers of sea lions but imprecise for large groups.  Visual estimates made from the air are best used as qualitative not quantitative data.  
+4. In general, this database includes counts of non-pup (adult and juvenile) Steller sea lions. This means that counts made during the breeding season (June and July) do not include newborn pups. After pups undergo their first molt in the fall or early winter, however, they are the same color as older sea lions and they are difficult or impossible to distinguish from juveniles. For this reason, counts made outside of the breeding season do include pups of the year that are 4 to 12 months old.  
+5. A zero in the COUNT field means the site was surveyed and no sea lions were present.  If a site was not surveyed in a given year it is not included in the database;  there are no records with the COUNT field blank.  
+6. Throughout the database "99" indicates that a day, month, platform, or source is unknown.  
+7. There are blanks in the COMMENT field.  This may cause problems when end users import the ASCII text file into their preferred software format.  
+8. Site names are not consistent throughout the database.  Surveys prior to 1990 frequently combined separate haul-out sites on an island into a single count, whereas more recent surveys usually list sites separately (e.g., Agattu versus Agattu/Cape Sabak and Agattu/Gillon Point). Also, the NMML continues to refine the definition of individual sites and occasionally adds new sites.</completeness-report>
+      <conceptual-consistency>Not applicable.</conceptual-consistency>
+   </data-quality>
+   <lineage/>
+   <acronyms/>
+   <glossary-terms/>
+   <faqs/>
+   <downloads/>
+   <related-items>
+      <item cat-id="24575" cat-type="ENT" relation-type="HI">
+         <title>2014 pup web data.csv</title>
+         <abstract>NA</abstract>
+         <relation-note>Loaded by FGDC Metadata Uploader, batch 5910, 04-23-2015 18:16</relation-note>
+      </item>
+   </related-items>
+   <fgdc-contacts>
+      <fgdc-contact role="Metadata contact">
+         <contact-type>cntper</contact-type>
+         <contact-person-name>Fadely, Brian </contact-person-name>
+         <contact-org-name>Alaska Fisheries Science Center</contact-org-name>
+         <address-type>MAILING</address-type>
+         <street-address>, F/AKC3, Room 	1037</street-address>
+         <city>SEATTLE</city>
+         <state-prov>WA</state-prov>
+         <country>USA</country>
+         <email>brian.fadely@noaa.gov</email>
+         <voice>206-526-6173</voice>
+         <fax>206-526-6615</fax>
+      </fgdc-contact>
+      <fgdc-contact role="Point of Contact">
+         <contact-type>cntper</contact-type>
+         <contact-person-name>Fritz, Lowell </contact-person-name>
+         <contact-org-name>Alaska Fisheries Science Center</contact-org-name>
+         <address-type>MAILING</address-type>
+         <email>lowell.fritz@noaa.gov</email>
+      </fgdc-contact>
+   </fgdc-contacts>
+   <fgdc-time-period>
+      <timeperd>
+         <timeinfo>
+            <rngdates>
+               <begdate>1961</begdate>
+               <begtime/>
+               <enddate>Present</enddate>
+               <endtime/>
+            </rngdates>
+         </timeinfo>
+         <current>Ground condition</current>
+      </timeperd>
+   </fgdc-time-period>
+   <child-entities>
+      <child-entity>
+         <common-information>
+            <cat-id>24575</cat-id>
+            <cat-type-code>ENT</cat-type-code>
+            <metadata-workflow-state>Draft</metadata-workflow-state>
+            <is-do-not-publish>N</is-do-not-publish>
+            <name>2014 pup web data.csv</name>
+            <title>2014 pup web data.csv</title>
+            <abstract>NA</abstract>
+            <purpose/>
+            <notes>Loaded by FGDC Metadata Uploader, batch 5910, 04-23-2015 18:16</notes>
+            <other-citation-details/>
+            <supplemental-info/>
+            <is-display-xml-formats>N</is-display-xml-formats>
+            <data-status>In Work</data-status>
+            <fgdc-data-status>In Work</fgdc-data-status>
+            <org-id/>
+            <owner-org-name>Alaska Fisheries Science Center</owner-org-name>
+            <owner-org-acro>AFSC</owner-org-acro>
+            <catalog-control-state>4</catalog-control-state>
+            <parent-cat-id>24573</parent-cat-id>
+            <parent-cat-type-code>DS</parent-cat-type-code>
+            <parent-title>Alaska Steller Sea Lion Count Database (Pups)</parent-title>
+            <created-by>Brian Fadely</created-by>
+            <created-by-pers-id>11329</created-by-pers-id>
+            <record-created>2015-04-23T18:16:13</record-created>
+            <record-last-modified>2015-04-27T18:31:22</record-last-modified>
+            <record-published/>
+            <publication-status>Never Published</publication-status>
+            <metadata-next-review-date/>
+            <linking-share-level>Public</linking-share-level>
+         </common-information>
+         <physical-location>
+            <organization/>
+            <city/>
+            <state-province/>
+            <country/>
+            <location-description/>
+         </physical-location>
+         <entity>
+            <entity-name>2014 pup web data.csv</entity-name>
+            <description>NA</description>
+            <alias/>
+            <schema-name/>
+            <is-active-vers/>
+            <change-summary/>
+         </entity>
+         <data-attributes>
+            <attribute>
+               <seq-order/>
+               <name>ID</name>
+               <data-storage-type>NUMBER</data-storage-type>
+               <max-length>0</max-length>
+               <min-length/>
+               <precision/>
+               <scale/>
+               <is-required>N</is-required>
+               <is-pkey>N</is-pkey>
+               <status>Active</status>
+               <description>Auto number as primary key, not scientific significance</description>
+               <general-data-type/>
+               <case-restriction/>
+               <units/>
+               <format-mask/>
+               <display-example/>
+               <null-repr/>
+               <null-meaning/>
+               <allowed-values>1 - 974</allowed-values>
+               <default-value/>
+               <fkey-relations/>
+               <derivation/>
+               <validation-rules/>
+               <decimals/>
+               <version/>
+            </attribute>
+            <attribute>
+               <seq-order/>
+               <name>chkcnt</name>
+               <data-storage-type>Unknown</data-storage-type>
+               <max-length>0</max-length>
+               <min-length/>
+               <precision/>
+               <scale/>
+               <is-required>N</is-required>
+               <is-pkey>N</is-pkey>
+               <status>Active</status>
+               <description>Y - verified to field notes or other source, ? - found reference but numbers do not match, blank otherwise</description>
+               <general-data-type/>
+               <case-restriction/>
+               <units/>
+               <format-mask/>
+               <display-example/>
+               <null-repr/>
+               <null-meaning/>
+               <allowed-values>unknown</allowed-values>
+               <default-value/>
+               <fkey-relations/>
+               <derivation/>
+               <validation-rules/>
+               <decimals/>
+               <version/>
+            </attribute>
+            <attribute>
+               <seq-order/>
+               <name>comments</name>
+               <data-storage-type>Unknown</data-storage-type>
+               <max-length>0</max-length>
+               <min-length/>
+               <precision/>
+               <scale/>
+               <is-required>N</is-required>
+               <is-pkey>N</is-pkey>
+               <status>Active</status>
+               <description>citation or other comments</description>
+               <general-data-type/>
+               <case-restriction/>
+               <units/>
+               <format-mask/>
+               <display-example/>
+               <null-repr/>
+               <null-meaning/>
+               <allowed-values>unknown</allowed-values>
+               <default-value/>
+               <fkey-relations/>
+               <derivation/>
+               <validation-rules/>
+               <decimals/>
+               <version/>
+            </attribute>
+            <attribute>
+               <seq-order/>
+               <name>counter</name>
+               <data-storage-type>Unknown</data-storage-type>
+               <max-length>0</max-length>
+               <min-length/>
+               <precision/>
+               <scale/>
+               <is-required>N</is-required>
+               <is-pkey>N</is-pkey>
+               <status>Active</status>
+               <description>initials of counter of slide, photo, beach etc. if available. limited to 10 characters</description>
+               <general-data-type/>
+               <case-restriction/>
+               <units/>
+               <format-mask/>
+               <display-example/>
+               <null-repr/>
+               <null-meaning/>
+               <allowed-values>unknown</allowed-values>
+               <default-value/>
+               <fkey-relations/>
+               <derivation/>
+               <validation-rules/>
+               <decimals/>
+               <version/>
+            </attribute>
+            <attribute>
+               <seq-order/>
+               <name>counttype</name>
+               <data-storage-type>NUMBER</data-storage-type>
+               <max-length>0</max-length>
+               <min-length/>
+               <precision/>
+               <scale/>
+               <is-required>N</is-required>
+               <is-pkey>N</is-pkey>
+               <status>Active</status>
+               <description>NA</description>
+               <general-data-type/>
+               <case-restriction/>
+               <units/>
+               <format-mask/>
+               <display-example/>
+               <null-repr/>
+               <null-meaning/>
+               <allowed-values>2 - 99</allowed-values>
+               <default-value/>
+               <fkey-relations/>
+               <derivation/>
+               <validation-rules/>
+               <decimals/>
+               <version/>
+            </attribute>
+            <attribute>
+               <seq-order/>
+               <name>year</name>
+               <data-storage-type>NUMBER</data-storage-type>
+               <max-length>0</max-length>
+               <min-length/>
+               <precision/>
+               <scale/>
+               <is-required>N</is-required>
+               <is-pkey>N</is-pkey>
+               <status>Active</status>
+               <description>4 digit year</description>
+               <general-data-type/>
+               <case-restriction/>
+               <units/>
+               <format-mask/>
+               <display-example/>
+               <null-repr/>
+               <null-meaning/>
+               <allowed-values>1961 - 2009</allowed-values>
+               <default-value/>
+               <fkey-relations/>
+               <derivation/>
+               <validation-rules/>
+               <decimals/>
+               <version/>
+            </attribute>
+            <attribute>
+               <seq-order/>
+               <name>month</name>
+               <data-storage-type>NUMBER</data-storage-type>
+               <max-length>0</max-length>
+               <min-length/>
+               <precision/>
+               <scale/>
+               <is-required>N</is-required>
+               <is-pkey>N</is-pkey>
+               <status>Active</status>
+               <description>1 - 12, 99 is missing</description>
+               <general-data-type/>
+               <case-restriction/>
+               <units/>
+               <format-mask/>
+               <display-example/>
+               <null-repr/>
+               <null-meaning/>
+               <allowed-values>6 - 99</allowed-values>
+               <default-value/>
+               <fkey-relations/>
+               <derivation/>
+               <validation-rules/>
+               <decimals/>
+               <version/>
+            </attribute>
+            <attribute>
+               <seq-order/>
+               <name>pupcount</name>
+               <data-storage-type>NUMBER</data-storage-type>
+               <max-length>0</max-length>
+               <min-length/>
+               <precision/>
+               <scale/>
+               <is-required>N</is-required>
+               <is-pkey>N</is-pkey>
+               <status>Active</status>
+               <description>count of pups</description>
+               <general-data-type/>
+               <case-restriction/>
+               <units/>
+               <format-mask/>
+               <display-example/>
+               <null-repr/>
+               <null-meaning/>
+               <allowed-values>0 - 6741</allowed-values>
+               <default-value/>
+               <fkey-relations/>
+               <derivation/>
+               <validation-rules/>
+               <decimals/>
+               <version/>
+            </attribute>
+            <attribute>
+               <seq-order/>
+               <name>sitename</name>
+               <data-storage-type>Unknown</data-storage-type>
+               <max-length>0</max-length>
+               <min-length/>
+               <precision/>
+               <scale/>
+               <is-required>N</is-required>
+               <is-pkey>N</is-pkey>
+               <status>Active</status>
+               <description>all capital letters, corresponds to Site Description table</description>
+               <general-data-type/>
+               <case-restriction/>
+               <units/>
+               <format-mask/>
+               <display-example/>
+               <null-repr/>
+               <null-meaning/>
+               <allowed-values>unknown</allowed-values>
+               <default-value/>
+               <fkey-relations/>
+               <derivation/>
+               <validation-rules/>
+               <decimals/>
+               <version/>
+            </attribute>
+            <attribute>
+               <seq-order/>
+               <name>source</name>
+               <data-storage-type>NUMBER</data-storage-type>
+               <max-length>0</max-length>
+               <min-length/>
+               <precision/>
+               <scale/>
+               <is-required>N</is-required>
+               <is-pkey>N</is-pkey>
+               <status>Active</status>
+               <description>1 - NMFS/NMML, 2 - ADFG, 3 - ODFW, 4 - WDFW, 5 - NMFS/SWFSC, 6 - Canada DFO, 7 - other, 99 - unknown</description>
+               <general-data-type/>
+               <case-restriction/>
+               <units/>
+               <format-mask/>
+               <display-example/>
+               <null-repr/>
+               <null-meaning/>
+               <allowed-values>1 - 99</allowed-values>
+               <default-value/>
+               <fkey-relations/>
+               <derivation/>
+               <validation-rules/>
+               <decimals/>
+               <version/>
+            </attribute>
+            <attribute>
+               <seq-order/>
+               <name>day</name>
+               <data-storage-type>NUMBER</data-storage-type>
+               <max-length>0</max-length>
+               <min-length/>
+               <precision/>
+               <scale/>
+               <is-required>N</is-required>
+               <is-pkey>N</is-pkey>
+               <status>Active</status>
+               <description>1 - 31, 99 is missing</description>
+               <general-data-type/>
+               <case-restriction/>
+               <units/>
+               <format-mask/>
+               <display-example/>
+               <null-repr/>
+               <null-meaning/>
+               <allowed-values>1 - 99</allowed-values>
+               <default-value/>
+               <fkey-relations/>
+               <derivation/>
+               <validation-rules/>
+               <decimals/>
+               <version/>
+            </attribute>
+         </data-attributes>
+      </child-entity>
+   </child-entities>
+   <taxonomy>
+      <keywtax>
+         <taxonkt>none</taxonkt>
+         <taxonkey>marine mammal</taxonkey>
+         <taxonkey>marine mammal</taxonkey>
+         <taxonkey>sea lion</taxonkey>
+      </keywtax>
+      <taxoncl>
+         <taxonrn>Kingdom</taxonrn>
+         <taxonrv>Animalia</taxonrv>
+         <taxoncl>
+            <taxonrn>Genus</taxonrn>
+            <taxonrv>Eumetopias</taxonrv>
+            <taxoncl>
+               <taxonrn>Species</taxonrn>
+               <taxonrv>jubatus</taxonrv>
+               <common>Steller sea lion</common>
+            </taxoncl>
+         </taxoncl>
+      </taxoncl>
+   </taxonomy>
+   <eainfo>
+      <detailed>
+         <enttyp>
+            <enttypl>Alaska_Adult_Counts</enttypl>
+            <enttypd>NA</enttypd>
+            <enttypds>AFSC</enttypds>
+         </enttyp>
+         <attr>
+            <attrlabl>ID</attrlabl>
+            <attrdef>Auto numbered as primary key, no scientific significance</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <rdom>
+                  <rdommin>1</rdommin>
+                  <rdommax>7532</rdommax>
+               </rdom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>sitename</attrlabl>
+            <attrdef>Name of site, all capital letters, corresponds to site description table</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <udom>unknown</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>month</attrlabl>
+            <attrdef>1-12, 99 if unknown</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <rdom>
+                  <rdommin>1</rdommin>
+                  <rdommax>99</rdommax>
+               </rdom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>day</attrlabl>
+            <attrdef>1-31, 99 if unknown</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <rdom>
+                  <rdommin>1</rdommin>
+                  <rdommax>99</rdommax>
+               </rdom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>year</attrlabl>
+            <attrdef>4 digit year</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <rdom>
+                  <rdommin>1904</rdommin>
+                  <rdommax>2009</rdommax>
+               </rdom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>adultcount</attrlabl>
+            <attrdef>count of nonpups</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <rdom>
+                  <rdommin>0</rdommin>
+                  <rdommax>19400</rdommax>
+               </rdom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>chkcnt</attrlabl>
+            <attrdef>Y - verified to field notes or other source, ? found a reference but numbers do not match</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <udom>unknown</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>counttype</attrlabl>
+            <attrdef>NA</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <rdom>
+                  <rdommin>1</rdommin>
+                  <rdommax>99</rdommax>
+               </rdom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>source</attrlabl>
+            <attrdef>1 - NMFS/NMML, 2 - ADFG, 3 - ODFW, 4 - WDFW, 5 - NMFS/SWFSC, 6 - Canada DFO, 7 - other, 99 unknown</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <rdom>
+                  <rdommin>1</rdommin>
+                  <rdommax>99</rdommax>
+               </rdom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>replicate</attrlabl>
+            <attrdef>R if replicate count for survey, N otherwise</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <udom>unknown</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>counter</attrlabl>
+            <attrdef>NA</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <udom>unknown</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>comments</attrlabl>
+            <attrdef>citation or other notes</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <udom>unknown</udom>
+            </attrdomv>
+         </attr>
+      </detailed>
+      <detailed>
+         <enttyp>
+            <enttypl>Alaska_Pup_Counts</enttypl>
+            <enttypd>NA</enttypd>
+            <enttypds>AFSC</enttypds>
+         </enttyp>
+         <attr>
+            <attrlabl>ID</attrlabl>
+            <attrdef>Auto number as primary key, not scientific significance</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <rdom>
+                  <rdommin>1</rdommin>
+                  <rdommax>974</rdommax>
+               </rdom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>sitename</attrlabl>
+            <attrdef>all capital letters, corresponds to Site Description table</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <udom>unknown</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>month</attrlabl>
+            <attrdef>1 - 12, 99 is missing</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <rdom>
+                  <rdommin>6</rdommin>
+                  <rdommax>99</rdommax>
+               </rdom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>day</attrlabl>
+            <attrdef>1 - 31, 99 is missing</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <rdom>
+                  <rdommin>1</rdommin>
+                  <rdommax>99</rdommax>
+               </rdom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>year</attrlabl>
+            <attrdef>4 digit year</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <rdom>
+                  <rdommin>1961</rdommin>
+                  <rdommax>2009</rdommax>
+               </rdom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>pupcount</attrlabl>
+            <attrdef>count of pups</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <rdom>
+                  <rdommin>0</rdommin>
+                  <rdommax>6741</rdommax>
+               </rdom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>chkcnt</attrlabl>
+            <attrdef>Y - verified to field notes or other source, ? - found reference but numbers do not match, blank otherwise</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <udom>unknown</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>counttype</attrlabl>
+            <attrdef>NA</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <rdom>
+                  <rdommin>2</rdommin>
+                  <rdommax>99</rdommax>
+               </rdom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>source</attrlabl>
+            <attrdef>1 - NMFS/NMML, 2 - ADFG, 3 - ODFW, 4 - WDFW, 5 - NMFS/SWFSC, 6 - Canada DFO, 7 - other, 99 - unknown</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <rdom>
+                  <rdommin>1</rdommin>
+                  <rdommax>99</rdommax>
+               </rdom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>counter</attrlabl>
+            <attrdef>initials of counter of slide, photo, beach etc. if available. limited to 10 characters</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <udom>unknown</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>comments</attrlabl>
+            <attrdef>citation or other comments</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <udom>unknown</udom>
+            </attrdomv>
+         </attr>
+      </detailed>
+      <detailed>
+         <enttyp>
+            <enttypl>Brands_and_Tags</enttypl>
+            <enttypd>NA</enttypd>
+            <enttypds>AFSC</enttypds>
+         </enttyp>
+         <attr>
+            <attrlabl>UID</attrlabl>
+            <attrdef>NA</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <rdom>
+                  <rdommin>1</rdommin>
+                  <rdommax>14243</rdommax>
+               </rdom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>brand</attrlabl>
+            <attrdef>brand letters/number</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <udom>unknown</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>brander</attrlabl>
+            <attrdef>initials of branders</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <udom>unknown</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>brandloc</attrlabl>
+            <attrdef>L = left side/shoulder, R = right side/shoulder, B = rump/rear</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <udom>unknown</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>brandrecode</attrlabl>
+            <attrdef>follows Melins dbf, for unigue but unreadable brands if identifiable</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <udom>unknown</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>wetdry</attrlabl>
+            <attrdef>W = wet, D = Dry when branded</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <udom>unknown</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>ltag</attrlabl>
+            <attrdef>left tag number; blank if not tagged</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <udom>unknown</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>rtag</attrlabl>
+            <attrdef>right tag number; blank if not tagged</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <udom>unknown</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>tagcolor</attrlabl>
+            <attrdef>R = red, W = white, G = green, Y = Yellow, P = Purple, O = Orange, V = violet, B = Blue; blank if not tagged</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <udom>unknown</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>sitename</attrlabl>
+            <attrdef>Name of site, all capital letters, corresponds to site description table</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <udom>unknown</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>beach</attrlabl>
+            <attrdef>if applicable on Marmot, Sugarloaf, or Ugamak</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <udom>unknown</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>month</attrlabl>
+            <attrdef>1 - 12</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <rdom>
+                  <rdommin>1</rdommin>
+                  <rdommax>12</rdommax>
+               </rdom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>day</attrlabl>
+            <attrdef>1- 31</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <rdom>
+                  <rdommin>1</rdommin>
+                  <rdommax>31</rdommax>
+               </rdom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>year</attrlabl>
+            <attrdef>4 digits</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <rdom>
+                  <rdommin>1985</rdommin>
+                  <rdommax>2010</rdommax>
+               </rdom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>sex</attrlabl>
+            <attrdef>M = male, F = Female, blank is unknown, maybe a few Us in there for Unknown also</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <udom>unknown</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>adjsex</attrlabl>
+            <attrdef>If mis-sexed initially, recapture later proved initial sex wrong</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <udom>unknown</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>age</attrlabl>
+            <attrdef>A = Adult, J = Juvenile, Y = Yearling, P = pup</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <udom>unknown</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>mass</attrlabl>
+            <attrdef>kg</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <rdom>
+                  <rdommin>9</rdommin>
+                  <rdommax>329</rdommax>
+               </rdom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>stdlen</attrlabl>
+            <attrdef>standard length in cm</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <rdom>
+                  <rdommin>71</rdommin>
+                  <rdommax>245</rdommax>
+               </rdom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>axgir</attrlabl>
+            <attrdef>axial girth (behind flippers) in cm</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <rdom>
+                  <rdommin>0</rdommin>
+                  <rdommax>600</rdommax>
+               </rdom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>fliplen</attrlabl>
+            <attrdef>flipper length in cm</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <rdom>
+                  <rdommin>25</rdommin>
+                  <rdommax>116</rdommax>
+               </rdom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>blood</attrlabl>
+            <attrdef>Y if sampled, N or blank if not</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <udom>unknown</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>genetics</attrlabl>
+            <attrdef>Y if sampled, N or blank if not (flipper punch)</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <udom>unknown</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>swab</attrlabl>
+            <attrdef>Y if sampled, N or blank if not</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <udom>unknown</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>photo</attrlabl>
+            <attrdef>Y if photo taken, N or blank if not</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <udom>unknown</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>comments</attrlabl>
+            <attrdef>behavior, abnormal stuff, other data of interest</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <udom>unknown</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>photolink</attrlabl>
+            <attrdef>link to photo location</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <udom>unknown</udom>
+            </attrdomv>
+         </attr>
+      </detailed>
+      <detailed>
+         <enttyp>
+            <enttypl>Misc_AK_Adult_Counts</enttypl>
+            <enttypd>NA</enttypd>
+            <enttypds>AFSC</enttypds>
+         </enttyp>
+         <attr>
+            <attrlabl>ID</attrlabl>
+            <attrdef>NA</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <rdom>
+                  <rdommin>1</rdommin>
+                  <rdommax>103</rdommax>
+               </rdom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>sitename</attrlabl>
+            <attrdef>Name of site, these are sites that are not in the site description table</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <udom>unknown</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>regionnumb</attrlabl>
+            <attrdef>Region designation since site is not in the site description file.</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <rdom>
+                  <rdommin>5</rdommin>
+                  <rdommax>10</rdommax>
+               </rdom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>month</attrlabl>
+            <attrdef>1-12</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <rdom>
+                  <rdommin>2</rdommin>
+                  <rdommax>6</rdommax>
+               </rdom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>day</attrlabl>
+            <attrdef>1-31</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <rdom>
+                  <rdommin>6</rdommin>
+                  <rdommax>26</rdommax>
+               </rdom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>year</attrlabl>
+            <attrdef>4 digit year</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <rdom>
+                  <rdommin>1959</rdommin>
+                  <rdommax>2008</rdommax>
+               </rdom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>adultcount</attrlabl>
+            <attrdef>count of adult and juvenile Steller sea lions</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <rdom>
+                  <rdommin>0</rdommin>
+                  <rdommax>2000</rdommax>
+               </rdom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>chkcnt</attrlabl>
+            <attrdef>Y - verified to field notes or other source, ? found a reference but numbers do not match</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <udom>unknown</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>platform</attrlabl>
+            <attrdef>1 - aerial, 2 - ground, 3 - ship, 4 - vis estimate from aerial, 9 - other, -9 - unknown</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <rdom>
+                  <rdommin>-9</rdommin>
+                  <rdommax>4</rdommax>
+               </rdom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>source</attrlabl>
+            <attrdef>1 - NMFS/NMML, 2 - ADFG, 3 - ODFW, 4 - WDFW, 5 - NMFS/SWFSC, 6 - Canada DFO, 7 - other, -9 unknown</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <rdom>
+                  <rdommin>-9</rdommin>
+                  <rdommax>7</rdommax>
+               </rdom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>replicate</attrlabl>
+            <attrdef>R if replicate count for survey, blank otherwise</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <udom>unknown</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>comments</attrlabl>
+            <attrdef>citation or other notes</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <udom>unknown</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>Field1</attrlabl>
+            <attrdef>NA</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <udom>unknown</udom>
+            </attrdomv>
+         </attr>
+      </detailed>
+      <detailed>
+         <enttyp>
+            <enttypl>Observers_and_Branders</enttypl>
+            <enttypd>NA</enttypd>
+            <enttypds>AFSC</enttypds>
+         </enttyp>
+         <attr>
+            <attrlabl>initials</attrlabl>
+            <attrdef>First letter of first and last, often middle name</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <udom>unknown</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>name</attrlabl>
+            <attrdef>NA</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <udom>unknown</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>affiliation</attrlabl>
+            <attrdef>institution</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <udom>unknown</udom>
+            </attrdomv>
+         </attr>
+      </detailed>
+      <detailed>
+         <enttyp>
+            <enttypl>Region_Key</enttypl>
+            <enttypd>NA</enttypd>
+            <enttypds>AFSC</enttypds>
+         </enttyp>
+         <attr>
+            <attrlabl>regionnumb</attrlabl>
+            <attrdef>New region numbers created by RT, 12/2000</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <rdom>
+                  <rdommin>1</rdommin>
+                  <rdommax>16</rdommax>
+               </rdom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>region</attrlabl>
+            <attrdef>Corresponding region names</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <udom>unknown</udom>
+            </attrdomv>
+         </attr>
+      </detailed>
+      <detailed>
+         <enttyp>
+            <enttypl>Sightings_and_Recaptures</enttypl>
+            <enttypd>NA</enttypd>
+            <enttypds>AFSC</enttypds>
+         </enttyp>
+         <attr>
+            <attrlabl>ID</attrlabl>
+            <attrdef>NA</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <rdom>
+                  <rdommin>1</rdommin>
+                  <rdommax>42398</rdommax>
+               </rdom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>UID</attrlabl>
+            <attrdef>Links to the Brands and Tags Table</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <rdom>
+                  <rdommin>309</rdommin>
+                  <rdommax>14062</rdommax>
+               </rdom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>brand</attrlabl>
+            <attrdef>characters/digits that make up the brand, all capital letters, this is not a Y/N field</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <udom>unknown</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>brandloc</attrlabl>
+            <attrdef>Location of brand on animal, L - left side/shoulder, R - right side/shoulder, B - across rump</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <udom>unknown</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>brandquality</attrlabl>
+            <attrdef>NA</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <udom>unknown</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>brandrecode</attrlabl>
+            <attrdef>yet to be determined, initially designed for unreadable but unique brands.</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <udom>unknown</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>tagnumber</attrlabl>
+            <attrdef>charcters/digits identified on the tag</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <udom>unknown</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>ltag</attrlabl>
+            <attrdef>NA</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <udom>unknown</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>rtag</attrlabl>
+            <attrdef>NA</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <udom>unknown</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>tagcolor</attrlabl>
+            <attrdef>Color of tag. B - Blue, G - green, O - orange, P - purple, R - red, V - violet, W - white, Y - yellow</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <udom>unknown</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>sitename</attrlabl>
+            <attrdef>name of site that corresponds with site description file, o.k. if not in site description table since resights</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <udom>unknown</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>month</attrlabl>
+            <attrdef>1 - 12</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <rdom>
+                  <rdommin>1</rdommin>
+                  <rdommax>12</rdommax>
+               </rdom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>day</attrlabl>
+            <attrdef>1 - 31</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <rdom>
+                  <rdommin>1</rdommin>
+                  <rdommax>31</rdommax>
+               </rdom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>year</attrlabl>
+            <attrdef>4 digit year designation</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <rdom>
+                  <rdommin>1987</rdommin>
+                  <rdommax>2010</rdommax>
+               </rdom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>pup</attrlabl>
+            <attrdef>to be determined</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <udom>unknown</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>time</attrlabl>
+            <attrdef>time of day if noted</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <udom>unknown</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>sex</attrlabl>
+            <attrdef>M - male, F - female, or U if unknown</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <udom>unknown</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>age</attrlabl>
+            <attrdef>NA</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <udom>unknown</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>beach</attrlabl>
+            <attrdef>if applicable, Marmot, Ugamak and maybe Sugarloaf</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <udom>unknown</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>dead</attrlabl>
+            <attrdef>Y - confirmed dead, blank otherwise</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <udom>unknown</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>rbi</attrlabl>
+            <attrdef>NA</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <udom>unknown</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>obs</attrlabl>
+            <attrdef>Initials of person who made the observation (full name in comments if not in observer/brander table)</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <udom>unknown</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>photo</attrlabl>
+            <attrdef>Y - if photo of branded animal was taken, blank otherwise.  Roll/frame or file name can go in comments</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <udom>unknown</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>comments</attrlabl>
+            <attrdef>Other info or more detailed info to previous fields</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <udom>unknown</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>F25</attrlabl>
+            <attrdef>NA</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <udom>unknown</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>F26</attrlabl>
+            <attrdef>NA</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <udom>unknown</udom>
+            </attrdomv>
+         </attr>
+      </detailed>
+      <detailed>
+         <enttyp>
+            <enttypl>Site_Description</enttypl>
+            <enttypd>NA</enttypd>
+            <enttypds>AFSC</enttypds>
+         </enttyp>
+         <attr>
+            <attrlabl>ID</attrlabl>
+            <attrdef>Unique ID for each sitename</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <rdom>
+                  <rdommin>1</rdommin>
+                  <rdommax>557</rdommax>
+               </rdom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>sitename</attrlabl>
+            <attrdef>NA</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <udom>unknown</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>gpsid</attrlabl>
+            <attrdef>ID code used for inputing name into a GPS; currently this is obsolete</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <udom>unknown</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>region</attrlabl>
+            <attrdef>Listed in Region Key Table (California, Oregon, Washington, British Columbia, etc).</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <udom>unknown</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>regionnumb</attrlabl>
+            <attrdef>Listed in Region Key table (starting at 1 for CA, and increasing as move west)</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <rdom>
+                  <rdommin>1</rdommin>
+                  <rdommax>16</rdommax>
+               </rdom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>islandnumber</attrlabl>
+            <attrdef>Unique number corresponding to each island</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <rdom>
+                  <rdommin>6</rdommin>
+                  <rdommax>981</rdommax>
+               </rdom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>sitenumber</attrlabl>
+            <attrdef>Number corresponding to each site on each island (if applicable)</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <rdom>
+                  <rdommin>0</rdommin>
+                  <rdommax>14</rdommax>
+               </rdom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>seqnumber</attrlabl>
+            <attrdef>Used in aerial survey flight planning</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <udom>unknown</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>redundant</attrlabl>
+            <attrdef>under development</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <udom>unknown</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>trendsite</attrlabl>
+            <attrdef>Sites used to estimate population trend (increase, decrease, stable) that have been consistently surveyed since the late 1970s</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <udom>unknown</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>rookery</attrlabl>
+            <attrdef>NA</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <udom>unknown</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>juvs</attrlabl>
+            <attrdef>Under development</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <udom>unknown</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>Latdeg-from</attrlabl>
+            <attrdef>NA</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <udom>unknown</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>Latmin-from</attrlabl>
+            <attrdef>NA</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <udom>unknown</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>Londeg-from</attrlabl>
+            <attrdef>NA</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <udom>unknown</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>Lonmin-from</attrlabl>
+            <attrdef>NA</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <udom>unknown</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>eastwest</attrlabl>
+            <attrdef>Hemisphere (east or west) for longitude designation</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <udom>unknown</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>Latdeg-to</attrlabl>
+            <attrdef>Site location; degrees latitude North; second of set of coordinates at other end of coastline for large sites</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <udom>unknown</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>Latmin-to</attrlabl>
+            <attrdef>Site location; minutes latitude North; second of set of coordinates at other end of coastline for large sites</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <udom>unknown</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>Longdeg-to</attrlabl>
+            <attrdef>Site location; degrees longitude; second of set of coordinates at other end of coastline for large sites</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <udom>unknown</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>Longmin-to</attrlabl>
+            <attrdef>Site location; minutes longitude; second of set of coordinates at other end of coastline for large sites</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <udom>unknown</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>substrcode</attrlabl>
+            <attrdef>Code used for substrate descriptions in Substrdesc field</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <udom>unknown</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>substrdesc</attrlabl>
+            <attrdef>Self-explanatory descriptions of substrate for selected sites</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <udom>unknown</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>orient</attrlabl>
+            <attrdef>Compass direction that site faces, perpendicular to beach</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <udom>unknown</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>comments</attrlabl>
+            <attrdef>Any comments about the site</attrdef>
+            <attrdefs>AFSC</attrdefs>
+            <attrdomv>
+               <udom>unknown</udom>
+            </attrdomv>
+         </attr>
+      </detailed>
+   </eainfo>
+   <fgdc-lineage>
+      <method>
+         <methtype>field</methtype>
+         <methdesc>Quarterly report for the summer 2008 survey</methdesc>
+         <methcite>
+            <citeinfo>
+               <pubdate>Unpublished material</pubdate>
+               <title>unknown</title>
+               <geoform>document</geoform>
+               <onlink>http://www.afsc.noaa.gov/Quarterly/jas2008/divrptsNMML1.htm</onlink>
+            </citeinfo>
+         </methcite>
+      </method>
+      <method>
+         <methtype>Field</methtype>
+         <methdesc>Summary for the 2008 survey</methdesc>
+         <methcite>
+            <citeinfo>
+               <origin>NA</origin>
+               <pubdate>Unpublished material</pubdate>
+               <title>NA</title>
+               <geoform>NA</geoform>
+               <onlink>http://www.afsc.noaa.gov/nmml/pdf/SSLNon-Pups2008memo.pdf</onlink>
+            </citeinfo>
+         </methcite>
+      </method>
+      <method>
+         <methtype>field</methtype>
+         <methdesc>Summary for the 2009 survey</methdesc>
+         <methcite>
+            <citeinfo>
+               <origin>NA</origin>
+               <pubdate>Unpublished material</pubdate>
+               <title>NA</title>
+               <geoform>NA</geoform>
+               <onlink>http://www.afsc.noaa.gov/nmml/PDF/SSL-Survey-09-memo-11-30-09.pdf</onlink>
+            </citeinfo>
+         </methcite>
+      </method>
+      <method>
+         <methtype>field</methtype>
+         <methdesc>Summary for the 2010 survey</methdesc>
+         <methcite>
+            <citeinfo>
+               <origin>NA</origin>
+               <pubdate>Unpublished material</pubdate>
+               <title>NA</title>
+               <geoform>NA</geoform>
+               <onlink>http://www.afsc.noaa.gov/nmml/PDF/SSL-Survey-memo-2010.pdf</onlink>
+            </citeinfo>
+         </methcite>
+      </method>
+      <method>
+         <methtype>field</methtype>
+         <methdesc>Summary for the 2005-2007 surveys</methdesc>
+         <methcite>
+            <citeinfo>
+               <origin>NA</origin>
+               <pubdate>Unpublished material</pubdate>
+               <title>NA</title>
+               <geoform>NA</geoform>
+               <onlink>http://www.afsc.noaa.gov/Publications/AFSC-TM/NOAA-TM-AFSC-183.pdf</onlink>
+            </citeinfo>
+         </methcite>
+      </method>
+      <method>
+         <methtype>field</methtype>
+         <methdesc>Tech Memo summarizing 2003-2004 surveys</methdesc>
+         <methcite>
+            <citeinfo>
+               <origin>NA</origin>
+               <pubdate>Unpublished material</pubdate>
+               <title>NA</title>
+               <geoform>NA</geoform>
+               <onlink>http://www.afsc.noaa.gov/Publications/AFSC-TM/NOAA-TM-AFSC-153.pdf</onlink>
+            </citeinfo>
+         </methcite>
+      </method>
+      <procstep>
+         <procdesc>NA</procdesc>
+         <procdate>Unknown</procdate>
+      </procstep>
+   </fgdc-lineage>
+</catalog-item>

@@ -1,0 +1,37 @@
+*****************************************************************
+Journal for accession number:  0128189
+Created on:                    2015-05-20 21:35:16 UTC
+By:                            Sheri Phillips,OC1,SSMC3 4659,7134911
+
+Source: Brain Fadely of NOAA Alaska Fisheries Science Center submitted data and 
+metadata to NCEI in submission package 8Y0CJT via S2N.
+
+Actions: An automated procedure copied the files from the submission package
+into this accession. A metadata record in ISO 19115-2 XML format was also
+generated from the information provided by the submitter and was copied into
+this accession.
+
+Files:
+
+about/ 
+This directory contains files created by NCEI staff, including 'negotiable'
+information between NCEI staff and the data provider.
+
+8Y0CJT-confirmation_email.txt - 
+  Email from the Send2NCEI web application to Brian Fadely confirming 
+  that NCEI has created an archival information package.
+
+0128189_lonlat.txt - 
+  Contains sample locations for these data.  Each row contains the geographical
+  position where these data were collected (longitude in the left column and
+  latitude in the right column, both in degrees).  NODC may have corrected 
+  geographic positions that seemed to be in error when generating this file.  
+  However, NODC did not change the original data files under the directory 
+  data/0-data/.
+
+0128189_map.jpg - 
+  Sample location map for these data.
+
+data/0-data/
+This directory contains files in their original format as downloaded to NCEI.
+
