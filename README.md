@@ -16,7 +16,7 @@ install.packages("shiny")
 
 ## App organization
 
-For this next step, you'll need to download the SeaLionApp folder in this repo. We'll follow 
+For this next step, you'll need to download the SeaLionApp folder in this repo. We'll follow along with the app.R file int he app folder. 
 
 
 ## Reactivity
