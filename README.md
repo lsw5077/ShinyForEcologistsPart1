@@ -16,12 +16,57 @@ install.packages("shiny")
 
 ## App organization
 
-For this next step, you'll need to download the SeaLionApp folder in this repo. We'll follow along with the app.R file int he app folder. 
+For this next step, you'll need to download the SeaLionApp folder in this repo. We'll follow along with the "app.R file" in the app folder. When you open app.R, you'll see some code at the top. This code runs outside the scope of the Shiny app and just sets up some things to make our lives easier while we build the app. The first lines load our package libraries, shiny and tidyverse:
+
+```r
+library(shiny)
+library(tidyverse)
+```
+In the next lines, we set up a custom ggplot theme, which we'll call "simpleTheme" so we can easily control the way our plot looks later:
+
+```r
+simpleTheme <- theme_bw()+
+    theme(panel.grid = element_blank(),
+          axis.text = element_text(size = 20, color = "black"),
+          axis.title = element_text(size = 24, color = "black"))
+```
+At this point, we're ready to load some data that we'll use in a minute. Since the purpose of the app is to show trends in pup count data at different sites, we're loading an R data object that contains a named list of the sites so we can let users choose from them in an interactive widget a little later. 
+
+```r
+siteChoices <- read_rds("data/siteChoices.rds")
+```
+A note: sometimes directories can be a little tricky. You'll notice that the lines above use the path "data/" because a published shiny app needs all the data to be in a folder called "data," which it automatically looks for in the app directory. However, if you download and modify this app, it may be easier to use the commented out lines, which will help the app find the right paths to run on your computer:
+
+```r
+
+# appPath <- dirname(rstudioapi::getSourceEditorContext()$path)
+# siteChoices <- read_rds(paste0(appPath, "/data/siteChoices.rds"))
+```
+
+## User Interface
 
 
-## Reactivity
+## Server
 
 
-## Widgets
+### Reactivity
+
+The core advantage of Shiny is reactivity. Reactivity is the ability of Shiny apps to receive user inputs and perform operations. We can see this in the "reactive({})" statement in the server section of the code:
+
+```r
+
+siteSelection <- reactive({
+                
+                site <- names(siteChoices)[as.numeric(input$site)] # The user's selection from the drop-down
+                
+                }) 
+```
+
+
+### Widgets
+
+
+
+
 
 ## Other Shiny resources
