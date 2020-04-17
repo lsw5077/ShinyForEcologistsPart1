@@ -83,6 +83,8 @@ ui <- shinyUI(navbarPage("Stellar Sealion Pup Count Trends"))
 
 Now we need to choose the layout of our first page, which we initiate using the tabPanel() function and assign it a title that will show up in the navbar at the top of the page. We're going to use a sidebarLayout  layout, which creates a shaded a side panel and a main panel. The side panel and main panel can both hold text, plots, maps, user input widgets, videos, and whatever else we need them to hold. The advantage of using a sidebarPanel() is that it draws the user's eye, so it's a great structure for communicating instructions and introductory material. Our sidepanel will hold a brief welcome for the user, made large using the h2() function, and a user input widget that prompts users to select a pup count site from a dropdown menu.
 
+We define the dropdown menu using the selectInput() function, which allows users to select one option. We give the drop-down widget a name, "site," which will pass to the server, and give it some human-friendly text to display to the reader. We then specify the choices to display to the reader, which again include an index for our code and a vector of human readable names to display to users. The choices are the siteChoices list we loaded above, and we will set the default selection to 1, the first index, which is a summary of all the sites. 
+
 In addition, we'll add a main panel, using the mainPanel() function, to the right of our sidebarPanel to hold our dynamically updating graph of pup trends. Inside the mainPanel, we just have our sealion plot, which we print using the plotOutput() function and the name of the plot, "trendPlot" (more on that later). So altogether, our user interface now looks like:
 
 ```r
@@ -157,27 +159,35 @@ ui <- shinyUI(navbarPage("Stellar Sealion Pup Count trends", # page title
 
 ## Server
 
-
-### Reactivity
-
-The core advantage of Shiny is reactivity. Reactivity is the ability of Shiny apps to receive user inputs and perform operations that are then returned to the user as updating visuals and values. We can see this in the "reactive({})" statement in the server section of the code:
+Now that we have our user interface set up, we need some cool data products for it to display! We'll start out by loading the sealion pup count data as we did for the named list of sites above (the note about file paths applies here too).
 
 ```r
 
-siteSelection <- reactive({
+server <- shinyServer(function(input, output, session) {
+
+            # seaLions <- read_rds(paste0(appPath, "/data/seaLions.rdata"))
+            
+            seaLions <- read_rds("data/seaLions.rds")
+  
+        })
+```
+
+Now we need to build the links between the user interface and the data wrangling and plotting functions we're about to describe. If you've ever built functions that depend on other functions, the structure of a shiny server is very similar. If you haven't, no worries! We'll walk through it step by step. 
+
+### Reactivity
+
+Another element of Shiny "magic" is reactivity. Reactivity is the ability of Shiny apps to receive user inputs and perform operations that are then returned to the user as updating visuals and values. We pass user input from the user interface to the server using reactive values. It's generally good practice to keep our reactive values simple and discrete, so that when (not if) our code breaks, we will have an easier time identifying the problem. 
+
+our first reactive value, siteSelection, will extract the name of the site specified by the user in the drop-down menu, which is why we used a named list. 
+
+```r
+            siteSelection <- reactive({
                 
                 site <- names(siteChoices)[as.numeric(input$site)] # The user's selection from the drop-down
                 
                 }) 
+
 ```
-
-
-
-### Widgets
-
-
-
-
 
 ## Other Shiny resources
 
