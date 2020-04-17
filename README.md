@@ -1,10 +1,10 @@
 # Break this app: an ecologist's intro to Shiny
 
-Hello and welcome to my first tutorial on the R Shiny framework! Shiny is a framework for building interactive webpages using the R programming language. That means you can build powerful, customizable online tools to engage stakeholders in research communication using R programming skills you might already have. In this tutorial, we'll learn how to build a Shiny app that shows temporal trends in Stellar sealion pup counts at a user-specified count site over time. This tutorial is meant to be an absolute basic intro to Shiny, so if you're already making Shiny apps it might be a bit too basic for you. If you're getting ready to build your first app, you're in the right place!
+Hello and welcome to my first Shiny tutorial! Shiny is a framework for building interactive webpages using the R programming language. That means you can build powerful, customizable online tools to engage stakeholders in research communication using tools and analyses you've already developed. In this tutorial, we'll learn how to build a Shiny app that shows temporal trends in Stellar sealion pup counts at a user-specified count site over time. This tutorial is meant to be an absolute basic intro to Shiny, so if you're already making Shiny apps it might be a bit too basic for you. If you're getting ready to build your first app, you're in the right place!
 
 ## What do I need to make a Shiny app?
 
-To get started, you'll need to have R and RStudio installed on your computer. The main coding prerequisite to building our sealion Shiny app is a basic understanding of the Tidyverse, a collection of R packages for data science. If you're new to the Tidyverse, I highly recommend the book R for Data Science, as well as the unofficial solutions manual. If you haven't used tidyverse before, no worries! We'll go over each function we use in detail. 
+To get started, you'll need to have [R](https://www.r-project.org/) and [RStudio](https://rstudio.com/) installed on your computer. The main coding prerequisite to building our sealion Shiny app is a basic understanding of the [Tidyverse](https://www.tidyverse.org/), a collection of R packages for data science. If you're new to the Tidyverse, I highly recommend the book [R for Data Science](https://r4ds.had.co.nz/), as well as the [unofficial solutions manual](https://jrnold.github.io/r4ds-exercise-solutions/). If you haven't used Tidyverse before, no worries! We'll go over each function we use in detail. 
 
 Ready to get started? Awesome! Let's open RStudio and make sure our required packages are installed if you don't have them already:  
 
@@ -35,7 +35,7 @@ Now we're ready to load our data! The purpose of the app is to show trends in pu
 ```r
 siteChoices <- read_rds("data/siteChoices.rds")
 ```
-A note: sometimes directories can be a little tricky. You'll notice that the lines above use the path "data/" because a published shiny app needs all the data to be in a folder called "data," which it automatically looks for in the app directory. However, if you download and modify this app, sometimes your paths may end up a little different. When you're running the app locally on your computer, it may be easier to use the commented out lines, which will help the app find the right paths to run on your computer:
+A note: sometimes directories can be a little tricky. You'll notice that the lines above use the path "data/" because a published Shiny app needs all the data to be in a folder called "data," which it automatically looks for in the app directory. However, if you download and modify this app, sometimes your paths may end up a little different. When you're running the app locally on your computer, it may be easier to use the commented out lines, which will help the app find the right paths to run on your computer:
 
 ```r
 
@@ -52,7 +52,7 @@ Shiny apps need fundamental elements: the user interface and server. The user in
 ui <- shinyUI()
 
 ```
-The second fundamental element, the server, does all the background work to run the app. The  "magic" of a shiny app is the feedback between server and ui: the user manipulates the interactive elements in the ui, then the server process userinput and returns dynamic data and graphics elements. We define the server using the ```shinyServer()``` function:
+The second fundamental element, the server, does all the background work to run the app. The  "magic" of a Shiny app is reactivity, the feedback between server and ui: the user manipulates the interactive elements in the ui, then the server process userinput and returns dynamic data and graphics elements. We define the server using the ```shinyServer()``` function:
 
 ```r
 server <- shinyServer(function(input, output, session){
@@ -71,7 +71,7 @@ Now that we have a handle on the basic structure of the app, let's dive into our
 
 ## UI
 
-The first thing we need to decide for our new app's ui is how we want the text and visualization to be organized on the pages. Remember that shiny apps make websites, so we have to plan out both the overall structure of the app's pages and how they relate, as well as the layout and organization of each page. The organization of the user interface code is consequently hierarchical, with each page's elements nested in a page layout, which is in turn nested in the whole app's layout. 
+The first thing we need to decide for our new app's ui is how we want the text and visualization to be organized on the pages. Remember that Shiny apps make websites, so we have to plan out both the overall structure of the app's pages and how they relate, as well as the layout and organization of each page. The organization of the user interface code is consequently hierarchical, with each page's elements nested in a page layout, which is in turn nested in the whole app's layout. 
 
 We'll start out with an app layout that creates clickable tabs across the top, called a "navbarPage." I like navbarPage because it looks clean and professional, but there are lots of other options. we define this structure using the ```navbarPage()``` function. We'll define the title of our navbarPage, which will show up in the top left, by typing it in quotes: "Stellar Sealion Pup Count Trends." So we've updated our empty shinyUI function from above to read:
 
@@ -172,7 +172,7 @@ server <- shinyServer(function(input, output, session) {
         })
 ```
 
-Now we need to build the links between the user interface and the data wrangling and plotting functions we're about to describe. If you've ever built functions that depend on other functions, the structure of a shiny server is very similar. If you haven't, no worries! We'll walk through it step by step. 
+Now we need to build the links between the user interface and the data wrangling and plotting functions we're about to describe. If you've ever built functions that depend on other functions, the structure of a Shiny server is very similar. If you haven't, no worries! We'll walk through it step by step. 
 
 ### Reactivity
 
@@ -231,7 +231,7 @@ ggplot(siteDat) + # Make a beautiful (simple!) plot
             })
 ```
 
-At this point, we should have a fully functional shiny app that shows sealion pup count data at a site of the user's choosing. We can and will add more later, but it's a good start. We can run our new app using the "Run App" button that should have appeared in the upper right hand corner of your RStudio window. It will launch the app in a browser window. 
+At this point, we should have a fully functional Shiny app that shows sealion pup count data at a site of the user's choosing. We can and will add more later, but it's a good start. We can run our new app using the "Run App" button that should have appeared in the upper right hand corner of your RStudio window. It will launch the app in a browser window. 
 
 ## Other Shiny resources
 
@@ -241,4 +241,4 @@ At this point, we should have a fully functional shiny app that shows sealion pu
 
 ## Why break this app?
 
-I called this tutorial "Break this app" in the hopes that you would do just that: take the example app and break it. Then fix it, add your own elements to it, and adapt the basic structure for your project. Coding a shiny app is likey different than anything you've coded before, and the best way to learn is to simply change one or a few things at a time and observe the effects. Just pick something and change it. You can start simple: text color, size, or content, graph style, whatever you feel like. If it works, you learned something. If it doesn't, you learned something. See you soon! 
+I called this tutorial "Break this app" in the hopes that you would do just that: take the example app and break it. Then fix it, add your own elements to it, and adapt the basic structure for your project. Coding a Shiny app is likey different than anything you've coded before, and the best way to learn is to simply change one or a few things at a time and observe the effects. Just pick something and change it. You can start simple: text color, size, or content, graph style, whatever you feel like. If it works, you learned something. If it doesn't, you learned something. Happy coding!
