@@ -51,8 +51,11 @@ Shiny apps are built out of two fundamental elements: the user interface and ser
 
 ui <- shinyUI()
 
+```
+
 The server controls all the operations that make the app run. There is a feedback between server and ui where the user manipulates the interactive elements in the ui, then the server process their input and returns data and graphics elements. We define the server using the shinyServer() function:
 
+```r
 server <- shinyServer(function(input, output, session){
 
 })
