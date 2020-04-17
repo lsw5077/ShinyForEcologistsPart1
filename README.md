@@ -16,7 +16,7 @@ install.packages("shiny")
 
 ## File organization
 
-For this next step, download or clone this repo if you haven't already. We'll follow along with the "app.R file" in the app folder. When you open app.R, you'll see some code at the top that sets up our workspace. We put these lines outside the main app code because that way they're run and loaded into the environment just once, which reduces memory needs and run time. The first lines load our required package libraries, shiny and tidyverse:
+For this next step, download or clone this repo if you haven't already. We'll follow along with the "app.R file" in the app folder.  When you open app.R, you'll see some code at the top that sets up our workspace. We put these lines outside the main app code because that way they're run and loaded into the environment just once, which reduces memory needs and run time. The first lines load our required package libraries, shiny and tidyverse:
 
 ```r
 library(shiny)
@@ -206,6 +206,8 @@ Notice that we use ```dplyr::filter()``` with the ::, which indicates that we wa
 
 ```
 
+### Plotting
+
 Now that we have our data reactive values set up, it's time to make our graph! We bring our user-specified filter data into the scope of the plot using the ```data()``` reactive value and assign it to an object called "siteDat." We will create a line plot with points on top of the lines using the ```renderPlot({})``` function, which we will designate as an output object by calling it ```output$trendPlot```. If you refer back to the UI code above, you will notice that the mainPanel on the "Graphing pup counts" page displays this graph by calling  ``` plotOutput(trendPlot)```.
 
 We will build the pup count trend plot using the ```ggplot()``` function from the ggplot2 package, which we loaded as part of the tidyverse along with dplyr. ggplot graphics are built in layers, so each line will visually appear on top of the one before it. That means that each time we add a new graphics argument, it will inherit data and aestheteics (the x and y specification) unless we choose to overwrite it. 
@@ -229,7 +231,13 @@ ggplot(siteDat) + # Make a beautiful (simple!) plot
             })
 ```
 
+At this point, we should have a fully functional shiny app that shows sealion pup count data at a site of the user's choosing. We can and will add more later, but it's a good start. We can run our new app using the "Run App" button that should have appeared in the upper right hand corner of your RStudio window. It will launch the app in a browser window. 
+
 ## Other Shiny resources
+
+The Shiny app gallery <https://shiny.rstudio.com/gallery/>
+
+
 
 ## Why break this app?
 
