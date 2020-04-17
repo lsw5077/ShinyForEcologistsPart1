@@ -1,0 +1,12 @@
+name: SeaLionApp
+title: SeaLionApp
+username:
+account: lwszola
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2074172
+bundleId: 3029320
+url: https://lwszola.shinyapps.io/SeaLionApp/
+when: 1587162986.68982
+asMultiple: FALSE
+asStatic: FALSE
