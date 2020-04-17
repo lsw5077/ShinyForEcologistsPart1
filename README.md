@@ -176,7 +176,7 @@ Now we need to build the links between the user interface and the data wrangling
 
 ### Reactivity
 
-Another element of Shiny "magic" is reactivity. Reactivity is the ability of Shiny apps to receive user inputs and perform operations that are then returned to the user as updating visuals and values. We pass user input from the user interface to the server using reactive values. It's generally good practice to keep our reactive values simple and discrete, so that when (not if) our code breaks, we will have an easier time identifying the problem. 
+Reactivity is the ability of Shiny apps to receive user inputs and perform operations that are then returned to the user as updating visuals and values. We pass user input from the user interface to the server using reactive values. It's generally good practice to keep our reactive values simple and discrete, so that when (not if) our code breaks, we will have an easier time identifying the problem. 
 
 our first reactive value, siteSelection, will extract the name of the site specified by the user in the drop-down menu, which is why we used a named list. 
 
@@ -188,6 +188,27 @@ our first reactive value, siteSelection, will extract the name of the site speci
                 }) 
 
 ```
+
+Once we user has selected a site, we need to filter our data to include only observations from the site the user selected. We will accomplish our data filtering using our siteSelection() variable from above (notice how it's written like a function) and the filter function from the dplyr package. We start our filtering codeblock by specifing the dataframe we want to use, seaLions. We then add a pipe symbol (%>%), which basically tells r "take everything that has happened up to this point in this code block, and continue it down to the next line." we then filter our dataframe to include only those observations whose "site" variable matches exactly the "site" reactive variable defined above. 
+
+Notice that we use dplyr::filter() with the ::, which indicates that we want to use the filter function found in the dplyr package. I did this because it's a good habit to specify packages in large coding projects you might share with other people, but also because we might want to add some spatial components in a future tutorial. Lots of spatial packages also have a filter() function, so specifying the package now saves us some future headaches. 
+
+```r
+
+            data <- reactive({ # Subsetting the data based on user input
+
+                    site <- siteSelection() # referencing site-selection from above
+
+                    siteDat <- seaLions %>% # Keep only data from the user-specified site.
+                               dplyr::filter(sitename == site)
+
+            })
+
+```
+
+Now that we have our data reactive values set up, it's time to make our graph! We will create a line plot with points on top of the lines using the renderPlot({}) function, which we will designate as an output object by calling it output$trendPlot. If you refer back to the UI code above, you will notice that the mainPanel on the "Graphing pup counts" page displays this graph by calling  ```r plotOutput(trendPlot)```.
+
+We build our 
 
 ## Other Shiny resources
 
