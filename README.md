@@ -14,7 +14,7 @@ install.packages("tidyverse")
 install.packages("shiny")
 ```
 
-## App organization
+## File organization
 
 For this next step, you'll need to download the SeaLionApp folder in this repo. We'll follow along with the "app.R file" in the app folder. When you open app.R, you'll see some code at the top. This code runs outside the scope of the Shiny app and just sets up some things to make our lives easier while we build the app. The first lines load our package libraries, shiny and tidyverse:
 
@@ -43,7 +43,24 @@ A note: sometimes directories can be a little tricky. You'll notice that the lin
 # siteChoices <- read_rds(paste0(appPath, "/data/siteChoices.rds"))
 ```
 
-## User Interface
+## App structure
+
+Shiny apps are built out of two fundamental elements: the user interface and server. The user interface (ui) controls how the shiny app looks to the user. It contains all the static text and defines the appearence of interactive elements. We define the user interface using the shinyUI function:
+
+```r
+
+ui <- shinyUI()
+
+The server controls all the operations that make the app run. There is a feedback between server and ui where the user manipulates the interactive elements in the ui, then the server process their input and returns data and graphics elements. We define the server using the shinyServer() function:
+
+server <- shinyServer(function(input, output, session){
+
+})
+
+```
+
+Shiny assembles the server and ui into a cohesive 
+
 
 
 ## Server
@@ -61,6 +78,7 @@ siteSelection <- reactive({
                 
                 }) 
 ```
+
 
 
 ### Widgets
