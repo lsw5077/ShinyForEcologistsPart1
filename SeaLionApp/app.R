@@ -47,17 +47,21 @@ ui <- shinyUI(navbarPage("Stellar Sealion Pup Count trends", # page title
                              ))),
                      tabPanel("Citations", # Must cite the data collectors! In a nice new tab panel! 
                               
-                              wellPanel("This app was created by Lyndsie S. Wszola at the University of Nebraska
-                                        for a tutorial on the R Shiny framework. The Stellar sealion pupcount dataset
-                                        was collected by The National Marine Fisheries Service. More information on 
+                              wellPanel("This app was created by Lyndsie S. Wszola
+                                        at the University of Nebraska for instructional
+                                        purposes only. The Stellar sealion pupcount 
+                                        dataset was collected by The National Marine
+                                        Fisheries Service. More information on 
                                         the original dataset can be found",
                                         
                                         tags$a(href="https://www.fisheries.noaa.gov/resource/data/counts-alaska-steller-sea-lion-pups-conducted-rookeries-alaska-1961-2015", "here. "),
                                         
-                                        "The sealion pupcount data has been slightly summarized
-                                        and aggregated for this app. The data visualizaions contained in the app are
-                                        therefore purely for programming education purposes and do not represent any
-                                        official finding or policy.") 
+                                        "The sealion pupcount data has been slightly
+                                         summarized and aggregated for this app. The
+                                         data visualizaions contained in the app are
+                                         therefore purely for educational purposes
+                                         and do not represent any
+                                         official finding or policy.") 
                               # We must have a disclaimer so that people don't misuse/misinterpret anything here.
                               
                               )
