@@ -1,6 +1,6 @@
 # Break this app: an ecologist's intro to Shiny
 
-Hello and welcome to my first Shiny tutorial! Shiny is a framework for building interactive webpages using the R programming language. That means you can build powerful, customizable online tools to engage stakeholders in research communication using tools and analyses you've already developed. In this tutorial, we'll learn how to build a Shiny app that shows temporal trends in Stellar sealion pup counts at a user-specified count site over time. This tutorial is meant to be an absolute basic intro to Shiny, so if you're already making Shiny apps it might be a bit too basic for you. If you're getting ready to build your first app, you're in the right place!
+Hello and welcome to my first Shiny tutorial! Shiny is a framework for building interactive webpages using the R programming language. That means you can build powerful, customizable online tools to engage stakeholders in research communication using tools and analyses you've already developed. In this tutorial, we'll learn how to build a Shiny app that shows [temporal trends in Stellar sealion pup counts at a user-specified count site over time](https://lwszola.shinyapps.io/SeaLionApp/). This tutorial is meant to be an absolute basic intro to Shiny, so if you're already making Shiny apps it might be a bit too basic for you. If you're getting ready to build your first app, you're in the right place!
 
 ## What do I need to make a Shiny app?
 
