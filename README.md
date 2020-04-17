@@ -235,9 +235,8 @@ At this point, we should have a fully functional shiny app that shows sealion pu
 
 ## Other Shiny resources
 
-The Shiny app gallery <https://shiny.rstudio.com/gallery/>
-
-
+[The Shiny app gallery] (https://shiny.rstudio.com/gallery/)
+[Mastering Shiny book] (https://mastering-shiny.org/)
 
 ## Why break this app?
 
