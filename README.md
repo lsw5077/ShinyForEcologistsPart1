@@ -45,14 +45,14 @@ A note: sometimes directories can be a little tricky. You'll notice that the lin
 
 ## Basic app structure
 
-Shiny apps need fundamental elements: the user interface and server. The user interface (ui), as the name suggests, creates all the elements that the user engages with. It contains all the static text and defines the appearence of interactive elements. We define the user interface using the shinyUI function:
+Shiny apps need fundamental elements: the user interface and server. The user interface (ui), as the name suggests, creates all the elements that the user engages with. It contains all the static text and defines the appearence of interactive elements. We define the user interface using the ```shinyUI``` function:
 
 ```r
 
 ui <- shinyUI()
 
 ```
-The second fundamental element, the server, does all the background work to run the app. The  "magic" of a shiny app is the feedback between server and ui: the user manipulates the interactive elements in the ui, then the server process userinput and returns dynamic data and graphics elements. We define the server using the shinyServer() function:
+The second fundamental element, the server, does all the background work to run the app. The  "magic" of a shiny app is the feedback between server and ui: the user manipulates the interactive elements in the ui, then the server process userinput and returns dynamic data and graphics elements. We define the server using the ```shinyServer()``` function:
 
 ```r
 server <- shinyServer(function(input, output, session){
@@ -61,7 +61,7 @@ server <- shinyServer(function(input, output, session){
 
 ```
 
-Shiny assembles the server and ui into a cohesive unit using the shinyApp() function:
+Shiny assembles the server and ui into a cohesive unit using the ```shinyApp()``` function:
 
 ```r
 shinyApp(ui = ui, server = server)
@@ -73,7 +73,7 @@ Now that we have a handle on the basic structure of the app, let's dive into our
 
 The first thing we need to decide for our new app's ui is how we want the text and visualization to be organized on the pages. Remember that shiny apps make websites, so we have to plan out both the overall structure of the app's pages and how they relate, as well as the layout and organization of each page. The organization of the user interface code is consequently hierarchical, with each page's elements nested in a page layout, which is in turn nested in the whole app's layout. 
 
-We'll start out with an app layout that creates clickable tabs across the top, called a "navbarPage." I like navbarPage because it looks clean and professional, but there are lots of other options. we define this structure using the "navbarPage()" function. We'll define the title of our navbarPage, which will show up in the top left, by typing it in quotes: "Stellar Sealion Pup Count Trends." So we've updated our empty shinyUI function from above to read:
+We'll start out with an app layout that creates clickable tabs across the top, called a "navbarPage." I like navbarPage because it looks clean and professional, but there are lots of other options. we define this structure using the ```navbarPage()``` function. We'll define the title of our navbarPage, which will show up in the top left, by typing it in quotes: "Stellar Sealion Pup Count Trends." So we've updated our empty shinyUI function from above to read:
 
 ```r
 
@@ -81,11 +81,11 @@ ui <- shinyUI(navbarPage("Stellar Sealion Pup Count Trends"))
 
 ```
 
-Now we need to choose the layout of our first page, which we initiate using the tabPanel() function and assign it a title that will show up in the navbar at the top of the page. We're going to use a sidebarLayout  layout, which creates a shaded a side panel and a main panel. The side panel and main panel can both hold text, plots, maps, user input widgets, videos, and whatever else we need them to hold. The advantage of using a sidebarPanel() is that it draws the user's eye, so it's a great structure for communicating instructions and introductory material. Our sidepanel will hold a brief welcome for the user, made large using the h2() function, and a user input widget that prompts users to select a pup count site from a dropdown menu.
+Now we need to choose the layout of our first page, which we initiate using the ```tabPanel()``` function and assign it a title that will show up in the navbar at the top of the page. We're going to use a sidebarLayout  layout, which creates a shaded a side panel and a main panel. The side panel and main panel can both hold text, plots, maps, user input widgets, videos, and whatever else we need them to hold. The advantage of using a sidebarPanel() is that it draws the user's eye, so it's a great structure for communicating instructions and introductory material. Our sidepanel will hold a brief welcome for the user, made large using the ```h2()``` function, and a user input widget that prompts users to select a pup count site from a dropdown menu.
 
-We define the dropdown menu using the selectInput() function, which allows users to select one option. We give the drop-down widget a name, "site," which will pass to the server, and give it some human-friendly text to display to the reader. We then specify the choices to display to the reader, which again include an index for our code and a vector of human readable names to display to users. The choices are the siteChoices list we loaded above, and we will set the default selection to 1, the first index, which is a summary of all the sites. 
+We define the dropdown menu using the ```selectInput()``` function, which allows users to select one option. We give the drop-down widget a name, "site," which will pass to the server, and give it some human-friendly text to display to the reader. We then specify the choices to display to the reader, which again include an index for our code and a vector of human readable names to display to users. The choices are the siteChoices list we loaded above, and we will set the default selection to 1, the first index, which is a summary of all the sites. 
 
-In addition, we'll add a main panel, using the mainPanel() function, to the right of our sidebarPanel to hold our dynamically updating graph of pup trends. Inside the mainPanel, we just have our sealion plot, which we print using the plotOutput() function and the name of the plot, "trendPlot" (more on that later). So altogether, our user interface now looks like:
+In addition, we'll add a main panel, using the ```mainPanel()``` function, to the right of our sidebarPanel to hold our dynamically updating graph of pup trends. Inside the mainPanel, we just have our sealion plot, which we print using the ```plotOutput()``` function and the name of the plot, "trendPlot" (more on that later). So altogether, our user interface now looks like:
 
 ```r
 ui <- shinyUI(navbarPage("Stellar Sealion Pup Count trends", # page title
@@ -189,9 +189,9 @@ our first reactive value, siteSelection, will extract the name of the site speci
 
 ```
 
-Once we user has selected a site, we need to filter our data to include only observations from the site the user selected. We will accomplish our data filtering using our siteSelection() variable from above (notice how it's written like a function) and the filter function from the dplyr package. We start our filtering codeblock by specifing the dataframe we want to use, seaLions. We then add a pipe symbol (%>%), which basically tells r "take everything that has happened up to this point in this code block, and continue it down to the next line." we then filter our dataframe to include only those observations whose "site" variable matches exactly the "site" reactive variable defined above. 
+Once we user has selected a site, we need to filter our data to include only observations from the site the user selected. We will accomplish our data filtering using our siteSelection() variable from above (notice how it's written like a function) and the ```filter()``` function from the dplyr package. We start our dplyr statement by specifing the dataframe we want to use, seaLions. We then add a pipe symbol (%>%), which basically tells r "take everything that has happened up to this point in this code block, and continue it down to the next line." we then filter our dataframe to include only those observations whose "site" variable matches exactly the "site" reactive variable defined above. 
 
-Notice that we use dplyr::filter() with the ::, which indicates that we want to use the filter function found in the dplyr package. I did this because it's a good habit to specify packages in large coding projects you might share with other people, but also because we might want to add some spatial components in a future tutorial. Lots of spatial packages also have a filter() function, so specifying the package now saves us some future headaches. 
+Notice that we use ```dplyr::filter()``` with the ::, which indicates that we want to use the ```filter()``` function found in the dplyr package. I did this because it's a good habit to specify packages in large coding projects you might share with other people, but also because we might want to add some spatial components in a future tutorial. Several spatial packages also have a ```filter()``` function, so specifying the package now saves us some future headaches. 
 
 ```r
 
@@ -206,11 +206,11 @@ Notice that we use dplyr::filter() with the ::, which indicates that we want to 
 
 ```
 
-Now that we have our data reactive values set up, it's time to make our graph! We bring our user-specified filter data into the scope of the plot using the data() reactive value and assign it to an object called "siteDat." We will create a line plot with points on top of the lines using the renderPlot({}) function, which we will designate as an output object by calling it output$trendPlot. If you refer back to the UI code above, you will notice that the mainPanel on the "Graphing pup counts" page displays this graph by calling  ``` plotOutput(trendPlot)```.
+Now that we have our data reactive values set up, it's time to make our graph! We bring our user-specified filter data into the scope of the plot using the ```data()``` reactive value and assign it to an object called "siteDat." We will create a line plot with points on top of the lines using the ```renderPlot({})``` function, which we will designate as an output object by calling it ```output$trendPlot```. If you refer back to the UI code above, you will notice that the mainPanel on the "Graphing pup counts" page displays this graph by calling  ``` plotOutput(trendPlot)```.
 
-We will build the pup count trend plot using the ggplot() function from the ggplot2 package, which we loaded as part of the tidyverse along with dplyr. ggplot graphics are built in layers, so each line will visually appear on top of the one before it. That means that each time we add a new graphics argument, it will inherit data and aestheteics (the x and y specification) unless we choose to overwrite it. 
+We will build the pup count trend plot using the ```ggplot()``` function from the ggplot2 package, which we loaded as part of the tidyverse along with dplyr. ggplot graphics are built in layers, so each line will visually appear on top of the one before it. That means that each time we add a new graphics argument, it will inherit data and aestheteics (the x and y specification) unless we choose to overwrite it. 
 
-We start our pupcount trend plot with a line graph using the geom_line() function that creates a continuous line whose x coordinates are the years, specified as numbers just in chase, and whose y coordinates are the mean pups counted in each year. We will then add points on top of the line using the geom_point() function, with the same x and y coordinates. The default point size is just a little smaller than I want it to be, so we'll make it bigger by specifying size = 3. Next, we specify the x and y limits of the plot. The coord_cartesian() function allows us to specify x and or y limits. We'll set the y axis to adjust with the data. By specifying htat ```ylim = c(0, max(siteDat$meanPups + 5))```, we tell ggplot to limit the y axis to between 0 and 5 pups above our maximum number of mean observed pups. Next, we set the limits of our x axis. We'll keep the years constant so the user can see the different time spans of data collection. We specify the limits and breaks, where the axis ticks should go, ```using the scale_x_continuous()``` function. Finally, we add some axis labels usin the ```labs()``` function and add the theme we set up at the beginning to make the graph layout nice and simple. 
+We start our pupcount trend plot with a line graph using the ```geom_line()``` function that creates a continuous line whose x coordinates are the years, specified as numbers just in chase, and whose y coordinates are the mean pups counted in each year. We will then add points on top of the line using the ```geom_point()``` function, with the same x and y coordinates. The default point size is just a little smaller than I want it to be, so we'll make it bigger by specifying size = 3. Next, we specify the x and y limits of the plot. The ```coord_cartesian()``` function allows us to specify x and or y limits. We'll set the y axis to adjust with the data. By specifying htat ```ylim = c(0, max(siteDat$meanPups + 5))```, we tell ggplot to limit the y axis to between 0 and 5 pups above our maximum number of mean observed pups. Next, we set the limits of our x axis. We'll keep the years constant so the user can see the different time spans of data collection. We specify the limits and breaks, where the axis ticks should go, ```using the scale_x_continuous()``` function. Finally, we add some axis labels usin the ```labs()``` function and add the theme we set up at the beginning to make the graph layout nice and simple. 
 
 ```r
 
