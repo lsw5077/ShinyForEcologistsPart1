@@ -14,7 +14,7 @@ install.packages("tidyverse")
 install.packages("shiny")
 ```
 
-## File organization
+## Getting started
 
 To start a new shiny app, we would make a new directory, then click File>New File>Shiny Web App. Since we already have an app to work with, we'll instead download or clone this repo if you haven't already. We'll follow along with the "app.R file" in the app folder.  When you open app.R, you'll see some code at the top that sets up our workspace. We put these lines outside the main app code because that way they're run and loaded into the environment just once, which reduces memory needs and run time. The first lines load our required package libraries, shiny and tidyverse:
 
@@ -241,4 +241,4 @@ At this point, we should have a fully functional Shiny app that shows sealion pu
 
 ## Why break this app?
 
-I called this tutorial "Break this app" in the hopes that you would do just that: take the example app and break it. Then fix it, add your own elements to it, and adapt the basic structure for your project. Coding a Shiny app is likey different than anything you've coded before, and the best way to learn is to simply change one or a few things at a time and observe the effects. Just pick something and change it. You can start simple: text color, size, or content, graph style, whatever you feel like. If it works, you learned something. If it doesn't, you learned something. Happy coding!
+I called this tutorial "Break this app" in the hopes that you would do just that: take the example app and break it. Then fix it, add your own elements to it, and adapt the basic structure for your project. The best way to learn Shiny is to simply change one or a few things at a time and observe the effects. Just pick something and change it. You can start simple: text color, size, or content, graph style, and then work up to things like changing page layouts and adding output. If it works, great! If it doesn't, you still learned something. Good luck and happy coding!
