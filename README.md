@@ -16,7 +16,7 @@ install.packages("shiny")
 
 ## File organization
 
-For this next step, download or clone this repo if you haven't already. We'll follow along with the "app.R file" in the app folder.  When you open app.R, you'll see some code at the top that sets up our workspace. We put these lines outside the main app code because that way they're run and loaded into the environment just once, which reduces memory needs and run time. The first lines load our required package libraries, shiny and tidyverse:
+To start a new shiny app, we would make a new directory, then click File>New File>Shiny Web App. Since we already have an app to work with, we'll instead download or clone this repo if you haven't already. We'll follow along with the "app.R file" in the app folder.  When you open app.R, you'll see some code at the top that sets up our workspace. We put these lines outside the main app code because that way they're run and loaded into the environment just once, which reduces memory needs and run time. The first lines load our required package libraries, shiny and tidyverse:
 
 ```r
 library(shiny)
