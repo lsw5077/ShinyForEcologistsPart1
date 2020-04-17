@@ -206,9 +206,28 @@ Notice that we use dplyr::filter() with the ::, which indicates that we want to 
 
 ```
 
-Now that we have our data reactive values set up, it's time to make our graph! We will create a line plot with points on top of the lines using the renderPlot({}) function, which we will designate as an output object by calling it output$trendPlot. If you refer back to the UI code above, you will notice that the mainPanel on the "Graphing pup counts" page displays this graph by calling  ```r plotOutput(trendPlot)```.
+Now that we have our data reactive values set up, it's time to make our graph! We bring our user-specified filter data into the scope of the plot using the data() reactive value and assign it to an object called "siteDat." We will create a line plot with points on top of the lines using the renderPlot({}) function, which we will designate as an output object by calling it output$trendPlot. If you refer back to the UI code above, you will notice that the mainPanel on the "Graphing pup counts" page displays this graph by calling  ``` plotOutput(trendPlot)```.
 
-We build our 
+We will build the pup count trend plot using the ggplot() function from the ggplot2 package, which we loaded as part of the tidyverse along with dplyr. ggplot graphics are built in layers, so each line will visually appear on top of the one before it. That means that each time we add a new graphics argument, it will inherit data and aestheteics (the x and y specification) unless we choose to overwrite it. 
+
+We start our pupcount trend plot with a line graph using the geom_line() function that creates a continuous line whose x coordinates are the years, specified as numbers just in chase, and whose y coordinates are the mean pups counted in each year. We will then add points on top of the line using the geom_point() function, with the same x and y coordinates. The default point size is just a little smaller than I want it to be, so we'll make it bigger by specifying size = 3. Next, we specify the x and y limits of the plot. The coord_cartesian() function allows us to specify x and or y limits. We'll set the y axis to adjust with the data. By specifying htat ```ylim = c(0, max(siteDat$meanPups + 5))```, we tell ggplot to limit the y axis to between 0 and 5 pups above our maximum number of mean observed pups. Next, we set the limits of our x axis. We'll keep the years constant so the user can see the different time spans of data collection. We specify the limits and breaks, where the axis ticks should go, ```using the scale_x_continuous()``` function. Finally, we add some axis labels usin the ```labs()``` function and add the theme we set up at the beginning to make the graph layout nice and simple. 
+
+```r
+
+output$trendPlot <- renderPlot({
+
+siteDat <- data() # Source our data from above
+
+ggplot(siteDat) + # Make a beautiful (simple!) plot
+      geom_line(aes(x = as.numeric(year), y = meanPups)) +
+      geom_point(aes(x = as.numeric(year), y = meanPups), size = 3) +
+      coord_cartesian(ylim = c(0, max(siteDat$meanPups + 5))) +
+      scale_x_continuous(limits = c(1960, 2015), breaks = seq(1960, 2020, 10)) +
+      labs(x = "Year", y = "Mean pups per observation") +
+      simpleTheme
+
+            })
+```
 
 ## Other Shiny resources
 
