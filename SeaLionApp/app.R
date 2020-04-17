@@ -29,7 +29,7 @@ ui <- shinyUI(navbarPage("Stellar Sealion Pup Count trends", # page title
                     tabPanel("Graphing pup counts", # Tab panel title
                              sidebarLayout( # give us a nice data selection side bar!
                                 sidebarPanel(
-                                    h2("Welcome to the Stellar Sea Lion vizualization
+                                    h2("Welcome to the Stellar Sealion vizualization
                                        app! "), # Some nice welcoming text for users
                                     br(), br(),
 
